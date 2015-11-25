@@ -1,4 +1,4 @@
-This is a list of conferences for frontend and Node.js developers.
+This is a list of conferences for frontend and Node.js developers. The list is going to be updated as the new events are announced.
 
 Please send Pull requests to add events to the list. Please do not add workshops and user group meetups.
 
@@ -16,7 +16,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 ### March
 
 * [Fluent](fluentconf.com) – March 8-10, 2016 – San Francisco, CA, USA
-
+* [SmashingConf Oxford](http://smashingconf.com/speakers) – March 15-16, 2016 - Oxford, UK
 * [EmberConf](http://emberconf.com/) – March 29-30, 2016 – Portland, OR, USA
 
 ### April
