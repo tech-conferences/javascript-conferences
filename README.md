@@ -16,16 +16,19 @@ Please send Pull requests to add events to the list. Please do not add workshops
 ### March
 
 * [Fluent](fluentconf.com) – March 8-10, 2016 – San Francisco, CA, USA
+* [Frontier](https://www.frontierconf.com/) – March 11, 2016 – London, UK
 * [SmashingConf Oxford](http://smashingconf.com/speakers) – March 15-16, 2016 - Oxford, UK
 * [EmberConf](http://emberconf.com/) – March 29-30, 2016 – Portland, OR, USA
 
 ### April
 
+* [Jazoon](http://jazoon.com/) – April 8, 2016 – Bern, Switzerland
 * [http://2016.render-conf.com/](Render) – April 21-22, 2016 – Oxford, UK
 * [Convergese](http://convergese.com/) – April 13-15, 2016 – Columbia, SC, USA
 
 ### May
 
+* [Future Insights](https://futureinsightslive.com/chicago-2016/) – May 2-5, 2016 – Chicago, USA
 * [ng-conf](http://www.ng-conf.org) – May 4-6, 2016	– Salt Lake City, UT, USA
 * [JSDay Italy](http://2016.jsday.it/) – May 11-12, 2016 – Verona, Italy	
 * [JSConf Budapest](http://jsconfbp.com/) – May 12-13, 2015 – Budapest, Hungary	
@@ -42,6 +45,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 ### September
 
+* [Frontend Conference Zurich](https://frontendconf.ch/) – September 1-2, 2016 - Zurich, Switzerland
 * [Full Stack Fest](http://www.fullstackfest.com/) – September 5-9, 2016 – Barcelona, Spain
 
 ### November
