@@ -12,6 +12,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [ForwardJS](http://forwardjs.com/summit) – February 10, 2016 – San Francisco, CA, USA
 * [Devnexus](https://www.devnexus.com) – February 15-17, 2016 – Atlanta, GA, USA
 * [NG-NL](http://www.ng-nl.org/) – February 18, 2016 – Amsterdam, The Netherlands
+* [React.js Conf](http://conf.reactjs.com/) – February 22-23, 2016 – San Francisco, CA, USA
 
 ### March
 
