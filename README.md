@@ -16,9 +16,11 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 ### March
 
+* [EnhanceConf](http://enhanceconf.com/index.html) – March 4, 2016 - London, UK
 * [Fluent](fluentconf.com) – March 8-10, 2016 – San Francisco, CA, USA
 * [Frontier](https://www.frontierconf.com/) – March 11, 2016 – London, UK
 * [SmashingConf Oxford](http://smashingconf.com/speakers) – March 15-16, 2016 - Oxford, UK
+* [JavaScript Days](http://javascript-days.de/) – March 21-23, 2016 - Munich, Germany
 * [EmberConf](http://emberconf.com/) – March 29-30, 2016 – Portland, OR, USA
 
 ### April
@@ -34,6 +36,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [JSDay Italy](http://2016.jsday.it/) – May 11-12, 2016 – Verona, Italy	
 * [JSConf Budapest](http://jsconfbp.com/) – May 12-13, 2015 – Budapest, Hungary	
 * [Front Trends](http://2016.front-trends.com) – May 18-20, 2016 – Warsaw, Poland
+* [PhoneGap Day EU](http://pgday.phonegap.com/eu2016/) – May 19-20, 2016 - Amsterdam, The Netherlands
 
 ### June
 
