@@ -19,6 +19,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [EnhanceConf](http://enhanceconf.com/index.html) – March 4, 2016 - London, UK
 * [Fluent](fluentconf.com) – March 8-10, 2016 – San Francisco, CA, USA
 * [Frontier](https://www.frontierconf.com/) – March 11, 2016 – London, UK
+* [NationJS](http://nationjs.com/) – March 11, 2016 – Washington, DC
 * [SmashingConf Oxford](http://smashingconf.com/speakers) – March 15-16, 2016 - Oxford, UK
 * [JavaScript Days](http://javascript-days.de/) – March 21-23, 2016 - Munich, Germany
 * [EmberConf](http://emberconf.com/) – March 29-30, 2016 – Portland, OR, USA
@@ -40,7 +41,8 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 ### June
 
-* [React Europe](https://www.react-europe.org/) – June 2-3, 2016 – Paris, France	
+* [React Europe](https://www.react-europe.org/) – June 2-3, 2016 – Paris, France
+* [NodeConf Oslo](http://oslo.nodeconf.com/) – June 4, 2016 – Oslo, Norway
 * [Developer Week Nürnberg](http://www.developer-week.de/) – June 20-23, 2016 – Nuremberg, Germany		
 		
 ### July
