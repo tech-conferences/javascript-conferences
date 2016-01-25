@@ -54,6 +54,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 * [Frontend Conference Zurich](https://frontendconf.ch/) – September 1-2, 2016 - Zurich, Switzerland
 * [Full Stack Fest](http://www.fullstackfest.com/) – September 5-9, 2016 – Barcelona, Spain
+* [AngularConnect](http://angularconnect.com/) – September 27-28, 2016 – London, UK
 
 ### November
 			
