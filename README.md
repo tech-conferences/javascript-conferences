@@ -51,6 +51,9 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [FullStack](https://skillsmatter.com/conferences/7278-fullstack#overview) – July 13-15, 2016 – London, UK
 * [npm camp](http://npm.camp/) – July, 2016 – Bay Area, CA, USA
 
+### August
+* [JSConf Iceland](http://jsconf.is/) – August 25-26, 2016 – Reykjavik, Iceland
+
 ### September
 
 * [Frontend Conference Zurich](https://frontendconf.ch/) – September 1-2, 2016 - Zurich, Switzerland
