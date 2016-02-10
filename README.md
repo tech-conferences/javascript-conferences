@@ -60,6 +60,10 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [Full Stack Fest](http://www.fullstackfest.com/) – September 5-9, 2016 – Barcelona, Spain
 * [AngularConnect](http://angularconnect.com/) – September 27-28, 2016 – London, UK
 
+### October
+
+* [ng-europe](https://ngeurope.org/) – October 25-26, 2015 – Paris, France
+
 ### November
 			
 * [Fluent Europe](http://www.oreilly.com/conferences/) – November 9-11, 2016 – Amsterdam, Netherlands	
