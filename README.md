@@ -46,7 +46,8 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [React Europe](https://www.react-europe.org/) – June 2-3, 2016 – Paris, France
 * [NodeConf Oslo](http://oslo.nodeconf.com/) – June 4, 2016 – Oslo, Norway
 * [Developer Week Nürnberg](http://www.developer-week.de/) – June 20-23, 2016 – Nuremberg, Germany		
-		
+* [You Gotta Love Frontend](http://yougottalovefrontend.com/) - June 27-28, 2016 - Tel Aviv, Israel
+
 ### July
 		
 * [FullStack](https://skillsmatter.com/conferences/7278-fullstack#overview) – July 13-15, 2016 – London, UK
