@@ -34,7 +34,6 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 ### May
 
-* [Future Insights](https://futureinsightslive.com/chicago-2016/) – May 2-5, 2016 – Chicago, USA
 * [ng-conf](http://www.ng-conf.org) – May 4-6, 2016	– Salt Lake City, UT, USA
 * [JSDay Italy](http://2016.jsday.it/) – May 11-12, 2016 – Verona, Italy	
 * [JSConf Budapest](http://jsconfbp.com/) – May 12-13, 2015 – Budapest, Hungary	
