@@ -49,7 +49,8 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [React Europe](https://www.react-europe.org/) – June 2-3, 2016 – Paris, France
 * [ScotlandJS](http://scotlandjs.com/) - June 2-3, 2016 - Edinburgh, UK
 * [NodeConf Oslo](http://oslo.nodeconf.com/) – June 4, 2016 – Oslo, Norway
-* [Developer Week Nürnberg](http://www.developer-week.de/) – June 20-23, 2016 – Nuremberg, Germany		
+* [Best of Web Paris](http://bestofweb.paris/) – June 9-10, 2016 – Paris, France
+* [Developer Week Nürnberg](http://www.developer-week.de/) – June 20-23, 2016 – Nuremberg, Germany
 * [You Gotta Love Frontend](http://yougottalovefrontend.com/) - June 27-28, 2016 - Tel Aviv, Israel
 
 ### July
@@ -75,7 +76,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [ng-europe](https://ngeurope.org/) – October 25-26, 2015 – Paris, France
 
 ### November
-			
+
 * [Fluent Europe](http://www.oreilly.com/conferences/) – November 9-11, 2016 – Amsterdam, The Netherlands
 * [Frontier](https://www.frontierconf.com/) – November 16, 2016 – London, UK
 * [JS Kongress](http://js-kongress.de/) - November 28-29, 2016 - Munich, Germany
