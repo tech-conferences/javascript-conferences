@@ -70,6 +70,6 @@ Please send Pull requests to add events to the list. Please do not add workshops
 			
 * [Fluent Europe](http://www.oreilly.com/conferences/) – November 9-11, 2016 – Amsterdam, Netherlands	
 
+### December
 
-
-
+* [DotJS](http://www.dotjs.io/) - December 5, 2016 - Paris, France
