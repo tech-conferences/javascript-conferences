@@ -41,6 +41,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [Front Trends](http://2016.front-trends.com) – May 18-20, 2016 – Warsaw, Poland
 * [PhoneGap Day EU](http://pgday.phonegap.com/eu2016/) – May 19-20, 2016 - Amsterdam, The Netherlands
 * [Frontend United](http://frontendunited.org/) - May 27-28, 2016 - Ghent, Belgium
+* [CEJS](http://www.cejs.com.br/) - May 28, 2016 - Fortaleza, Brazil
 
 ### June
 
