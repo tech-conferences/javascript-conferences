@@ -86,3 +86,5 @@ Please send Pull requests to add events to the list. Please do not add workshops
 ### December
 
 * [DotJS](http://www.dotjs.io/) - December 5, 2016 - Paris, France
+* [JSConf Australia](http://2016.cssconf.com.au/) - December 1, 2016 - Melbourne, Australia
+
