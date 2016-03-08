@@ -55,6 +55,8 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [npm camp](http://npm.camp/) – July, 2016 – Bay Area, CA, USA
 
 ### August
+
+* [Midwest JS](http://midwestjs.com/) – August 10-12, 2016 – Minneapolis, MN, USA
 * [JSConf Iceland](http://jsconf.is/) – August 25-26, 2016 – Reykjavik, Iceland
 
 ### September
