@@ -61,6 +61,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 * [Frontend Conference Zurich](https://frontendconf.ch/) – September 1-2, 2016 - Zurich, Switzerland
 * [Full Stack Fest](http://www.fullstackfest.com/) – September 5-9, 2016 – Barcelona, Spain
+* [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) - September 15-16, 2016 - Amsterdam, The Netherlands
 * [AngularConnect](http://angularconnect.com/) – September 27-28, 2016 – London, UK
 
 ### October
@@ -71,6 +72,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 			
 * [Fluent Europe](http://www.oreilly.com/conferences/) – November 9-11, 2016 – Amsterdam, The Netherlands
 * [JS Kongress](http://js-kongress.de/) - November 28-29, 2016 - Munich, Germany
+* [Node.js Interactive US](http://events.linuxfoundation.org/events/node-interactive) - November 29-30, 2016 - Austin, TX, USA
 
 ### December
 
