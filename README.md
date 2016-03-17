@@ -27,6 +27,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 ### April
 
+* [Fronteers Spring Conference](https://fronteers.nl/congres/2016-spring) – April 1, 2016 – Amsterdam, The Netherlands
 * [Jazoon](http://jazoon.com/) – April 8, 2016 – Bern, Switzerland
 * [Render](http://2016.render-conf.com/) – April 21-22, 2016 – Oxford, UK
 * [Convergese](http://convergese.com/) – April 13-15, 2016 – Columbia, SC, USA
