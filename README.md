@@ -29,6 +29,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [Jazoon](http://jazoon.com/) – April 8, 2016 – Bern, Switzerland
 * [Render](http://2016.render-conf.com/) – April 21-22, 2016 – Oxford, UK
 * [Convergese](http://convergese.com/) – April 13-15, 2016 – Columbia, SC, USA
+* [JSConf UY](https://jsconf.uy/) – April 15-16, 2016 – Montevideo, Uruguay
 * [React Amsterdam](http://react-amsterdam.com/) - April 16, 2016 - Amsterdam, The Netherlands
 * [JSUnconf](http://2016.jsunconf.eu/) – April 23-24, 2016 – Hamburg, Germany
 
