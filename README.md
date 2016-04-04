@@ -80,7 +80,6 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 ### November
 
-* [Fluent Europe](http://www.oreilly.com/conferences/) – November 9-11, 2016 – Amsterdam, The Netherlands
 * [Frontier](https://www.frontierconf.com/) – November 16, 2016 – London, UK
 * [JS Kongress](http://js-kongress.de/) - November 28-29, 2016 - Munich, Germany
 * [Node.js Interactive US](http://events.linuxfoundation.org/events/node-interactive) - November 29-30, 2016 - Austin, TX, USA
