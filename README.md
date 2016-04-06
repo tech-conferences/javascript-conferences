@@ -65,6 +65,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [Midwest JS](http://midwestjs.com/) – August 10-12, 2016 – Minneapolis, MN, USA
 * [BrazilJS Conf](https://braziljs.org) – August 19-20, 2016 – Porto Alegre, Brazil
 * [JSConf Iceland](http://jsconf.is/) – August 25-26, 2016 – Reykjavik, Iceland
+* [React Rally](http://www.reactrally.com/#/) - August 25-26, 2016 - Salt Lake City, UT, USA
 
 ### September
 
