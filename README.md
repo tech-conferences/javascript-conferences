@@ -82,6 +82,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 ### November
 
 * [Frontier](https://www.frontierconf.com/) – November 16, 2016 – London, UK
+* [NodeConf Argentina](https://2016.nodeconf.com.ar/) – November 18-19, 2016 – Buenos Aires, Argentina
 * [JS Kongress](http://js-kongress.de/) - November 28-29, 2016 - Munich, Germany
 * [Node.js Interactive US](http://events.linuxfoundation.org/events/node-interactive) - November 29-30, 2016 - Austin, TX, USA
 
