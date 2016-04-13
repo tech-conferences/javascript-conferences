@@ -70,6 +70,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 ### September
 
+* [ColdFront](https://2016.coldfrontconf.com/) - September 1, 2016 - Copenhagen, Denmark
 * [Frontend Conference Zurich](https://frontendconf.ch/) – September 1-2, 2016 - Zurich, Switzerland
 * [Full Stack Fest](http://www.fullstackfest.com/) – September 5-9, 2016 – Barcelona, Spain
 * [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) - September 15-16, 2016 - Amsterdam, The Netherlands
