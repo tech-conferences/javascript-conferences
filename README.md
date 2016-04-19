@@ -80,6 +80,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 * [ng-europe](https://ngeurope.org/) – October 25-26, 2016 – Paris, France
 * [Dart Summit](https://www.dartlang.org/events/2016/summit/) - October 26-27, 2016 - Munich, Germany
+* [Reactive Conference](https://reactiveconf.com/) – October 26-28, 2016 – Bratislava, Slovakia
 
 ### November
 
