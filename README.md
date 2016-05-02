@@ -58,6 +58,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 ### July
 
 * [FullStack](https://skillsmatter.com/conferences/7278-fullstack#overview) – July 13-15, 2016 – London, UK
+* [JSinSA](http://www.jsinsa.com/) - July 16, 2016 - Johannesburg, South Africa
 * [Node Summit](http://nodesummit.com/) - July 26-28, 2016 - San Francisco, CA, USA
 * [npm camp](http://npm.camp/) – July 30th, 2016 – Oakland, CA, USA
 
