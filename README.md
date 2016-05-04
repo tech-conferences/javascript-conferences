@@ -76,6 +76,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [Full Stack Fest](http://www.fullstackfest.com/) – September 5-9, 2016 – Barcelona, Spain
 * [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) - September 15-16, 2016 - Amsterdam, The Netherlands
 * [AngularConnect](http://angularconnect.com/) – September 27-28, 2016 – London, UK
+* [Paris Web](http://www.paris-web.fr/) - September 29 - October 1, 2016 - Paris, France
 
 ### October
 
