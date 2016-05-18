@@ -34,7 +34,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [ng-conf](http://www.ng-conf.org) | May 4-6, 2016	|| Salt Lake City, UT, USA |
 | [London NodeConf](http://london.nodeconf.com/) | May 11, 2016 || London, UK |
 | [JSDay Italy](http://2016.jsday.it/) | May 11-12, 2016 || Verona, Italy |
-| [JSConf Budapest](http://jsconfbp.com/) | May 12-13, 2015 – Budapest, Hungary |
+| [JSConf Budapest](http://jsconfbp.com/) | May 12-13, 2015 || Budapest, Hungary |
 | [Front Trends](http://2016.front-trends.com) | May 18-20, 2016 || Warsaw, Poland |
 | [PhoneGap Day EU](http://pgday.phonegap.com/eu2016) | May 19-20, 2016 || Amsterdam, The Netherlands |
 | [Frontend United](http://frontendunited.org/) | May 27-28, 2016 || Ghent, Belgium |
@@ -62,7 +62,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Frontend Conference Zurich](https://frontendconf.ch/) | September 1-2, 2016 || Zurich, Switzerland |
 | [JSConf China](http://2016.jsconf.cn/) | September 3-4, 2016 || Nanjing, China |
 | [Full Stack Fest](http://www.fullstackfest.com/) | September 5-9, 2016 || Barcelona, Spain |
-| [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) | September 15-16,||2016 || Amsterdam, The Netherlands |
+| [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) | September 15-16, 2016 || Amsterdam, The Netherlands |
 | [AngularConnect](http://angularconnect.com/) | September 27-28, 2016 || London, UK |
 | [Paris Web](http://www.paris-web.fr/) | September 29 - October 1, 2016 || Paris, France |
 |October||||
