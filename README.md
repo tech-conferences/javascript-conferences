@@ -57,6 +57,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 ### July
 
+* [Angular Camp](http://angularcamp.org/) - July 1-3, 2016 - Barcelona, Spain
 * [FullStack](https://skillsmatter.com/conferences/7278-fullstack#overview) – July 13-15, 2016 – London, UK
 * [JSinSA](http://www.jsinsa.com/) - July 16, 2016 - Johannesburg, South Africa
 * [Node Summit](http://nodesummit.com/) - July 26-28, 2016 - San Francisco, CA, USA
@@ -73,6 +74,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 * [ColdFront](https://2016.coldfrontconf.com/) - September 1, 2016 - Copenhagen, Denmark
 * [Frontend Conference Zurich](https://frontendconf.ch/) – September 1-2, 2016 - Zurich, Switzerland
+* [JSConf China](http://2016.jsconf.cn/) - September 3-4, 2016 - Nanjing, China
 * [Full Stack Fest](http://www.fullstackfest.com/) – September 5-9, 2016 – Barcelona, Spain
 * [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) - September 15-16, 2016 - Amsterdam, The Netherlands
 * [AngularConnect](http://angularconnect.com/) – September 27-28, 2016 – London, UK
