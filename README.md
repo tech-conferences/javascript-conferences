@@ -66,6 +66,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [AngularConnect](http://angularconnect.com/) | September 27-28, 2016 || London, UK |
 | [Paris Web](http://www.paris-web.fr/) | September 29 - October 1, 2016 || Paris, France |
 |October||||
+| [Connect.tech](http://connect.tech/) | October 20-22, 2016 | [June 30, 2016](http://connect.tech/cfp.html)| Atlanta, USA |
 | [ng-europe](https://ngeurope.org/) | October 25-26, 2016 || Paris, France |
 | [Dart Summit](https://www.dartlang.org/events/2016/summit/) | October 26-27, 2016 || Munich, Germany |
 | [Reactive Conference](https://reactiveconf.com/) | October 26-28, 2016 || Bratislava, Slovakia |
