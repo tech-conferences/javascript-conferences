@@ -68,6 +68,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 |October||||
 | [Connect.tech](http://connect.tech/) | October 20-22, 2016 | [June 30, 2016](http://connect.tech/cfp.html)| Atlanta, USA |
 | [ng-europe](https://ngeurope.org/) | October 25-26, 2016 || Paris, France |
+| [SmashingConf Barcelona](http://smashingconf.com/barcelona-2016/) | October 25-26, 2016 || Barcelona, Spain |
 | [Dart Summit](https://www.dartlang.org/events/2016/summit/) | October 26-27, 2016 || Munich, Germany |
 | [Reactive Conference](https://reactiveconf.com/) | October 26-28, 2016 || Bratislava, Slovakia |
 |November||||
