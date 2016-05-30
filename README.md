@@ -62,6 +62,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Frontend Conference Zurich](https://frontendconf.ch/) | September 1-2, 2016 || Zurich, Switzerland |
 | [JSConf China](http://2016.jsconf.cn/) | September 3-4, 2016 || Nanjing, China |
 | [Full Stack Fest](http://www.fullstackfest.com/) | September 5-9, 2016 || Barcelona, Spain |
+| [ReactNext](http://react-next.com/) | September 15, 2016 || Tel Aviv, Israel |
 | [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) | September 15-16, 2016 || Amsterdam, The Netherlands |
 | [AngularConnect](http://angularconnect.com/) | September 27-28, 2016 || London, UK |
 | [Paris Web](http://www.paris-web.fr/) | September 29 - October 1, 2016 || Paris, France |
