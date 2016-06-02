@@ -44,6 +44,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [ScotlandJS](http://scotlandjs.com/) | June 2-3, 2016 || Edinburgh, UK |
 | [NodeConf Oslo](http://oslo.nodeconf.com/) | June 4, 2016 || Oslo, Norway |
 | [Best of Web Paris](http://bestofweb.paris/) | June 9-10, 2016 || Paris, France |
+| [EnterJS](https://www.enterjs.de/) | June 14-16, 2016 || Darmstadt, Germany |
 | [Developer Week Nürnberg](http://www.developer-week.de/) | June 20-23, 2016 || Nuremberg, Germany |
 | [You Gotta Love Frontend](http://yougottalovefrontend.com/) | June 27-28, 2016 || Tel Aviv, Israel|
 |July||||
