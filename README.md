@@ -82,4 +82,4 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Node.js Interactive US](http://events.linuxfoundation.org/events/node-interactive) | November 29-30, 2016 || Austin, TX, USA |
 |December||||
 | [DotJS](http://www.dotjs.io/) | December 5, 2016 || Paris, France |
-| [JSConf Australia](http://2016.jssconf.com.au/) | December 1, 2016 || Melbourne, Australia |
+| [JSConf Australia](http://2016.jsconfau.com/) | December 1, 2016 || Melbourne, Australia |
