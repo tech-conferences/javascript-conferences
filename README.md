@@ -44,6 +44,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [ScotlandJS](http://scotlandjs.com/) | June 2-3, 2016 || Edinburgh, UK |
 | [NodeConf Oslo](http://oslo.nodeconf.com/) | June 4, 2016 || Oslo, Norway |
 | [Best of Web Paris](http://bestofweb.paris/) | June 9-10, 2016 || Paris, France |
+| [SmashingConf New York](http://smashingconf.com/) | June 14-15, 2016 || New York, USA |
 | [EnterJS](https://www.enterjs.de/) | June 14-16, 2016 || Darmstadt, Germany |
 | [Developer Week Nürnberg](http://www.developer-week.de/) | June 20-23, 2016 || Nuremberg, Germany |
 | [You Gotta Love Frontend](http://yougottalovefrontend.com/) | June 27-28, 2016 || Tel Aviv, Israel|
@@ -63,6 +64,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Frontend Conference Zurich](https://frontendconf.ch/) | September 1-2, 2016 || Zurich, Switzerland |
 | [JSConf China](http://2016.jsconf.cn/) | September 3-4, 2016 || Nanjing, China |
 | [Full Stack Fest](http://www.fullstackfest.com/) | September 5-9, 2016 || Barcelona, Spain |
+| [SmashingConf Freiburg](http://smashingconf.com/freiburg-2016/) | September 12-13, 2016 || Freiburg, Germany |
 | [ReactNext](http://react-next.com/) | September 15, 2016 || Tel Aviv, Israel |
 | [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) | September 15-16, 2016 || Amsterdam, The Netherlands |
 | [AngularConnect](http://angularconnect.com/) | September 27-28, 2016 || London, UK |
