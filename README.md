@@ -78,11 +78,13 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [NordicJS](http://nordicjs.com/) | September 8-9, 2016 || Stockholm, Sweden |
 | [SmashingConf Freiburg](http://smashingconf.com/freiburg-2016/) | September 12-13, 2016 || Freiburg, Germany |
 | [ReactNext](http://react-next.com/) | September 15, 2016 || Tel Aviv, Israel |
+| [elm-conf](https://www.elm-conf.us/) | September 15, 2016 || St. Louis, USA |
 | [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) | September 15-16, 2016 || Amsterdam, The Netherlands |
 | [Northeast JavaScript Conference](http://www.northeastjsconference.com/) | September 15-16, 2016 || Stamford, CT, USA |
 | [AngularConnect](http://angularconnect.com/) | September 27-28, 2016 || London, UK |
 | [Paris Web](http://www.paris-web.fr/) | September 29 - October 1, 2016 || Paris, France |
 |October||||
+| [Web Unleashed](http://fitc.ca/event/webu16/) | October 3-4, 2016 | | Toronto, Canada |
 | [JSConf Colombia](http://jsconf.co/) | October 7-8, 2016 | [June 13, 2016](http://cfp.jsconf.co/)| Medellin, Colombia |
 | [HTML5 Days](http://html5-days.de/) | October 10-12, 2016 | | Berlin, Germany |
 | [JavaScript Days](http://javascript-days.de/) | October 10-12, 2016 | | Berlin, Germany |
