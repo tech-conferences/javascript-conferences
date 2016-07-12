@@ -98,6 +98,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Frontier](https://www.frontierconf.com/) | November 16, 2016 || London, UK |
 | [HalfStack](http://halfstackconf.com/) | November 19, 2016 | [CFP](http://halfstackconf.com/2016callforpapers.html) | London, UK |
 | [NodeConf Argentina](https://2016.nodeconf.com.ar/) | November 18-19, 2016 | [July 28th](https://2016.nodeconf.com.ar/call-for-speakers.html) | Buenos Aires, Argentina |
+| [Nodevember](http://nodevember.org/) | November 20-21, 2016 | [August 16th](https://www.papercall.io/nodevember2016) | Nashville, USA |
 | [JS Kongress](http://js-kongress.de/) | November 28-29, 2016 || Munich, Germany |
 | [Node.js Interactive US](http://events.linuxfoundation.org/events/node-interactive) | November 29-30, 2016 || Austin, TX, USA |
 |December||||
