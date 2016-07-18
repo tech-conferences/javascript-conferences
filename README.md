@@ -81,6 +81,8 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [elm-conf](https://www.elm-conf.us/) | September 15, 2016 || St. Louis, USA |
 | [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) | September 15-16, 2016 || Amsterdam, The Netherlands |
 | [Northeast JavaScript Conference](http://www.northeastjsconference.com/) | September 15-16, 2016 || Stamford, CT, USA |
+| [From the Front](https://2016.fromthefront.it/) | September 15-16, 2016 || Bologna, Italy |
+| [Smart Web](http://www.smartwebconf.com/) | September 20, 2016 || Bucharest, Romania |
 | [AngularConnect](http://angularconnect.com/) | September 27-28, 2016 || London, UK |
 | [Paris Web](http://www.paris-web.fr/) | September 29 - October 1, 2016 || Paris, France |
 |October||||
@@ -95,6 +97,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Dart Summit](https://www.dartlang.org/events/2016/summit/) | October 26-27, 2016 || Munich, Germany |
 | [Reactive Conference](https://reactiveconf.com/) | October 26-28, 2016 || Bratislava, Slovakia |
 |November||||
+| [Beyond Tellerrand](https://beyondtellerrand.com/events/berlin-2016) | November 7-9, 2016 || Berlin, Germany |
 | [Frontier](https://www.frontierconf.com/) | November 16, 2016 || London, UK |
 | [Angular Up](http://angular-up.com/) | November 17, 2016 | [September 17, 2016](http://angular-up.com/) | Tel Aviv, Israel |
 | [HalfStack](http://halfstackconf.com/) | November 19, 2016 | [CFP](http://halfstackconf.com/2016callforpapers.html) | London, UK |
