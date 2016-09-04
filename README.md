@@ -97,6 +97,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Dart Summit](https://www.dartlang.org/events/2016/summit/) | October 26-27, 2016 || Munich, Germany |
 | [Reactive Conference](https://reactiveconf.com/) | October 26-28, 2016 || Bratislava, Slovakia |
 |November||||
+| [ThunderPlains](http://thunderplainsconf.com/) | November 3-4, 2016 || Oklahoma City, OK |
 | [Beyond Tellerrand](https://beyondtellerrand.com/events/berlin-2016) | November 7-9, 2016 || Berlin, Germany |
 | [Frontier](https://www.frontierconf.com/) | November 16, 2016 || London, UK |
 | [Angular Up](http://angular-up.com/) | November 17, 2016 | [September 17, 2016](http://angular-up.com/) | Tel Aviv, Israel |
