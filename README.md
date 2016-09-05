@@ -79,6 +79,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [SmashingConf Freiburg](http://smashingconf.com/freiburg-2016/) | September 12-13, 2016 || Freiburg, Germany |
 | [ReactNext](http://react-next.com/) | September 15, 2016 || Tel Aviv, Israel |
 | [elm-conf](https://www.elm-conf.us/) | September 15, 2016 || St. Louis, USA |
+| [JSFoo](https://jsfoo.in/2016/) | September 15-16, 2016 | [August 29th, 2016](https://jsfoo.talkfunnel.com/2016/) | Bengaluru, India |
 | [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) | September 15-16, 2016 || Amsterdam, The Netherlands |
 | [Northeast JavaScript Conference](http://www.northeastjsconference.com/) | September 15-16, 2016 || Stamford, CT, USA |
 | [From the Front](https://2016.fromthefront.it/) | September 15-16, 2016 || Bologna, Italy |
