@@ -7,7 +7,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | Conference  | Date | Submission Deadline | Location |
 | ------------- | ------------- | ------------- | ------------- |
 |January||||
-| [Node Community Convention](http://nodecommunityconvention.com/) | January 26-8, 2016 || San Francisco, CA, USA |
+| [Node Community Convention](http://nodecommunityconvention.com/) | January 26-28, 2016 || San Francisco, CA, USA |
 |February||||
 | [ForwardJS](http://forwardjs.com/summit) | February 10, 2016 || San Francisco, CA, USA |
 | [Devnexus](https://www.devnexus.com) | February 15-17, 2016 || Atlanta, GA, USA |
@@ -105,8 +105,16 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [HalfStack](http://halfstackconf.com/) | November 19, 2016 | [CFP](http://halfstackconf.com/2016callforpapers.html) | London, UK |
 | [NodeConf Argentina](https://2016.nodeconf.com.ar/) | November 18-19, 2016 | [July 28th](https://2016.nodeconf.com.ar/call-for-speakers.html) | Buenos Aires, Argentina |
 | [Nodevember](http://nodevember.org/) | November 20-21, 2016 | [August 16th](https://www.papercall.io/nodevember2016) | Nashville, USA |
+| [NlPoland](http://ng-poland.pl/) | November 21-22, 2016 | | Warsaw, Poland |
 | [JS Kongress](http://js-kongress.de/) | November 28-29, 2016 || Munich, Germany |
 | [Node.js Interactive US](http://events.linuxfoundation.org/events/node-interactive) | November 29-30, 2016 || Austin, TX, USA |
 |December||||
 | [DotJS](http://www.dotjs.io/) | December 5, 2016 || Paris, France |
 | [JSConf Australia](http://2016.jsconfau.com/) | December 1, 2016 || Melbourne, Australia |
+
+## 2017
+
+| Conference  | Date | Submission Deadline | Location |
+| ------------- | ------------- | ------------- | ------------- |
+|May||||
+| [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
