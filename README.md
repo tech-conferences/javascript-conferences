@@ -2,6 +2,15 @@ This is a list of conferences for frontend and Node.js developers. The list is g
 
 Please send Pull requests to add events to the list. Please do not add workshops and user group meetups.
 
+## 2017
+
+| Conference  | Date | Submission Deadline | Location |
+| ------------- | ------------- | ------------- | ------------- |
+|January||||
+| [Agent Conference](http://agent.sh/) | January 20-21, 2017 || Dornbirn, Austria |
+|May||||
+| [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
+
 ## 2016
 
 | Conference  | Date | Submission Deadline | Location |
@@ -111,10 +120,3 @@ Please send Pull requests to add events to the list. Please do not add workshops
 |December||||
 | [DotJS](http://www.dotjs.io/) | December 5, 2016 || Paris, France |
 | [JSConf Australia](http://2016.jsconfau.com/) | December 1, 2016 || Melbourne, Australia |
-
-## 2017
-
-| Conference  | Date | Submission Deadline | Location |
-| ------------- | ------------- | ------------- | ------------- |
-|May||||
-| [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
