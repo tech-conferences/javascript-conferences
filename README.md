@@ -8,8 +8,11 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | ------------- | ------------- | ------------- | ------------- |
 |January||||
 | [Agent Conference](http://agent.sh/) | January 20-21, 2017 || Dornbirn, Austria |
+|April||||
+| [ng-cong](https://www.ng-conf.org/) | April 5-7, 2017 |[January 8, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1)| Salt Lake City, UT, USA |
 |May||||
 | [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
+| [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 |[January 15, 2015](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSd0Knvu5Ulp6lpEpfx337eFWQmrXwrLzE7ucf4TnTL9fuE6_g/viewform?c=0&w=1&usp=send_form)| Miami, FL, USA |
 
 ## 2016
 
