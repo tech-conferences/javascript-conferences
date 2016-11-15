@@ -29,6 +29,8 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 || San Jose, CA, USA |
 |August||||
 | [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 || Zurich, Switzerland |
+|September||||
+| [NordicJS](http://nordicjs.com/) | September 7-8, 2017 || Stockholm, Sweden |
 |November||||
 | [AngularConnect](http://angularconnect.com/) | November 6-7, 2017 || London, UK |
 
