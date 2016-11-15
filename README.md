@@ -25,6 +25,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 |[January 15, 2015](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSd0Knvu5Ulp6lpEpfx337eFWQmrXwrLzE7ucf4TnTL9fuE6_g/viewform?c=0&w=1&usp=send_form)| Miami, FL, USA |
 |June||||
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
+| [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 || San Jose, CA, USA |
 
 ## 2016
 
