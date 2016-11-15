@@ -99,7 +99,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [BrazilJS Conf](https://braziljs.org) | August 19-20, 2016 || Porto Alegre, Brazil |
 | [JSConf Iceland](http://jsconf.is/) | August 25-26, 2016 || Reykjavik, Iceland |
 | [React Rally](http://www.reactrally.com/#/) | August 25-26, 2016 || Salt Lake City, UT, USA |
-| [NeJS Conf](https://nejsconf.com/) | August 26, 2016 | [June 25, 2016](https://www.papercall.io/nejsconf) | Omaha, NE, USA |
+| [NeJS Conf](https://nejsconf.com/) | August 26, 2016 || Omaha, NE, USA |
 | [BrazilJS](https://braziljs.org/conf) | August 26-27, 2016 | | Porto Alegre, Brazil |
 | [Web Summer Camp](http://2016.websummercamp.com/) | August 31-September 3, 2016 | | Rovinj, Croatia |
 |September||||
@@ -111,7 +111,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [SmashingConf Freiburg](http://smashingconf.com/freiburg-2016/) | September 12-13, 2016 || Freiburg, Germany |
 | [ReactNext](http://react-next.com/) | September 15, 2016 || Tel Aviv, Israel |
 | [elm-conf](https://www.elm-conf.us/) | September 15, 2016 || St. Louis, USA |
-| [JSFoo](https://jsfoo.in/2016/) | September 15-16, 2016 | [August 29th, 2016](https://jsfoo.talkfunnel.com/2016/) | Bengaluru, India |
+| [JSFoo](https://jsfoo.in/2016/) | September 15-16, 2016 || Bengaluru, India |
 | [Node.js Interactive Europe](http://events.linuxfoundation.org/events/node-interactive-europe) | September 15-16, 2016 || Amsterdam, The Netherlands |
 | [Northeast JavaScript Conference](http://www.northeastjsconference.com/) | September 15-16, 2016 || Stamford, CT, USA |
 | [From the Front](https://2016.fromthefront.it/) | September 15-16, 2016 || Bologna, Italy |
@@ -120,11 +120,11 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Paris Web](http://www.paris-web.fr/) | September 29 - October 1, 2016 || Paris, France |
 |October||||
 | [Web Unleashed](http://fitc.ca/event/webu16/) | October 3-4, 2016 | | Toronto, Canada |
-| [JSConf Colombia](http://jsconf.co/) | October 7-8, 2016 | [June 13, 2016](http://cfp.jsconf.co/)| Medellin, Colombia |
+| [JSConf Colombia](http://jsconf.co/) | October 7-8, 2016 || Medellin, Colombia |
 | [HTML5 Days](http://html5-days.de/) | October 10-12, 2016 | | Berlin, Germany |
 | [JavaScript Days](http://javascript-days.de/) | October 10-12, 2016 | | Berlin, Germany |
-| [Connect.tech](http://connect.tech/) | October 20-22, 2016 | [June 30, 2016](http://connect.tech/cfp.html)| Atlanta, USA |
-| [Node.js Conf Italy](http://nodejsconf.it/) | October 22, 2016 | [June 15, 2016](http://nodejsconf.it/call-for-paper/) | Desenzano, Italy |
+| [Connect.tech](http://connect.tech/) | October 20-22, 2016 || Atlanta, USA |
+| [Node.js Conf Italy](http://nodejsconf.it/) | October 22, 2016 || Desenzano, Italy |
 | [ng-europe](https://ngeurope.org/) | October 25-26, 2016 || Paris, France |
 | [SmashingConf Barcelona](http://smashingconf.com/barcelona-2016/) | October 25-26, 2016 || Barcelona, Spain |
 | [Dart Summit](https://www.dartlang.org/events/2016/summit/) | October 26-27, 2016 || Munich, Germany |
@@ -133,10 +133,10 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [ThunderPlains](http://thunderplainsconf.com/) | November 3-4, 2016 || Oklahoma City, OK |
 | [Beyond Tellerrand](https://beyondtellerrand.com/events/berlin-2016) | November 7-9, 2016 || Berlin, Germany |
 | [Frontier](https://www.frontierconf.com/) | November 16, 2016 || London, UK |
-| [Angular Up](http://angular-up.com/) | November 17, 2016 | [September 17, 2016](http://angular-up.com/) | Tel Aviv, Israel |
-| [HalfStack](http://halfstackconf.com/) | November 19, 2016 | [CFP](http://halfstackconf.com/2016callforpapers.html) | London, UK |
-| [NodeConf Argentina](https://2016.nodeconf.com.ar/) | November 18-19, 2016 | [July 28th](https://2016.nodeconf.com.ar/call-for-speakers.html) | Buenos Aires, Argentina |
-| [Nodevember](http://nodevember.org/) | November 20-21, 2016 | [August 16th](https://www.papercall.io/nodevember2016) | Nashville, USA |
+| [Angular Up](http://angular-up.com/) | November 17, 2016 | | Tel Aviv, Israel |
+| [HalfStack](http://halfstackconf.com/) | November 19, 2016 || London, UK |
+| [NodeConf Argentina](https://2016.nodeconf.com.ar/) | November 18-19, 2016 || Buenos Aires, Argentina |
+| [Nodevember](http://nodevember.org/) | November 20-21, 2016 || Nashville, USA |
 | [NlPoland](http://ng-poland.pl/) | November 21-22, 2016 | | Warsaw, Poland |
 | [JS Kongress](http://js-kongress.de/) | November 28-29, 2016 || Munich, Germany |
 | [Node.js Interactive US](http://events.linuxfoundation.org/events/node-interactive) | November 29-30, 2016 || Austin, TX, USA |
