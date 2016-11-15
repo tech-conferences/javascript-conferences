@@ -18,6 +18,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [ng-conf](https://www.ng-conf.org/) | April 5-7, 2017 |[January 8, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1)| Salt Lake City, UT, USA |
 | [Jazoon](http://jazoon.com/) | April 24, 2017 || Bern, Switzerland |
 |May||||
+| [JSConf EU](http://2017.jsconf.eu/) | May 6-7, 2017 || Berlin, Germany |
 | [JSDay Italy](http://2017.jsday.it/) | May 10-11, 2017 |[January 31, 2017](http://cfp.jsday.it/)| Verona, Italy |
 | [React Europe](https://www.react-europe.org/) | May 18-19, 2017 |[CFP](https://checkout.eventlama.com/#/events/reacteurope-2017/cfp)| Paris, France |
 | [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
