@@ -8,11 +8,23 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | ------------- | ------------- | ------------- | ------------- |
 |January||||
 | [Agent Conference](http://agent.sh/) | January 20-21, 2017 || Dornbirn, Austria |
+|February||||
+| [ForwardJS](https://forwardjs.com/) | February 25-March 5, 2017 || San Francisco, CA, USA |
+|March||||
+| [EmberConf](http://emberconf.com/) | March 28-29, 2017 || Portland, OR, USA |
+| [Render](http://2017.render-conf.com/) | March 30-31, 2017 || Oxford, UK |
 |April||||
+| [SmashingConf San Francisco](https://smashingconf.com/) | April 4-5, 2017 || San Francisco, CA, USA |
 | [ng-conf](https://www.ng-conf.org/) | April 5-7, 2017 |[January 8, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1)| Salt Lake City, UT, USA |
+| [Jazoon](http://jazoon.com/) | April 24, 2017 || Bern, Switzerland |
 |May||||
+| [JSDay Italy](http://2017.jsday.it/) | May 10-11, 2017 |[January 31, 2017](http://cfp.jsday.it/)| Verona, Italy |
+| [React Europe](https://www.react-europe.org/) | May 18-19, 2017 |[CFP](https://checkout.eventlama.com/#/events/reacteurope-2017/cfp)| Paris, France |
 | [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
+| [Frontend United](http://frontendunited.org/) | May 26-27, 2017 || Athens, Greece |
 | [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 |[January 15, 2015](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSd0Knvu5Ulp6lpEpfx337eFWQmrXwrLzE7ucf4TnTL9fuE6_g/viewform?c=0&w=1&usp=send_form)| Miami, FL, USA |
+|June||||
+| [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
 
 ## 2016
 
