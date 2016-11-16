@@ -142,6 +142,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [NodeConf Argentina](https://2016.nodeconf.com.ar/) | November 18-19, 2016 || Buenos Aires, Argentina |
 | [Nodevember](http://nodevember.org/) | November 20-21, 2016 || Nashville, USA |
 | [NlPoland](http://ng-poland.pl/) | November 21-22, 2016 | | Warsaw, Poland |
+| [CSSConf.Asia](https://2016.cssconf.asia/) | November 24, 2016 | | Singapore |
 | [JS Kongress](http://js-kongress.de/) | November 28-29, 2016 || Munich, Germany |
 | [Node.js Interactive US](http://events.linuxfoundation.org/events/node-interactive) | November 29-30, 2016 || Austin, TX, USA |
 |December||||
