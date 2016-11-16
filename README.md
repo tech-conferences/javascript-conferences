@@ -9,8 +9,10 @@ Please send Pull requests to add events to the list. Please do not add workshops
 |January||||
 | [Agent Conference](http://agent.sh/) | January 20-21, 2017 || Dornbirn, Austria |
 |February||||
+| [The Rolling Scopes](https://2017.conf.rollingscopes.com/) | February 18-19, 2017 || Minsk, Belarus |
 | [ForwardJS](https://forwardjs.com/) | February 25-March 5, 2017 || San Francisco, CA, USA |
 |March||||
+| [React London](https://react.london/conference) | March 28, 2017 | [CFP](https://www.papercall.io/reactlondon2017) | London, UK |
 | [EmberConf](http://emberconf.com/) | March 28-29, 2017 || Portland, OR, USA |
 | [Render](http://2017.render-conf.com/) | March 30-31, 2017 || Oxford, UK |
 |April||||
@@ -141,5 +143,6 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [JS Kongress](http://js-kongress.de/) | November 28-29, 2016 || Munich, Germany |
 | [Node.js Interactive US](http://events.linuxfoundation.org/events/node-interactive) | November 29-30, 2016 || Austin, TX, USA |
 |December||||
-| [DotJS](http://www.dotjs.io/) | December 5, 2016 || Paris, France |
 | [JSConf Australia](http://2016.jsconfau.com/) | December 1, 2016 || Melbourne, Australia |
+| [DotJS](http://www.dotjs.io/) | December 5, 2016 || Paris, France |
+| [HolyJS](http://holyjs.ru/) | December 11, 2016 || Moscow, Russia |
