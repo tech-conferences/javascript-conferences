@@ -128,6 +128,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [JavaScript Days](http://javascript-days.de/) | October 10-12, 2016 | | Berlin, Germany |
 | [Connect.tech](http://connect.tech/) | October 20-22, 2016 || Atlanta, USA |
 | [Node.js Conf Italy](http://nodejsconf.it/) | October 22, 2016 || Desenzano, Italy |
+| [JSDC.tw](http://2016.jsdc.tw/en/) | October 22-23, 2016 || Taipei, Taiwan |
 | [ng-europe](https://ngeurope.org/) | October 25-26, 2016 || Paris, France |
 | [SmashingConf Barcelona](http://smashingconf.com/barcelona-2016/) | October 25-26, 2016 || Barcelona, Spain |
 | [Dart Summit](https://www.dartlang.org/events/2016/summit/) | October 26-27, 2016 || Munich, Germany |
