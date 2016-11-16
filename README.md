@@ -16,6 +16,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 |April||||
 | [SmashingConf San Francisco](https://smashingconf.com/) | April 4-5, 2017 || San Francisco, CA, USA |
 | [ng-conf](https://www.ng-conf.org/) | April 5-7, 2017 |[January 8, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1)| Salt Lake City, UT, USA |
+| [React Amsterdam](https://react.amsterdam) | April 21, 2017 | [January 15, 2017](https://goo.gl/forms/hlHKecnwQKK84BRE2) | Amsterdam, The Netherlands |
 | [Jazoon](http://jazoon.com/) | April 24, 2017 || Bern, Switzerland |
 |May||||
 | [JSConf EU](http://2017.jsconf.eu/) | May 6-7, 2017 || Berlin, Germany |
@@ -59,7 +60,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Render](http://2016.render-conf.com/) | April 21-22, 2016 || Oxford, UK |
 | [Convergese](http://convergese.com/) | April 13-15, 2016 || Columbia, SC, USA |
 | [JSConf UY](https://jsconf.uy/) | April 15-16, 2016 || Montevideo, Uruguay |
-| [React Amsterdam](http://react-amsterdam.com/) | April 16, 2016 || Amsterdam, The Netherlands |
+| [React Amsterdam](https://react.amsterdam/2016) | April 16, 2016 || Amsterdam, The Netherlands |
 | [JSUnconf](http://2016.jsunconf.eu/) | April 23-24, 2016 || Hamburg, Germany|
 |May||||
 | [JSConf BE](https://jsconf.be/en/) | May 3, 2016	|| Bruges, Belgium |
