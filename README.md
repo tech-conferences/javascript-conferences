@@ -70,7 +70,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [ng-conf](http://www.ng-conf.org) | May 4-6, 2016	|| Salt Lake City, UT, USA |
 | [London NodeConf](http://london.nodeconf.com/) | May 11, 2016 || London, UK |
 | [JSDay Italy](http://2016.jsday.it/) | May 11-12, 2016 || Verona, Italy |
-| [JSConf Budapest](http://jsconfbp.com/) | May 12-13, 2015 || Budapest, Hungary |
+| [JSConf Budapest](http://jsconfbp.com/) | May 12-13, 2016 || Budapest, Hungary |
 | [Front Trends](http://2016.front-trends.com) | May 18-20, 2016 || Warsaw, Poland |
 | [PhoneGap Day EU](http://pgday.phonegap.com/eu2016) | May 19-20, 2016 || Amsterdam, The Netherlands |
 | [Frontend United](http://frontendunited.org/) | May 27-28, 2016 || Ghent, Belgium |
