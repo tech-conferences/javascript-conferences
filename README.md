@@ -24,10 +24,10 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [JSConf EU](http://2017.jsconf.eu/) | May 6-7, 2017 || Berlin, Germany |
 | [JSDay Italy](http://2017.jsday.it/) | May 10-11, 2017 |[January 31, 2017](http://cfp.jsday.it/)| Verona, Italy |
 | [React Europe](https://www.react-europe.org/) | May 18-19, 2017 |[CFP](https://checkout.eventlama.com/#/events/reacteurope-2017/cfp)| Paris, France |
-| [DEVit](http://devitconf.org) | May 20-21, 2017 |TBA| Thessaloniki, Greece |
+| [DEVit](http://devitconf.org) | May 20-21, 2017 || Thessaloniki, Greece |
 | [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
 | [Frontend United](http://frontendunited.org/) | May 26-27, 2017 || Athens, Greece |
-| [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 |[January 15, 2015](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSd0Knvu5Ulp6lpEpfx337eFWQmrXwrLzE7ucf4TnTL9fuE6_g/viewform?c=0&w=1&usp=send_form)| Miami, FL, USA |
+| [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 |[January 15, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSd0Knvu5Ulp6lpEpfx337eFWQmrXwrLzE7ucf4TnTL9fuE6_g/viewform?c=0&w=1&usp=send_form)| Miami, FL, USA |
 |June||||
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
 | [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 || San Jose, CA, USA |
