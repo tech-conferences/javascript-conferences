@@ -8,6 +8,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | ------------- | ------------- | ------------- | ------------- |
 |January||||
 | [Agent Conference](http://agent.sh/) | January 20-21, 2017 || Dornbirn, Austria |
+| [Budapest NodeConf 2017](https://nodeconf.risingstack.com/) | January 19-20, 2017 || Budapest, Hungary |
 |February||||
 | [The Rolling Scopes](https://2017.conf.rollingscopes.com/) | February 18-19, 2017 || Minsk, Belarus |
 | [ForwardJS](https://forwardjs.com/) | February 25-March 5, 2017 || San Francisco, CA, USA |
