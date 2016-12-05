@@ -150,5 +150,5 @@ Please send Pull requests to add events to the list. Please do not add workshops
 |December||||
 | [JSConf Australia](http://2016.jsconfau.com/) | December 1, 2016 || Melbourne, Australia |
 | [Most JS Frameworks Day](http://frameworksdays.com/event/most-js-fwdays-2016) | December 4, 2016 || Kyiv, Ukraine |
-| [DotJS](http://www.dotjs.io/) | December 5, 2016 || Paris, France |
+| [DotJS](http://www.dotjs.io/) | December 02-05, 2016 || Paris, France |
 | [HolyJS](http://holyjs.ru/) | December 11, 2016 || Moscow, Russia |
