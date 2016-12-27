@@ -11,6 +11,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Agent Conference](http://agent.sh/) | January 20-21, 2017 || Dornbirn, Austria |
 | [Script'17](https://scriptconf.org/) | January 27, 2017 || Linz, Austria |
 |February||||
+| [ngVikings](https://ngvikings.org/) | February 11, 2017 || Copenhagen, Denmark |
 | [The Rolling Scopes](https://2017.conf.rollingscopes.com/) | February 18-19, 2017 || Minsk, Belarus |
 | [ForwardJS](https://forwardjs.com/) | February 25-March 5, 2017 || San Francisco, CA, USA |
 |March||||
