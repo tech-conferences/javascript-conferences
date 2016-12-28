@@ -4,8 +4,9 @@ That's been a great year!
 Total number of events listed: 96
 
 Number of events by country:
-| Country  | Events |
-| ------------- | ------------- |
+
+| Country | Events |
+| ------- | ------ |
 | USA | 25 |
 | Germany | 10 |
 | UK | 9 |
@@ -39,6 +40,7 @@ Number of events by country:
 | Taiwan | 1 |
 | Ukraine | 1 |
 | Uruguay | 1 |
+
 
 | Conference  | Date | Submission Deadline | Location |
 | ------------- | ------------- | ------------- | ------------- |
