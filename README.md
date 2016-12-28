@@ -2,7 +2,9 @@ This is a list of conferences for frontend and Node.js developers. The list is g
 
 Please send Pull requests to add events to the list. Please do not add workshops and user group meetups.
 
-## 2017
+You can find a list of events in 2016 [here](https://github.com/prigara/javascript-conferences/blob/master/2016/README.md). 
+
+## JavaScript conferences in 2017
 
 | Conference  | Date | Submission Deadline | Location |
 | ------------- | ------------- | ------------- | ------------- |
