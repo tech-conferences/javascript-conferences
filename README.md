@@ -16,6 +16,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [ForwardJS](https://forwardjs.com/) | February 25-March 5, 2017 || San Francisco, CA, USA |
 |March||||
 | React Conf | March 13-14, 2017 | | Santa Clara, CA, USA |
+| [JS Remote Conf](https://devchat.tv/conferences/js-remote-conf-2017) | March 15-16, 2017 | [January 15. 2017](https://devchat.tv/conferences/js-remote-conf-2017) | Online |
 | [React London](https://react.london/) | March 28, 2017 | [CFP](https://www.papercall.io/reactlondon2017) | London, UK |
 | [EmberConf](http://emberconf.com/) | March 28-29, 2017 || Portland, OR, USA |
 | [Render](http://2017.render-conf.com/) | March 30-31, 2017 || Oxford, UK |
