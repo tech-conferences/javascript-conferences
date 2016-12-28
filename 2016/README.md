@@ -1,6 +1,44 @@
-List of conferences in 2016.
+## JavaScript conferences in 2016
 
-## 2016
+That's been a great year!
+Total number of events listed: 96
+
+Number of events by country:
+| Country  | Events |
+| ------------- | ------------- |
+| USA | 25 |
+| Germany | 10 |
+| UK | 9 |
+| The Netherlands | 6 |
+| France | 5 |
+| Australia | 3 |
+| Israel | 3 |
+| Italy | 3 |
+| Poland | 3 |
+| Spain | 3 |
+| Belgium | 2 |
+| Brazil | 2 |
+| Switzerland | 2 |
+| Argentina | 1 |
+| Denmark | 1 |
+| Canada | 1 |
+| China | 1 |
+| Colombia | 1 |
+| Croatia | 1 |
+| Hungary | 1 |
+| Iceland | 1 |
+| India | 1 |
+| Norway | 1 |
+| Online | 1 |
+| Romania | 1 |
+| Russia | 1 |
+| Singapore | 1 |
+| South Africa | 1 |
+| Slovakia | 1 |
+| Sweden | 1 |
+| Taiwan | 1 |
+| Ukraine | 1 |
+| Uruguay | 1 |
 
 | Conference  | Date | Submission Deadline | Location |
 | ------------- | ------------- | ------------- | ------------- |
@@ -15,7 +53,7 @@ List of conferences in 2016.
 |March||||
 | [EnhanceConf](http://enhanceconf.com/index.html) | March 4, 2016 || London, UK |
 | [Fluent](fluentconf.com) | March 8-10, 2016 || San Francisco, CA, USA |
-| [NationJS](http://nationjs.com/) | March 11, 2016 || Washington, DC |
+| [NationJS](http://nationjs.com/) | March 11, 2016 || Washington, DC, USA |
 | [SmashingConf Oxford](http://smashingconf.com/speakers) | March 15-16, 2016 || Oxford, UK |
 | [JavaScript Days](http://javascript-days.de/) | March 21-23, 2016 || Munich, Germany |
 | [EmberConf](http://emberconf.com/) | March 29-30, 2016 || Portland, OR, USA |
@@ -62,7 +100,6 @@ List of conferences in 2016.
 |August||||
 | [Code](http://www.webdirections.org/code16/) | August 1-2, 2016 || Melbourne, Australia |
 | [Midwest JS](http://midwestjs.com/) | August 10-12, 2016 || Minneapolis, MN, USA |
-| [BrazilJS Conf](https://braziljs.org) | August 19-20, 2016 || Porto Alegre, Brazil |
 | [JSConf Iceland](http://jsconf.is/) | August 25-26, 2016 || Reykjavik, Iceland |
 | [React Rally](http://www.reactrally.com/#/) | August 25-26, 2016 || Salt Lake City, UT, USA |
 | [NeJS Conf](https://nejsconf.com/) | August 26, 2016 || Omaha, NE, USA |
@@ -97,7 +134,7 @@ List of conferences in 2016.
 | [Dart Summit](https://www.dartlang.org/events/2016/summit/) | October 26-27, 2016 || Munich, Germany |
 | [Reactive Conference](https://reactiveconf.com/) | October 26-28, 2016 || Bratislava, Slovakia |
 |November||||
-| [ThunderPlains](http://thunderplainsconf.com/) | November 3-4, 2016 || Oklahoma City, OK |
+| [ThunderPlains](http://thunderplainsconf.com/) | November 3-4, 2016 || Oklahoma City, OK, USA |
 | [Beyond Tellerrand](https://beyondtellerrand.com/events/berlin-2016) | November 7-9, 2016 || Berlin, Germany |
 | [Frontier](https://www.frontierconf.com/) | November 16, 2016 || London, UK |
 | [Angular Up](http://angular-up.com/) | November 17, 2016 | | Tel Aviv, Israel |
