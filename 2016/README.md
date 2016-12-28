@@ -1,9 +1,12 @@
 ## JavaScript conferences in 2016
 
 That's been a great year!
-Total number of events listed: 96
+Total number of events listed: **96**
 
-Number of events by country:
+- [Number of events by country](#number-of-events-by-country)
+- [List of events](#list-of-events)
+
+### Number of events by country
 
 | Country | Events |
 | ------- | ------ |
@@ -41,6 +44,7 @@ Number of events by country:
 | Ukraine | 1 |
 | Uruguay | 1 |
 
+### List of events
 
 | Conference  | Date | Submission Deadline | Location |
 | ------------- | ------------- | ------------- | ------------- |
