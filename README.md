@@ -25,6 +25,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |April||||
 | [SmashingConf San Francisco](https://smashingconf.com/) | April 4-5, 2017 || San Francisco, CA, USA |
 | [ng-conf](https://www.ng-conf.org/) | April 5-7, 2017 |[January 8, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1)| Salt Lake City, UT, USA |
+| [Bulgaria Web Summit](https://bulgariawebsummit.com/) | April 7-8, 2017 || Sofia, Bulgaria |
 | [React Amsterdam](https://react.amsterdam) | April 21, 2017 | [January 15, 2017](https://goo.gl/forms/hlHKecnwQKK84BRE2) | Amsterdam, The Netherlands |
 | [Jazoon](http://jazoon.com/) | April 24, 2017 || Bern, Switzerland |
 |May||||
