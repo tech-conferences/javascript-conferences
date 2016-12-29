@@ -45,3 +45,5 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [NordicJS](http://nordicjs.com/) | September 7-8, 2017 || Stockholm, Sweden |
 |November||||
 | [AngularConnect](http://angularconnect.com/) | November 6-7, 2017 |[March 31, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
+|December||||
+| [NG-BE](https://ng-be.org/) | December 7-8, 2017 || Ghent, Belgium |
