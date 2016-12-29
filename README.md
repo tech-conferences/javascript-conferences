@@ -31,8 +31,8 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [React Amsterdam](https://react.amsterdam) | April 21, 2017 | [January 15, 2017](https://goo.gl/forms/hlHKecnwQKK84BRE2) | Amsterdam, The Netherlands |
 | [Jazoon](http://jazoon.com/) | April 24, 2017 || Bern, Switzerland |
 |May||||
-| [CSSConf EU](http://2017.cssconf.eu/) | May 5, 2017 || Berlin, Germany |
-| [JSConf EU](http://2017.jsconf.eu/) | May 6-7, 2017 || Berlin, Germany |
+| [CSSConf EU](http://2017.cssconf.eu/) | May 5, 2017 |[CFP](http://2017.cssconf.eu/call-for-speakers/)| Berlin, Germany |
+| [JSConf EU](http://2017.jsconf.eu/) | May 6-7, 2017 |[January 1, 2017](http://2017.jsconf.eu/call-for-speakers/)| Berlin, Germany |
 | [JSDay Italy](http://2017.jsday.it/) | May 10-11, 2017 |[January 31, 2017](http://cfp.jsday.it/)| Verona, Italy |
 | [Beyond Tellerrand](https://beyondtellerrand.com/events/duesseldorf-2017) | May 15-17, 2017 || Düsseldorf, Germany |
 | [React Europe](https://www.react-europe.org/) | May 18-19, 2017 |[CFP](https://checkout.eventlama.com/#/events/reacteurope-2017/cfp)| Paris, France |
