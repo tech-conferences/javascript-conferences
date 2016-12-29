@@ -12,7 +12,7 @@ Total number of events listed: **96**
 | ------- | ------ |
 | USA | 25 |
 | Germany | 10 |
-| UK | 9 |
+| UK | 10 |
 | The Netherlands | 6 |
 | France | 5 |
 | Australia | 3 |
@@ -142,6 +142,7 @@ Total number of events listed: **96**
 |November||||
 | [ThunderPlains](http://thunderplainsconf.com/) | November 3-4, 2016 || Oklahoma City, OK, USA |
 | [Beyond Tellerrand](https://beyondtellerrand.com/events/berlin-2016) | November 7-9, 2016 || Berlin, Germany |
+| [ffconf](https://2016.ffconf.org/) | November 10-11, 2016 || Brighton, UK |
 | [Frontier](https://www.frontierconf.com/) | November 16, 2016 || London, UK |
 | [Angular Up](http://angular-up.com/) | November 17, 2016 | | Tel Aviv, Israel |
 | [HalfStack](http://halfstackconf.com/) | November 19, 2016 || London, UK |
