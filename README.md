@@ -11,8 +11,8 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |January||||
 | [Budapest NodeConf 2017](https://nodeconf.risingstack.com/) | January 19-20, 2017 || Budapest, Hungary |
 | [Agent Conference](http://agent.sh/) | January 20-21, 2017 || Dornbirn, Austria |
-| [So Ember](http://soember.com/) | January 27, 2017 || Linz, Austria |
-| [Script](https://scriptconf.org/) | January 27, 2017 || San Diego, CA, USA |
+| [So Ember](http://soember.com/) | January 27, 2017 || San Diego, CA, USA |
+| [Script](https://scriptconf.org/) | January 27, 2017 || Linz, Austria |
 |February||||
 | [ngVikings](https://ngvikings.org/) | February 11, 2017 || Copenhagen, Denmark |
 | [FrontFest](http://frontfest.es/) | February 18, 2017 || Madrid, Spain |
