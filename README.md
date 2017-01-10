@@ -46,7 +46,9 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Web Rebels](https://www.webrebels.org/) | June 1-2, 2017 |[January 30, 2017](https://www.papercall.io/webreb2017)| Oslo, Norway |
 | [ConvergeSe](http://convergese.com/) | June 14-16, 2017 |[February 1, 2017](https://period3.wufoo.com/forms/convergese-2017-speakertalk/)| Columbia, SC, USA |
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
-| [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 | [January 10, 2017](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522?imm_mid=0eb60b&cmp=em-web-na-na-newsltr_20161207) | San Jose, CA, USA |
+| [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 | [January 10, 2017](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA |
+|July|||
+| [Chain React](https://infinite.red/ChainReactConf) | July 10-11, 2017 | [CFP](https://www.papercall.io/chain-react-conf-2017) | Portland, OR, USA |
 |August||||
 | [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 |[April 30, 2017](https://frontendconf.ch/call-for-speakers/)| Zurich, Switzerland |
 |September||||
