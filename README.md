@@ -43,6 +43,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Frontend United](http://frontendunited.org/) | May 26-27, 2017 || Athens, Greece |
 | [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 |[January 15, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSd0Knvu5Ulp6lpEpfx337eFWQmrXwrLzE7ucf4TnTL9fuE6_g/viewform?c=0&w=1&usp=send_form)| Miami, FL, USA |
 |June||||
+| [VueConf](https://conf.vuejs.org/) | Summer 2017 |[CFP](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSdtbxBpV0j_zCnELXQuIkeGH8x6gaOWE0J8tTsAdpa0O5MYOw/viewform)| Wroclaw, Poland |
 | [Web Rebels](https://www.webrebels.org/) | June 1-2, 2017 |[January 30, 2017](https://www.papercall.io/webreb2017)| Oslo, Norway |
 | [ConvergeSe](http://convergese.com/) | June 14-16, 2017 |[February 1, 2017](https://period3.wufoo.com/forms/convergese-2017-speakertalk/)| Columbia, SC, USA |
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
