@@ -19,7 +19,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [The Rolling Scopes](https://2017.conf.rollingscopes.com/) | February 18-19, 2017 || Minsk, Belarus |
 | [ForwardJS](https://forwardjs.com/) | February 25-March 5, 2017 || San Francisco, CA, USA |
 |March||||
-| React Conf | March 13-14, 2017 | [January 13, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSeCHJZarnSekVLHCXlOXqDix-jNHknhKkhMu_zCIVz7qf2wLw/viewform) | Santa Clara, CA, USA |
+| [React Conf](http://conf.reactjs.org/) | March 13-14, 2017 | [January 13, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSeCHJZarnSekVLHCXlOXqDix-jNHknhKkhMu_zCIVz7qf2wLw/viewform) | Santa Clara, CA, USA |
 | [JS Remote Conf](https://devchat.tv/conferences/js-remote-conf-2017) | March 15-16, 2017 | [January 15, 2017](https://devchat.tv/conferences/js-remote-conf-2017) | Online |
 | [JazzCon.Tech](http://jazzcon.tech/) | March 22-24, 2017 | | New Orleans, LA, USA |
 | [React London](https://react.london/) | March 28, 2017 | [CFP](https://www.papercall.io/reactlondon2017) | London, UK |
