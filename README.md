@@ -58,6 +58,6 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 || Alanta, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 || Toronto, Canada |
 |November||||
-| [AngularConnect](http://angularconnect.com/) | November 6-7, 2017 |[March 31, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
+| [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 |[April 28, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
 |December||||
 | [NG-BE](https://ng-be.org/) | December 7-8, 2017 || Ghent, Belgium |
