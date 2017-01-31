@@ -31,6 +31,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Bulgaria Web Summit](https://bulgariawebsummit.com/) | April 7-8, 2017 || Sofia, Bulgaria |
 | [Universal JS Day](http://2017.universaljsday.com/) | April 8, 2017 |[March 13, 2017](https://docs.google.com/forms/d/e/1FAIpQLSdhaLbbk4mN4k_Y4fR3DTbx0f-b9YKheWqnKy4RFe05ioeUlA/viewform)| Ferrara, Italy |
 | [React Amsterdam](https://react.amsterdam) | April 21, 2017 | [January 15, 2017](https://goo.gl/forms/hlHKecnwQKK84BRE2) | Amsterdam, The Netherlands |
+| [JS fwdays](http://frameworksdays.com/event/js-frameworks-day-2017) | April 22, 2017 | [March 6, 2017](https://docs.google.com/forms/d/e/1FAIpQLSeL_LKcjm34cC70rrRhydh1e95idZUk64gcl1mVSSvCGjgwPA/viewform) | Kyiv, Ukraine |
 | [Jazoon](http://jazoon.com/) | April 24, 2017 || Bern, Switzerland |
 |May||||
 | [CSSConf EU](http://2017.cssconf.eu/) | May 5, 2017 |[CFP](http://2017.cssconf.eu/call-for-speakers/)| Berlin, Germany |
