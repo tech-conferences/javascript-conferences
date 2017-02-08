@@ -46,6 +46,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |June||||
 | [VueConf](https://conf.vuejs.org/) | Summer 2017 |[CFP](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSdtbxBpV0j_zCnELXQuIkeGH8x6gaOWE0J8tTsAdpa0O5MYOw/viewform)| Wroclaw, Poland |
 | [Web Rebels](https://www.webrebels.org/) | June 1-2, 2017 |[January 30, 2017](https://www.papercall.io/webreb2017)| Oslo, Norway |
+| [HolyJS](https://holyjs-piter.ru/) | June 2-3, 2017 |[May, 2017](https://holyjs-piter.ru/callforpapers/)| St.Petersburg, Russia |
 | [ConvergeSe](http://convergese.com/) | June 14-16, 2017 |[February 1, 2017](https://period3.wufoo.com/forms/convergese-2017-speakertalk/)| Columbia, SC, USA |
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
 | [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 | [January 10, 2017](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) | San Jose, CA, USA |
