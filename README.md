@@ -56,7 +56,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |September||||
 | [NordicJS](http://nordicjs.com/) | September 7-8, 2017 |[CFP](http://cfp.nordicjs.com/)| Stockholm, Sweden |
 | [Refresh](http://refresh.rocks/) | September 8, 2017 |[CFP](http://refresh.rocks/call-for-papers/)| Tallinn, Estonia |
-| [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 || Alanta, USA |
+| [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 || Atlanta, GA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 || Toronto, Canada |
 |November||||
 | [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 |[April 28, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
