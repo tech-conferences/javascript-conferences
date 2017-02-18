@@ -41,7 +41,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [React Europe](https://www.react-europe.org/) | May 18-19, 2017 |[CFP](https://checkout.eventlama.com/#/events/reacteurope-2017/cfp)| Paris, France |
 | [DEVit](http://devitconf.org) | May 20-21, 2017 | [February 5, 2017](https://docs.google.com/forms/d/e/1FAIpQLSerkbErsF-xWJi62yNJ8bmeA_4WQjPzMVxkvafWWAtTS5b9Pw/viewform) | Thessaloniki, Greece |
 | [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
-| [Active Indgredients](https://activeingredients.info/) | April 28, 2017 | [CFP](https://www.papercall.io/active-ingredients-web) |
+| [Active Indgredients](https://activeingredients.info/) | April 28, 2017 | [CFP](https://www.papercall.io/active-ingredients-web) | San Francisco, CA, USA |
 | [Frontend United](http://frontendunited.org/) | May 26-27, 2017 || Athens, Greece |
 | [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 |[January 15, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSd0Knvu5Ulp6lpEpfx337eFWQmrXwrLzE7ucf4TnTL9fuE6_g/viewform?c=0&w=1&usp=send_form)| Miami, FL, USA |
 |June||||
