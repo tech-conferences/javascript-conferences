@@ -65,6 +65,8 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [jsfoo](https://jsfoo.in/2017/) | September 8–9, 2017 | [June 15, 2017](https://jsfoo.talkfunnel.com/2017/) | Bangalore, India |
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 || Atlanta, GA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 || Toronto, Canada |
+|October||||
+| [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 || Bochum, Germany |
 |November||||
 | [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 |[April 28, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
 | [dotCSS](https://2017.dotcss.io/) | Nov 30, 2017 | | Paris, France |
