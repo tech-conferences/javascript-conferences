@@ -23,6 +23,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [JS Remote Conf](https://devchat.tv/conferences/js-remote-conf-2017) | March 15-16, 2017 | | Online |
 | [boost(js)](http://boostjs.io/) | March 20-22, 2017 | | Tel Aviv, Israel |
 | [JazzCon.Tech](http://jazzcon.tech/) | March 22-24, 2017 | | New Orleans, LA, USA |
+| [JSUnconf](http://2017.jsunconf.eu/) | March 25-26, 2017 || Hamburg, Germany |
 | [React London](https://react.london/) | March 28, 2017 | | London, UK |
 | [EmberConf](http://emberconf.com/) | March 28-29, 2017 || Portland, OR, USA |
 | [Render](http://2017.render-conf.com/) | March 30-31, 2017 || Oxford, UK |
