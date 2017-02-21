@@ -23,6 +23,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [JS Remote Conf](https://devchat.tv/conferences/js-remote-conf-2017) | March 15-16, 2017 | | Online |
 | [boost(js)](http://boostjs.io/) | March 20-22, 2017 | | Tel Aviv, Israel |
 | [JazzCon.Tech](http://jazzcon.tech/) | March 22-24, 2017 | | New Orleans, LA, USA |
+| [JSUnconf](http://2017.jsunconf.eu/) | March 25-26, 2017 || Hamburg, Germany |
 | [React London](https://react.london/) | March 28, 2017 | | London, UK |
 | [EmberConf](http://emberconf.com/) | March 28-29, 2017 || Portland, OR, USA |
 | [Render](http://2017.render-conf.com/) | March 30-31, 2017 || Oxford, UK |
@@ -69,8 +70,9 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |October||||
 | [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 || Bochum, Germany |
 |November||||
-| [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 |[April 28, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
-| [dotCSS](https://2017.dotcss.io/) | Nov 30, 2017 | | Paris, France |
+| [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
+| [HalfStack](http://halfstackconf.com/) | November 17, 2017 || London, UK |
+| [dotCSS](https://2017.dotcss.io/) | Nov 30, 2017 || Paris, France |
 |December||||
-| [dotJS](https://2017.dotjs.io) | Dec 1, 2017 | | Paris, France |
+| [dotJS](https://2017.dotjs.io) | Dec 1, 2017 || Paris, France |
 | [NG-BE](https://ng-be.org/) | December 7-8, 2017 || Ghent, Belgium |
