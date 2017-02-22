@@ -43,7 +43,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [React Europe](https://www.react-europe.org/) | May 18-19, 2017 | | Paris, France |
 | [DEVit](http://devitconf.org) | May 20-21, 2017 | | Thessaloniki, Greece |
 | [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
-| [Active Indgredients](https://activeingredients.info/) | April 28, 2017 | [CFP](https://www.papercall.io/active-ingredients-web) | San Francisco, CA, USA |
+| [Active Ingredients](https://activeingredients.info/) | April 28, 2017 | [CFP](https://www.papercall.io/active-ingredients-web) | San Francisco, CA, USA |
 | [Frontend United](http://frontendunited.org/) | May 26-27, 2017 || Athens, Greece |
 | [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 | | Miami, FL, USA |
 |June||||
@@ -51,7 +51,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Web Rebels](https://www.webrebels.org/) | June 1-2, 2017 | | Oslo, Norway |
 | [HolyJS](https://holyjs-piter.ru/) | June 2-3, 2017 |[May, 2017](https://holyjs-piter.ru/callforpapers/)| St. Petersburg, Russia |
 | [AmsterdamJS](https://amsterdamjs.com/) | June 9, 2017 |[April, 2017](https://docs.google.com/forms/d/19HUzF0niKkdAjV335OVTWrG_i8PnTpW6IYNxHCCYPx8)| Amsterdam, The Netherlands |
-| [ConvergeSe](http://convergese.com/) | June 14-16, 2017 | | Columbia, SC, USA |
+| [ConvergeSE](http://convergese.com/) | June 14-16, 2017 | | Columbia, SC, USA |
 | [pitercss](https://pitercss.com/) | June 16, 2017 |[April 30, 2017](https://pitercss.com/call-for-speakers/)| St. Petersburg, Russia |
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
 | [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 | | San Jose, CA, USA |
