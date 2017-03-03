@@ -35,6 +35,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [React Amsterdam](https://react.amsterdam) | April 21, 2017 | | Amsterdam, The Netherlands |
 | [JS fwdays](http://frameworksdays.com/event/js-frameworks-day-2017) | April 22, 2017 | [March 6, 2017](https://docs.google.com/forms/d/e/1FAIpQLSeL_LKcjm34cC70rrRhydh1e95idZUk64gcl1mVSSvCGjgwPA/viewform) | Kyiv, Ukraine |
 | [Jazoon](http://jazoon.com/) | April 24, 2017 || Bern, Switzerland |
+| [Active Ingredients](https://activeingredients.info/) | April 28, 2017 | [CFP](https://www.papercall.io/active-ingredients-web) | San Francisco, CA, USA |
 |May||||
 | [CSSConf EU](http://2017.cssconf.eu/) | May 5, 2017 | | Berlin, Germany |
 | [JSConf EU](http://2017.jsconf.eu/) | May 6-7, 2017 | | Berlin, Germany |
@@ -43,7 +44,6 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [React Europe](https://www.react-europe.org/) | May 18-19, 2017 | | Paris, France |
 | [DEVit](http://devitconf.org) | May 20-21, 2017 | | Thessaloniki, Greece |
 | [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
-| [Active Ingredients](https://activeingredients.info/) | April 28, 2017 | [CFP](https://www.papercall.io/active-ingredients-web) | San Francisco, CA, USA |
 | [Frontend United](http://frontendunited.org/) | May 26-27, 2017 || Athens, Greece |
 | [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 | | Miami, FL, USA |
 |June||||
