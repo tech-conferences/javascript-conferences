@@ -68,6 +68,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 || Atlanta, GA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 || Toronto, Canada |
 |October||||
+| [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) | October 4-6, 2017 | [April 10, 2017](http://events.linuxfoundation.org/events/node-interactive/program/cfp-guide) | Vancouver, Canada |
 | [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 || Bochum, Germany |
 |November||||
 | [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
