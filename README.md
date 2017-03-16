@@ -53,6 +53,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [AmsterdamJS](https://amsterdamjs.com/) | June 9, 2017 |[April, 2017](https://docs.google.com/forms/d/19HUzF0niKkdAjV335OVTWrG_i8PnTpW6IYNxHCCYPx8)| Amsterdam, The Netherlands |
 | [ConvergeSE](http://convergese.com/) | June 14-16, 2017 | | Columbia, SC, USA |
 | [pitercss](https://pitercss.com/) | June 16, 2017 |[April 30, 2017](https://pitercss.com/call-for-speakers/)| St. Petersburg, Russia |
+| [JS Poland](http://js-poland.pl/) | June 19, 2017 | | Warsaw, Poland |
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
 | [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 | | San Jose, CA, USA |
 | [VueConf](https://conf.vuejs.org/) | June 21-23, 2017 |[CFP](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSdtbxBpV0j_zCnELXQuIkeGH8x6gaOWE0J8tTsAdpa0O5MYOw/viewform)| Wroclaw, Poland |
@@ -74,6 +75,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |November||||
 | [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
 | [HalfStack](http://halfstackconf.com/) | November 17, 2017 || London, UK |
+| [ngPoland](http://ng-poland.pl/) | November 20, 2017 | | Warsaw, Poland |
 | [dotCSS](https://2017.dotcss.io/) | Nov 30, 2017 || Paris, France |
 |December||||
 | [dotJS](https://2017.dotjs.io) | Dec 1, 2017 || Paris, France |
