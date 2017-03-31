@@ -61,7 +61,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Chain React](https://infinite.red/ChainReactConf) | July 10-11, 2017 | [CFP](https://www.papercall.io/chain-react-conf-2017) | Portland, OR, USA |
 | [CSS Day](https://cssday.nl/2017) | July 15-16, 2017 | | Amsterdam, Netherlands |
 | [Node Summit](http://nodesummit.com/) | July 25-27, 2017 | | San Francisco, CA, USA |
-| [JSChannel](http://2017.jschannel.com/) | July 28-19, 2017 | | Bengaluru, India |
+| [JSChannel](http://2017.jschannel.com/) | July 28-29, 2017 | | Bengaluru, India |
 |August||||
 | [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 |[April 30, 2017](https://frontendconf.ch/call-for-speakers/)| Zurich, Switzerland |
 |September||||
