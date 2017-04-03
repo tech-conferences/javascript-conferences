@@ -63,7 +63,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Node Summit](http://nodesummit.com/) | July 25-27, 2017 | | San Francisco, CA, USA |
 | [JSChannel](http://2017.jschannel.com/) | July 28-29, 2017 | | Bengaluru, India |
 |August||||
-| [React Rally](http://www.reactrally.com/) | August 24th-25th | [Apr 16, 2017](http://speak.reactrally.com/events/react-rally-2017) | Salt Lake City, UT |
+| [React Rally](http://www.reactrally.com/) | August 24th-25th, 2017 | [Apr 16, 2017](http://speak.reactrally.com/events/react-rally-2017) | Salt Lake City, UT |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 |[April 30, 2017](https://frontendconf.ch/call-for-speakers/)| Zurich, Switzerland |
 |September||||
 | [NordicJS](http://nordicjs.com/) | September 7-8, 2017 |[CFP](http://cfp.nordicjs.com/)| Stockholm, Sweden |
