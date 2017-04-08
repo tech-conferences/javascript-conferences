@@ -31,11 +31,11 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [SmashingConf San Francisco](https://smashingconf.com/) | April 4-5, 2017 | | San Francisco, CA, USA |
 | [ng-conf](https://www.ng-conf.org/) | April 5-7, 2017 | | Salt Lake City, UT, USA |
 | [Bulgaria Web Summit](https://bulgariawebsummit.com/) | April 7-8, 2017 | | Sofia, Bulgaria |
-| [Universal JS Day](http://2017.universaljsday.com/) | April 8, 2017 |[March 13, 2017](https://docs.google.com/forms/d/e/1FAIpQLSdhaLbbk4mN4k_Y4fR3DTbx0f-b9YKheWqnKy4RFe05ioeUlA/viewform)| Ferrara, Italy |
+| [Universal JS Day](http://2017.universaljsday.com/) | April 8, 2017 | | Ferrara, Italy |
 | [React Amsterdam](https://react.amsterdam) | April 21, 2017 | | Amsterdam, The Netherlands |
-| [JS fwdays](http://frameworksdays.com/event/js-frameworks-day-2017) | April 22, 2017 | [March 6, 2017](https://docs.google.com/forms/d/e/1FAIpQLSeL_LKcjm34cC70rrRhydh1e95idZUk64gcl1mVSSvCGjgwPA/viewform) | Kyiv, Ukraine |
+| [JS fwdays](http://frameworksdays.com/event/js-frameworks-day-2017) | April 22, 2017 | | Kyiv, Ukraine |
 | [Jazoon](http://jazoon.com/) | April 24, 2017 | | Bern, Switzerland |
-| [Active Ingredients](https://activeingredients.info/) | April 28, 2017 | [CFP](https://www.papercall.io/active-ingredients-web) | San Francisco, CA, USA |
+| [Active Ingredients](https://activeingredients.info/) | April 28, 2017 | | San Francisco, CA, USA |
 |May||||
 | [CSSConf EU](http://2017.cssconf.eu/) | May 5, 2017 | | Berlin, Germany |
 | [JSConf EU](http://2017.jsconf.eu/) | May 6-7, 2017 | | Berlin, Germany |
@@ -49,8 +49,8 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |June||||
 | [Web Rebels](https://www.webrebels.org/) | June 1-2, 2017 | | Oslo, Norway |
 | [HolyJS](https://holyjs-piter.ru/) | June 2-3, 2017 |[May, 2017](https://holyjs-piter.ru/callforpapers/)| St. Petersburg, Russia |
-| [JS Heroes](http://jsheroes.io/) | June 8-9, 2017 |[April 1st, 2017](https://docs.google.com/forms/d/e/1FAIpQLScwyWpsd1twzhCSZWILzxm-IauySJ4HHjoS2JP6AANynyutTw/viewform#response=ACYDBNhtFIyuKRPlI1Y27jx8A3uNRlnkrVMW_dnAAZBmar3u4hx0KQ1n3EDnpg)| Cluj-Napoca, Romania |
-| [AmsterdamJS](https://amsterdamjs.com/) | June 9, 2017 |[April, 2017](https://docs.google.com/forms/d/19HUzF0niKkdAjV335OVTWrG_i8PnTpW6IYNxHCCYPx8)| Amsterdam, The Netherlands |
+| [JS Heroes](http://jsheroes.io/) | June 8-9, 2017 | | Cluj-Napoca, Romania |
+| [AmsterdamJS](https://amsterdamjs.com/) | June 9, 2017 | | Amsterdam, The Netherlands |
 | [ConvergeSE](http://convergese.com/) | June 14-16, 2017 | | Columbia, SC, USA |
 | [pitercss](https://pitercss.com/) | June 16, 2017 |[April 30, 2017](https://pitercss.com/call-for-speakers/)| St. Petersburg, Russia |
 | [JS Poland](http://js-poland.pl/) | June 19, 2017 | | Warsaw, Poland |
