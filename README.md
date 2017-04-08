@@ -56,8 +56,8 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [JS Poland](http://js-poland.pl/) | June 19, 2017 | | Warsaw, Poland |
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
 | [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 | | San Jose, CA, USA |
-| [VueConf](https://conf.vuejs.org/) | June 21-23, 2017 |[CFP](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSdtbxBpV0j_zCnELXQuIkeGH8x6gaOWE0J8tTsAdpa0O5MYOw/viewform)| Wroclaw, Poland |
-| [AngularUP](http://angular-up.com/) | June 25, 2017 | [April 15, 2017](https://docs.google.com/a/prigara.com/forms/d/e/1FAIpQLSf5XQd7HFg2KCwke1PuYmrX14sMGY9dJJHWJUQ3czGSs4E2-w/viewform) | Tel Aviv, Israel |
+| [VueConf](https://conf.vuejs.org/) | June 21-23, 2017 |[CFP](https://docs.google.com/forms/d/e/1FAIpQLSdtbxBpV0j_zCnELXQuIkeGH8x6gaOWE0J8tTsAdpa0O5MYOw/viewform)| Wroclaw, Poland |
+| [AngularUP](http://angular-up.com/) | June 25, 2017 | [April 15, 2017](https://docs.google.com/forms/d/e/1FAIpQLSf5XQd7HFg2KCwke1PuYmrX14sMGY9dJJHWJUQ3czGSs4E2-w/viewform) | Tel Aviv, Israel |
 |July|||
 | [Chain React](https://infinite.red/ChainReactConf) | July 10-11, 2017 | [CFP](https://www.papercall.io/chain-react-conf-2017) | Portland, OR, USA |
 | [CSS Day](https://cssday.nl/2017) | July 15-16, 2017 | | Amsterdam, Netherlands |
@@ -77,10 +77,10 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 | | Bochum, Germany |
 | [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | [April 10, 2017](https://javascript-conference.com/call-for-papers-2017/) | Munich, Germany |
 |November||||
-| [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/a/jetbrains.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
+| [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
 | [HalfStack](http://halfstackconf.com/) | November 17, 2017 | | London, UK |
 | [ngPoland](http://ng-poland.pl/) | November 20, 2017 | | Warsaw, Poland |
-| [dotCSS](https://2017.dotcss.io/) | Nov 30, 2017 | | Paris, France |
+| [dotCSS](https://2017.dotcss.io/) | November 30, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
 |December||||
-| [dotJS](https://2017.dotjs.io) | Dec 1, 2017 | | Paris, France |
+| [dotJS](https://2017.dotjs.io) | December 1, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
 | [NG-BE](https://ng-be.org/) | December 7-8, 2017 | | Ghent, Belgium |
