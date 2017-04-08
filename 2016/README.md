@@ -102,7 +102,7 @@ Total number of events listed: **96**
 | [Node Summit](http://nodesummit.com/) | July 26-28, 2016 || San Francisco, CA, USA |
 | [Code](http://www.webdirections.org/code16/) | July 28-29, 2016 || Sydney, Australia |
 | [ForwardJS](https://forwardjs.com/) | July 29, 2016 || San Francisco, CA, USA |
-| [npm camp](http://npm.camp/) | July 30th, 2016 || Oakland, CA, USA |
+| [npm camp](http://npm.camp/) | July 30, 2016 || Oakland, CA, USA |
 |August||||
 | [Code](http://www.webdirections.org/code16/) | August 1-2, 2016 || Melbourne, Australia |
 | [Midwest JS](http://midwestjs.com/) | August 10-12, 2016 || Minneapolis, MN, USA |
@@ -126,7 +126,7 @@ Total number of events listed: **96**
 | [From the Front](https://2016.fromthefront.it/) | September 15-16, 2016 || Bologna, Italy |
 | [Smart Web](http://www.smartwebconf.com/) | September 20, 2016 || Bucharest, Romania |
 | [AngularConnect](http://angularconnect.com/) | September 27-28, 2016 || London, UK |
-| [Paris Web](http://www.paris-web.fr/) | September 29 - October 1, 2016 || Paris, France |
+| [Paris Web](http://www.paris-web.fr/) | September 29-October 1, 2016 || Paris, France |
 |October||||
 | [Web Unleashed](http://fitc.ca/event/webu16/) | October 3-4, 2016 | | Toronto, Canada |
 | [JSConf Colombia](http://jsconf.co/) | October 7-8, 2016 || Medellin, Colombia |
@@ -144,7 +144,7 @@ Total number of events listed: **96**
 | [Beyond Tellerrand](https://beyondtellerrand.com/events/berlin-2016) | November 7-9, 2016 || Berlin, Germany |
 | [ffconf](https://2016.ffconf.org/) | November 10-11, 2016 || Brighton, UK |
 | [Frontier](https://www.frontierconf.com/) | November 16, 2016 || London, UK |
-| [Angular Up](http://angular-up.com/) | November 17, 2016 | | Tel Aviv, Israel |
+| [AngularUP](http://angular-up.com/) | November 17, 2016 | | Tel Aviv, Israel |
 | [HalfStack](http://halfstackconf.com/) | November 19, 2016 || London, UK |
 | [NodeConf Argentina](https://2016.nodeconf.com.ar/) | November 18-19, 2016 || Buenos Aires, Argentina |
 | [Nodevember](http://nodevember.org/) | November 20-21, 2016 || Nashville, USA |
@@ -155,5 +155,5 @@ Total number of events listed: **96**
 |December||||
 | [JSConf Australia](http://2016.jsconfau.com/) | December 1, 2016 || Melbourne, Australia |
 | [Most JS Frameworks Day](http://frameworksdays.com/event/most-js-fwdays-2016) | December 4, 2016 || Kyiv, Ukraine |
-| [DotJS](http://www.dotjs.io/) | December 02-05, 2016 || Paris, France |
+| [DotJS](http://www.dotjs.io/) | December 2-5, 2016 || Paris, France |
 | [HolyJS](http://holyjs.ru/) | December 11, 2016 || Moscow, Russia |
