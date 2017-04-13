@@ -79,6 +79,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
 |November||||
 | [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
+| [FFConf](https://2017.ffconf.org) | November 9-10, 2017 | | Brighton, UK |
 | [HalfStack](http://halfstackconf.com/) | November 17, 2017 | | London, UK |
 | [ngPoland](http://ng-poland.pl/) | November 20, 2017 | | Warsaw, Poland |
 | [dotCSS](https://2017.dotcss.io/) | November 30, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
