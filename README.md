@@ -35,7 +35,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [React Amsterdam](https://react.amsterdam) | April 21, 2017 | | Amsterdam, The Netherlands |
 | [JS fwdays](http://frameworksdays.com/event/js-frameworks-day-2017) | April 22, 2017 | | Kyiv, Ukraine |
 | [Jazoon](http://jazoon.com/) | April 24, 2017 | | Bern, Switzerland |
-| [Active Ingredients](https://activeingredients.info/) | April 28, 2017 | | San Francisco, CA, USA |
+| [Active Ingredients](https://activeingredients.info/) | April 27, 2017 | | San Francisco, CA, USA |
 |May||||
 | [CSSConf EU](http://2017.cssconf.eu/) | May 5, 2017 | | Berlin, Germany |
 | [JSConf EU](http://2017.jsconf.eu/) | May 6-7, 2017 | | Berlin, Germany |
