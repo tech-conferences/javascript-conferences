@@ -52,6 +52,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [JS Heroes](http://jsheroes.io/) | June 8-9, 2017 | | Cluj-Napoca, Romania |
 | [AmsterdamJS](https://amsterdamjs.com/) | June 9, 2017 | | Amsterdam, The Netherlands |
 | [ConvergeSE](http://convergese.com/) | June 14-16, 2017 | | Columbia, SC, USA |
+| [DinosaurJS](https://dinosaurjs.org/) | June 15-16, 2017 | | Denver, CO, USA |
 | [pitercss](https://pitercss.com/) | June 16, 2017 |[April 30, 2017](https://pitercss.com/call-for-speakers/)| St. Petersburg, Russia |
 | [JS Poland](http://js-poland.pl/) | June 19, 2017 | | Warsaw, Poland |
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
