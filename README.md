@@ -60,6 +60,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [AngularUP](http://angular-up.com/) | June 25, 2017 | [April 15, 2017](https://docs.google.com/forms/d/e/1FAIpQLSf5XQd7HFg2KCwke1PuYmrX14sMGY9dJJHWJUQ3czGSs4E2-w/viewform) | Tel Aviv, Israel |
 |July|||
 | [Chain React](https://infinite.red/ChainReactConf) | July 10-11, 2017 | [CFP](https://www.papercall.io/chain-react-conf-2017) | Portland, OR, USA |
+| [JSinSA](http://www.jsinsa.com/) | July 15, 2017 | [May 01, 2017](https://www.papercall.io/jsinsa2017) | Johannesburg, South Africa |
 | [CSS Day](https://cssday.nl/2017) | July 15-16, 2017 | | Amsterdam, Netherlands |
 | [Node Summit](http://nodesummit.com/) | July 25-27, 2017 | | San Francisco, CA, USA |
 | [JSChannel](http://2017.jschannel.com/) | July 28-29, 2017 | | Bengaluru, India |
