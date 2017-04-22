@@ -48,7 +48,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 | | Miami, FL, USA |
 |June||||
 | [Web Rebels](https://www.webrebels.org/) | June 1-2, 2017 | | Oslo, Norway |
-| [HolyJS](https://holyjs-piter.ru/) | June 2-3, 2017 |[May, 2017](https://holyjs-piter.ru/callforpapers/)| St. Petersburg, Russia |
+| [HolyJS](https://holyjs-piter.ru/) | June 2-3, 2017 | | St. Petersburg, Russia |
 | [JS Heroes](http://jsheroes.io/) | June 8-9, 2017 | | Cluj-Napoca, Romania |
 | [AmsterdamJS](https://amsterdamjs.com/) | June 9, 2017 | | Amsterdam, The Netherlands |
 | [ConvergeSE](http://convergese.com/) | June 14-16, 2017 | | Columbia, SC, USA |
@@ -60,8 +60,8 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [VueConf](https://conf.vuejs.org/) | June 21-23, 2017 |[CFP](https://docs.google.com/forms/d/e/1FAIpQLSdtbxBpV0j_zCnELXQuIkeGH8x6gaOWE0J8tTsAdpa0O5MYOw/viewform)| Wroclaw, Poland |
 | [AngularUP](http://angular-up.com/) | June 25, 2017 | | Tel Aviv, Israel |
 |July|||
-| [Chain React](https://infinite.red/ChainReactConf) | July 10-11, 2017 | [CFP](https://www.papercall.io/chain-react-conf-2017) | Portland, OR, USA |
-| [JSinSA](http://www.jsinsa.com/) | July 15, 2017 | [May 01, 2017](https://www.papercall.io/jsinsa2017) | Johannesburg, South Africa |
+| [Chain React](https://infinite.red/ChainReactConf) | July 10-11, 2017 | | Portland, OR, USA |
+| [JSinSA](http://www.jsinsa.com/) | July 15, 2017 | [May 1, 2017](https://www.papercall.io/jsinsa2017) | Johannesburg, South Africa |
 | [CSS Day](https://cssday.nl/2017) | July 15-16, 2017 | | Amsterdam, Netherlands |
 | [Node Summit](http://nodesummit.com/) | July 25-27, 2017 | | San Francisco, CA, USA |
 | [JSChannel](http://2017.jschannel.com/) | July 28-29, 2017 | | Bengaluru, India |
@@ -71,21 +71,21 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 |[April 30, 2017](https://frontendconf.ch/call-for-speakers/)| Zurich, Switzerland |
 |September||||
 | [NordicJS](http://nordicjs.com/) | September 7-8, 2017 |[CFP](http://cfp.nordicjs.com/)| Stockholm, Sweden |
-| [Refresh](http://refresh.rocks/) | September 8, 2017 |[CFP](http://refresh.rocks/call-for-papers/)| Tallinn, Estonia |
+| [Refresh](http://refresh.rocks/) | September 8, 2017 | | Tallinn, Estonia |
 | [jsfoo](https://jsfoo.in/2017/) | September 8–9, 2017 | [June 15, 2017](https://jsfoo.talkfunnel.com/2017/) | Bangalore, India |
 | [ReactNext](http://react-next.com/) | September 10, 2017 | [July 5, 2017](https://docs.google.com/forms/d/1C59NX6LDiUlviZoKa9CCg6DYjZcD3wqS__KBvoO7qa8/viewform?edit_requested=true) | Tel Aviv, Israel |
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 | | Atlanta, GA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 | | Toronto, Canada |
 |October||||
-| [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) | October 4-6, 2017 | [April 10, 2017](http://events.linuxfoundation.org/events/node-interactive/program/cfp-guide) | Vancouver, Canada |
+| [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) | October 4-6, 2017 | | Vancouver, Canada |
 | [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 | | Bochum, Germany |
-| [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | [April 10, 2017](https://javascript-conference.com/call-for-papers-2017/) | Munich, Germany |
+| [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | | Munich, Germany |
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
 |November||||
 | [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
 | [FFConf](https://2017.ffconf.org) | November 9-10, 2017 | | Brighton, UK |
 | [HalfStack](http://halfstackconf.com/) | November 17, 2017 | | London, UK |
-| [ngPoland](http://ng-poland.pl/) | November 20, 2017 | | Warsaw, Poland |
+| [ngPoland](http://ng-poland.pl/) | November 20, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform) | Warsaw, Poland |
 | [dotCSS](https://2017.dotcss.io/) | November 30, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
 |December||||
 | [dotJS](https://2017.dotjs.io) | December 1, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
