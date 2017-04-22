@@ -80,6 +80,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 | | Toronto, Canada |
 |October||||
 | [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) | October 4-6, 2017 | | Vancouver, Canada |
+| [Paris Web](http://www.paris-web.fr/) | October 5-7, 2017 | | Paris, France |
 | [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 | | Bochum, Germany |
 | [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | | Munich, Germany |
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
