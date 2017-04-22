@@ -58,7 +58,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
 | [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 | | San Jose, CA, USA |
 | [VueConf](https://conf.vuejs.org/) | June 21-23, 2017 |[CFP](https://docs.google.com/forms/d/e/1FAIpQLSdtbxBpV0j_zCnELXQuIkeGH8x6gaOWE0J8tTsAdpa0O5MYOw/viewform)| Wroclaw, Poland |
-| [AngularUP](http://angular-up.com/) | June 25, 2017 | [April 15, 2017](https://docs.google.com/forms/d/e/1FAIpQLSf5XQd7HFg2KCwke1PuYmrX14sMGY9dJJHWJUQ3czGSs4E2-w/viewform) | Tel Aviv, Israel |
+| [AngularUP](http://angular-up.com/) | June 25, 2017 | | Tel Aviv, Israel |
 |July|||
 | [Chain React](https://infinite.red/ChainReactConf) | July 10-11, 2017 | [CFP](https://www.papercall.io/chain-react-conf-2017) | Portland, OR, USA |
 | [JSinSA](http://www.jsinsa.com/) | July 15, 2017 | [May 01, 2017](https://www.papercall.io/jsinsa2017) | Johannesburg, South Africa |
@@ -66,8 +66,8 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Node Summit](http://nodesummit.com/) | July 25-27, 2017 | | San Francisco, CA, USA |
 | [JSChannel](http://2017.jschannel.com/) | July 28-29, 2017 | | Bengaluru, India |
 |August||||
-| [SeattleJS](http://seattlejs.com/) | August 10-11, 2017 | [May 31, 2017](https://www.papercall.io/sjs) | Seattle, WA | 
-| [React Rally](http://www.reactrally.com/) | August 24-25, 2017 | [April 16, 2017](http://speak.reactrally.com/events/react-rally-2017) | Salt Lake City, UT |
+| [SeattleJS](http://seattlejs.com/) | August 10-11, 2017 | [May 31, 2017](https://www.papercall.io/sjs) | Seattle, WA, USA |
+| [React Rally](http://www.reactrally.com/) | August 24-25, 2017 | | Salt Lake City, UT, USA |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 |[April 30, 2017](https://frontendconf.ch/call-for-speakers/)| Zurich, Switzerland |
 |September||||
 | [NordicJS](http://nordicjs.com/) | September 7-8, 2017 |[CFP](http://cfp.nordicjs.com/)| Stockholm, Sweden |
