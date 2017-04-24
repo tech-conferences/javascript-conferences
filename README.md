@@ -86,7 +86,8 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
 |November||||
 | [JSConf Colombia](https://jsconf.co/) | November 3-4, 2017 | [June 16, 2017](http://cfp.jsconf.co/) | Medellin, Colombia |
-| [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform)| London, UK |
+| [NodeConf EU](http://www.nodeconf.eu/) | November 5-8, 2017 | [June 30, 2017](https://docs.google.com/forms/d/e/1FAIpQLScFuaUIzDXM9JcvafBuxkSHZty14gzlzSTlTKuuMnlFrmfAtw/viewform) | Kilkenny, Ireland |
+| [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform) | London, UK |
 | [FFConf](https://2017.ffconf.org) | November 9-10, 2017 | | Brighton, UK |
 | [HalfStack](http://halfstackconf.com/) | November 17, 2017 | | London, UK |
 | [ngPoland](http://ng-poland.pl/) | November 20, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform) | Warsaw, Poland |
