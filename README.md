@@ -77,7 +77,6 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Refresh](http://refresh.rocks/) | September 8, 2017 | | Tallinn, Estonia |
 | [jsfoo](https://jsfoo.in/2017/) | September 8–9, 2017 | [June 15, 2017](https://jsfoo.talkfunnel.com/2017/) | Bangalore, India |
 | [ReactNext](http://react-next.com/) | September 10, 2017 | [July 5, 2017](https://docs.google.com/forms/d/1C59NX6LDiUlviZoKa9CCg6DYjZcD3wqS__KBvoO7qa8/viewform?edit_requested=true) | Tel Aviv, Israel |
-| [JSConf Budapest](http://jsconfbp.com/) | September 14-15, 2017 | [April 30, 2017](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary |
 | [UtahJS](https://conf.utahjs.com/) | September 18, 2017 | | Salt Lake City, UT, USA |
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 | | Atlanta, GA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 | | Toronto, Canada |
@@ -88,6 +87,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 | | Bochum, Germany |
 | [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | | Munich, Germany |
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
+| [JSConf Budapest](http://jsconfbp.com/) | October 26-27, 2017 | [April 30, 2017](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary |
 | [You Gotta Love Frontend](http://yougottalovefrontend.com/) | October 30-31, 2017 | | Tel Aviv, Israel |
 |November||||
 | [JSConf Colombia](https://jsconf.co/) | November 3-4, 2017 | [June 16, 2017](http://cfp.jsconf.co/) | Medellin, Colombia |
