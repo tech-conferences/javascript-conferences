@@ -97,6 +97,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [JS Kongress](http://js-kongress.de/) | November 13-14, 2017 | [June 18, 2017](https://docs.google.com/forms/d/e/1FAIpQLSdBV_Lodk8ghvD-wT6rtDLLmYZ2qj7fH6kXbJhHaVNmRjVC_g/viewform) | Munich, Germany |
 | [HalfStack](http://halfstackconf.com/) | November 17, 2017 | | London, UK |
 | [ngPoland](http://ng-poland.pl/) | November 20, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform) | Warsaw, Poland |
+| [Nodevember](http://nodevember.org/) | November 27-28, 2017 | [CFP](https://www.papercall.io/nodevember-2017-cfp) | Nashville, TN |
 | [dotCSS](https://2017.dotcss.io/) | November 30, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
 |December||||
 | [dotJS](https://2017.dotjs.io) | December 1, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
