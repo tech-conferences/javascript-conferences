@@ -89,6 +89,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | | Munich, Germany |
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
 | [JSConf Budapest](http://jsconfbp.com/) | October 26-27, 2017 | [April 30, 2017](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary |
+| [NodeConf Argentina](https://2017.nodeconf.com.ar/) | October 26-28, 2017 | [July 15, 2017](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina |
 | [You Gotta Love Frontend](http://yougottalovefrontend.com/) | October 30-31, 2017 | | Tel Aviv, Israel |
 |November||||
 | [JSConf Colombia](https://jsconf.co/) | November 3-4, 2017 | [June 16, 2017](http://cfp.jsconf.co/) | Medellin, Colombia |
