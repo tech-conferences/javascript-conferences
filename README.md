@@ -53,25 +53,25 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [AmsterdamJS](https://amsterdamjs.com/) | June 9, 2017 | | Amsterdam, The Netherlands |
 | [ConvergeSE](http://convergese.com/) | June 14-16, 2017 | | Columbia, SC, USA |
 | [DinosaurJS](https://dinosaurjs.org/) | June 15-16, 2017 | | Denver, CO, USA |
-| [pitercss](https://pitercss.com/) | June 16, 2017 |[April 30, 2017](https://pitercss.com/call-for-speakers/)| St. Petersburg, Russia |
+| [pitercss](https://pitercss.com/) | June 16, 2017 | | St. Petersburg, Russia |
 | [JS Poland](http://js-poland.pl/) | June 19, 2017 | | Warsaw, Poland |
 | [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
 | [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 | | San Jose, CA, USA |
 | [VueConf](https://conf.vuejs.org/) | June 21-23, 2017 |[CFP](https://docs.google.com/forms/d/e/1FAIpQLSdtbxBpV0j_zCnELXQuIkeGH8x6gaOWE0J8tTsAdpa0O5MYOw/viewform)| Wroclaw, Poland |
 | [AngularUP](http://angular-up.com/) | June 25, 2017 | | Tel Aviv, Israel |
-| [jsconf.be](https://www.jsconf.be/en/) | June 29, 2017 | [CFP](https://www.jsconf.be/en/#callforpapers) | Brugge, Belgium |
+| [jsconf.be](https://www.jsconf.be/en/) | June 29, 2017 | | Brugge, Belgium |
 |July|||
 | [OdessaJS](https://odessajs.org/) | July 1-2, 2017 | | Odessa, Ukraine |
 | [Chain React](https://infinite.red/ChainReactConf) | July 10-11, 2017 | | Portland, OR, USA |
-| [JSinSA](http://www.jsinsa.com/) | July 15, 2017 | [May 1, 2017](https://www.papercall.io/jsinsa2017) | Johannesburg, South Africa |
+| [JSinSA](http://www.jsinsa.com/) | July 15, 2017 | | Johannesburg, South Africa |
 | [CSS Day](https://cssday.nl/2017) | July 15-16, 2017 | | Amsterdam, Netherlands |
 | [Node Summit](http://nodesummit.com/) | July 25-27, 2017 | | San Francisco, CA, USA |
 | [JSChannel](http://2017.jschannel.com/) | July 28-29, 2017 | | Bengaluru, India |
 |August||||
-| [SeattleJS](http://seattlejs.com/) | August 10-11, 2017 | [May 31, 2017](https://www.papercall.io/sjs) | Seattle, WA, USA |
+| [SeattleJS](http://seattlejs.com/) | August 10-11, 2017 | | Seattle, WA, USA |
 | [MidwestJS](http://www.midwestjs.com/) | August 16-18, 2017 | | Minneapolis, MN, USA |
 | [React Rally](http://www.reactrally.com/) | August 24-25, 2017 | | Salt Lake City, UT, USA |
-| [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 |[April 30, 2017](https://frontendconf.ch/call-for-speakers/)| Zurich, Switzerland |
+| [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 | | Zurich, Switzerland |
 |September||||
 | [NordicJS](http://nordicjs.com/) | September 7-8, 2017 |[CFP](http://cfp.nordicjs.com/)| Stockholm, Sweden |
 | [Refresh](http://refresh.rocks/) | September 8, 2017 | | Tallinn, Estonia |
@@ -89,13 +89,13 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 | | Bochum, Germany |
 | [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | | Munich, Germany |
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
-| [JSConf Budapest](http://jsconfbp.com/) | October 26-27, 2017 | [April 30, 2017](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary |
+| [JSConf Budapest](http://jsconfbp.com/) | October 26-27, 2017 | | Budapest, Hungary |
 | [NodeConf Argentina](https://2017.nodeconf.com.ar/) | October 26-28, 2017 | [July 15, 2017](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina |
 | [You Gotta Love Frontend](http://yougottalovefrontend.com/) | October 30-31, 2017 | | Tel Aviv, Israel |
 |November||||
 | [JSConf Colombia](https://jsconf.co/) | November 3-4, 2017 | [June 16, 2017](http://cfp.jsconf.co/) | Medellin, Colombia |
 | [NodeConf EU](http://www.nodeconf.eu/) | November 5-8, 2017 | [June 30, 2017](https://docs.google.com/forms/d/e/1FAIpQLScFuaUIzDXM9JcvafBuxkSHZty14gzlzSTlTKuuMnlFrmfAtw/viewform) | Kilkenny, Ireland |
-| [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | [April 28, 2017](https://docs.google.com/forms/d/e/1FAIpQLSf0k8_jtSjvFcX3rhKVEF26eC4NCXVctlQDeztVxqXjCy9RnA/viewform) | London, UK |
+| [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | | London, UK |
 | [FFConf](https://2017.ffconf.org) | November 9-10, 2017 | | Brighton, UK |
 | [JS Kongress](http://js-kongress.de/) | November 13-14, 2017 | [June 18, 2017](https://docs.google.com/forms/d/e/1FAIpQLSdBV_Lodk8ghvD-wT6rtDLLmYZ2qj7fH6kXbJhHaVNmRjVC_g/viewform) | Munich, Germany |
 | [HalfStack](http://halfstackconf.com/) | November 17, 2017 | | London, UK |
