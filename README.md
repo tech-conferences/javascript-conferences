@@ -43,7 +43,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Beyond Tellerrand](https://beyondtellerrand.com/events/duesseldorf-2017) | May 15-17, 2017 | | Düsseldorf, Germany |
 | [React Europe](https://www.react-europe.org/) | May 18-19, 2017 | | Paris, France |
 | [DEVit](http://devitconf.org) | May 20-21, 2017 | | Thessaloniki, Greece |
-| [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 |[CFP](https://2017.front-trends.com/speaking-at-front-trends/)| Warsaw, Poland |
+| [Front-Trends](https://2017.front-trends.com/) | May 24-26, 2017 | | Warsaw, Poland |
 | [Frontend United](http://frontendunited.org/) | May 26-27, 2017 | | Athens, Greece |
 | [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 | | Miami, FL, USA |
 |June||||
@@ -80,6 +80,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [UtahJS](https://conf.utahjs.com/) | September 18, 2017 | | Salt Lake City, UT, USA |
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 | | Atlanta, GA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 | | Toronto, Canada |
+| [React Alicante](http://reactalicante.es/) | September 28-30, 2017 | [https://docs.google.com/forms/d/1iH4oHEsgoCcM-HNphjyCvPowp_vQ9hRxepkzt7j2bBk](June 30, 2017) | Alicante, Spain |
 |October||||
 | [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) | October 4-6, 2017 | | Vancouver, Canada |
 | [Paris Web](http://www.paris-web.fr/) | October 5-7, 2017 | | Paris, France |
