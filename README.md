@@ -80,7 +80,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [UtahJS](https://conf.utahjs.com/) | September 18, 2017 | | Salt Lake City, UT, USA |
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 | | Atlanta, GA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 | | Toronto, Canada |
-| [React Alicante](http://reactalicante.es/) | September 28-30, 2017 | [https://docs.google.com/forms/d/1iH4oHEsgoCcM-HNphjyCvPowp_vQ9hRxepkzt7j2bBk](June 30, 2017) | Alicante, Spain |
+| [React Alicante](http://reactalicante.es/) | September 28-30, 2017 | [June 30, 2017](https://docs.google.com/forms/d/1iH4oHEsgoCcM-HNphjyCvPowp_vQ9hRxepkzt7j2bBk) | Alicante, Spain |
 |October||||
 | [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) | October 4-6, 2017 | | Vancouver, Canada |
 | [Paris Web](http://www.paris-web.fr/) | October 5-7, 2017 | | Paris, France |
