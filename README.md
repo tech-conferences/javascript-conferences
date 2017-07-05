@@ -2,7 +2,7 @@ This is a list of conferences for frontend and Node.js developers. The list is g
 
 Please send Pull requests to add events to the list. Please do not add workshops and user group meetups.
 
-You can find a list of events in 2016 [here](https://github.com/prigara/javascript-conferences/blob/master/2016/README.md). 
+You can find a list of events in 2016 [here](https://github.com/prigara/javascript-conferences/blob/master/2016/README.md).
 
 ## JavaScript conferences in 2017
 
@@ -79,6 +79,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [ReactNext](http://react-next.com/) | September 10, 2017 | [July 5, 2017](https://docs.google.com/forms/d/1C59NX6LDiUlviZoKa9CCg6DYjZcD3wqS__KBvoO7qa8/viewform?edit_requested=true) | Tel Aviv, Israel |
 | [UtahJS](https://conf.utahjs.com/) | September 18, 2017 | | Salt Lake City, UT, USA |
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 | | Atlanta, GA, USA |
+| [React Boston](http://www.reactboston.com/) | September 23-24, 2017 | [July 31, 2017](https://goo.gl/forms/e25LNsS3KXPAwO3r2) | Boston, MA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 | | Toronto, Canada |
 | [React Alicante](http://reactalicante.es/) | September 28-30, 2017 | [June 30, 2017](https://docs.google.com/forms/d/1iH4oHEsgoCcM-HNphjyCvPowp_vQ9hRxepkzt7j2bBk) | Alicante, Spain |
 |October||||
