@@ -55,9 +55,9 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [DinosaurJS](https://dinosaurjs.org/) | June 15-16, 2017 | | Denver, CO, USA |
 | [pitercss](https://pitercss.com/) | June 16, 2017 | | St. Petersburg, Russia |
 | [JS Poland](http://js-poland.pl/) | June 19, 2017 | | Warsaw, Poland |
-| [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 |[CFP](https://www.enterjs.de/call-for-proposals)| Darmstadt, Germany |
+| [EnterJS](https://www.enterjs.de/) | June 20-22, 2017 | | Darmstadt, Germany |
 | [Fluent](http://conferences.oreilly.com/fluent) | June 19-22, 2017 | | San Jose, CA, USA |
-| [VueConf](https://conf.vuejs.org/) | June 21-23, 2017 |[CFP](https://docs.google.com/forms/d/e/1FAIpQLSdtbxBpV0j_zCnELXQuIkeGH8x6gaOWE0J8tTsAdpa0O5MYOw/viewform)| Wroclaw, Poland |
+| [VueConf](https://conf.vuejs.org/) | June 21-23, 2017 | | Wroclaw, Poland |
 | [AngularUP](http://angular-up.com/) | June 25, 2017 | | Tel Aviv, Israel |
 | [jsconf.be](https://www.jsconf.be/en/) | June 29, 2017 | | Brugge, Belgium |
 |July|||
@@ -75,13 +75,13 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |September||||
 | [NordicJS](http://nordicjs.com/) | September 7-8, 2017 |[CFP](http://cfp.nordicjs.com/)| Stockholm, Sweden |
 | [Refresh](http://refresh.rocks/) | September 8, 2017 | | Tallinn, Estonia |
-| [jsfoo](https://jsfoo.in/2017/) | September 8–9, 2017 | [June 15, 2017](https://jsfoo.talkfunnel.com/2017/) | Bangalore, India |
-| [ReactNext](http://react-next.com/) | September 10, 2017 | [July 5, 2017](https://docs.google.com/forms/d/1C59NX6LDiUlviZoKa9CCg6DYjZcD3wqS__KBvoO7qa8/viewform?edit_requested=true) | Tel Aviv, Israel |
+| [jsfoo](https://jsfoo.in/2017/) | September 8–9, 2017 | | Bangalore, India |
+| [ReactNext](http://react-next.com/) | September 10, 2017 | | Tel Aviv, Israel |
 | [UtahJS](https://conf.utahjs.com/) | September 18, 2017 | | Salt Lake City, UT, USA |
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 | | Atlanta, GA, USA |
 | [React Boston](http://www.reactboston.com/) | September 23-24, 2017 | [July 31, 2017](https://goo.gl/forms/e25LNsS3KXPAwO3r2) | Boston, MA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 | | Toronto, Canada |
-| [React Alicante](http://reactalicante.es/) | September 28-30, 2017 | [June 30, 2017](https://docs.google.com/forms/d/1iH4oHEsgoCcM-HNphjyCvPowp_vQ9hRxepkzt7j2bBk) | Alicante, Spain |
+| [React Alicante](http://reactalicante.es/) | September 28-30, 2017 | | Alicante, Spain |
 |October||||
 | [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) | October 4-6, 2017 | | Vancouver, Canada |
 | [Paris Web](http://www.paris-web.fr/) | October 5-7, 2017 | | Paris, France |
@@ -94,11 +94,11 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [NodeConf Argentina](https://2017.nodeconf.com.ar/) | October 26-28, 2017 | [July 15, 2017](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina |
 | [You Gotta Love Frontend](http://yougottalovefrontend.com/) | October 30-31, 2017 | | Tel Aviv, Israel |
 |November||||
-| [JSConf Colombia](https://jsconf.co/) | November 3-4, 2017 | [June 16, 2017](http://cfp.jsconf.co/) | Medellin, Colombia |
-| [NodeConf EU](http://www.nodeconf.eu/) | November 5-8, 2017 | [June 30, 2017](https://docs.google.com/forms/d/e/1FAIpQLScFuaUIzDXM9JcvafBuxkSHZty14gzlzSTlTKuuMnlFrmfAtw/viewform) | Kilkenny, Ireland |
+| [JSConf Colombia](https://jsconf.co/) | November 3-4, 2017 | | Medellin, Colombia |
+| [NodeConf EU](http://www.nodeconf.eu/) | November 5-8, 2017 | | Kilkenny, Ireland |
 | [AngularConnect](http://angularconnect.com/) | November 7-8, 2017 | | London, UK |
 | [FFConf](https://2017.ffconf.org) | November 9-10, 2017 | | Brighton, UK |
-| [JS Kongress](http://js-kongress.de/) | November 13-14, 2017 | [June 18, 2017](https://docs.google.com/forms/d/e/1FAIpQLSdBV_Lodk8ghvD-wT6rtDLLmYZ2qj7fH6kXbJhHaVNmRjVC_g/viewform) | Munich, Germany |
+| [JS Kongress](http://js-kongress.de/) | November 13-14, 2017 | | Munich, Germany |
 | [HalfStack](http://halfstackconf.com/) | November 17, 2017 | | London, UK |
 | [ngPoland](http://ng-poland.pl/) | November 20, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform) | Warsaw, Poland |
 | [Nodevember](http://nodevember.org/) | November 27-28, 2017 | [CFP](https://www.papercall.io/nodevember-2017-cfp) | Nashville, TN |
