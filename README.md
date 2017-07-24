@@ -87,6 +87,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Paris Web](http://www.paris-web.fr/) | October 5-7, 2017 | | Paris, France |
 | [NCDevCon](http://www.ncdevcon.com/) | October 7-8, 2017 | | Raleigh, NC, USA |
 | [Angular Mix](https://angularmix.com) | October 10-11, 2017 | | Orlando, FL, USA |
+| [EmberFest](https://emberfest.eu/) | October 12-13, 2017 | | Berlin, Germany |
 | [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 | | Bochum, Germany |
 | [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | | Munich, Germany |
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
