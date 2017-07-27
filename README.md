@@ -73,6 +73,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [React Rally](http://www.reactrally.com/) | August 24-25, 2017 | | Salt Lake City, UT, USA |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 | | Zurich, Switzerland |
 |September||||
+| [Full Stack Fest](https://2017.fullstackfest.com/) | September 4-8, 2017 | | Barcelona, Spain |
 | [NordicJS](http://nordicjs.com/) | September 7-8, 2017 |[CFP](http://cfp.nordicjs.com/)| Stockholm, Sweden |
 | [Refresh](http://refresh.rocks/) | September 8, 2017 | | Tallinn, Estonia |
 | [jsfoo](https://jsfoo.in/2017/) | September 8–9, 2017 | | Bangalore, India |
