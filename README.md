@@ -105,6 +105,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [ngPoland](http://ng-poland.pl/) | November 20, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform) | Warsaw, Poland |
 | [Nodevember](http://nodevember.org/) | November 27-28, 2017 | [CFP](https://www.papercall.io/nodevember-2017-cfp) | Nashville, TN |
 | [dotCSS](https://2017.dotcss.io/) | November 30, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
+| [NationJS](http://nationjs.com/) | November 30 - December 1, 2017 | [CFP](https://www.papercall.io/nationjs2017) | Washington, DC |
 |December||||
 | [dotJS](https://2017.dotjs.io) | December 1, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
 | [NG-BE](https://ng-be.org/) | December 7-8, 2017 | | Ghent, Belgium |
