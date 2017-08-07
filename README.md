@@ -90,6 +90,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Angular Mix](https://angularmix.com) | October 10-11, 2017 | | Orlando, FL, USA |
 | [EmberFest](https://emberfest.eu/) | October 12-13, 2017 | | Berlin, Germany |
 | [RuhrJS](https://ruhrjs.de/) | October 14-15, 2017 | | Bochum, Germany |
+| [Chrome Dev Summit 2017](https://developer.chrome.com/devsummit/) | October 23-24, 2017 | | San Francisco, USA |
 | [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | | Munich, Germany |
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
 | [JSConf Budapest](http://jsconfbp.com/) | October 26-27, 2017 | | Budapest, Hungary |
