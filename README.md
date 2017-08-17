@@ -48,7 +48,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [ng-cruise](https://ngcruise.com/) | May 29-June 2, 2017 | | Miami, FL, USA |
 |June||||
 | [Web Rebels](https://www.webrebels.org/) | June 1-2, 2017 | | Oslo, Norway |
-| [HolyJS](https://holyjs-piter.ru/) | June 2-3, 2017 | | St. Petersburg, Russia |
+| [HolyJS St. Petersburg](https://holyjs-piter.ru/) | June 2-3, 2017 | | St. Petersburg, Russia |
 | [JS Heroes](http://jsheroes.io/) | June 8-9, 2017 | | Cluj-Napoca, Romania |
 | [AmsterdamJS](https://amsterdamjs.com/) | June 9, 2017 | | Amsterdam, The Netherlands |
 | [ConvergeSE](http://convergese.com/) | June 14-16, 2017 | | Columbia, SC, USA |
@@ -107,6 +107,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [FFConf](https://2017.ffconf.org) | November 9-10, 2017 | | Brighton, UK |
 | [JS Kongress](http://js-kongress.de/) | November 13-14, 2017 | | Munich, Germany |
 | [HalfStack](http://halfstackconf.com/) | November 17, 2017 | | London, UK |
+| [FrontFest](http://frontfest.ru/) | November 18, 2017 | | Moscow, Russia |
 | [ngPoland](http://ng-poland.pl/) | November 20, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform) | Warsaw, Poland |
 | [Nodevember](http://nodevember.org/) | November 27-28, 2017 | [CFP](https://www.papercall.io/nodevember-2017-cfp) | Nashville, TN |
 | [dotCSS](https://2017.dotcss.io/) | November 30, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
@@ -114,3 +115,4 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |December||||
 | [dotJS](https://2017.dotjs.io) | December 1, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
 | [NG-BE](https://ng-be.org/) | December 7-8, 2017 | | Ghent, Belgium |
+| [HolyJS Moscow](https://holyjs-moscow.ru/) | December 10-11, 2017 | | Moscow, Russia |
