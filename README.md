@@ -71,6 +71,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [SeattleJS](http://seattlejs.com/) | August 10-11, 2017 | | Seattle, WA, USA |
 | [MidwestJS](http://www.midwestjs.com/) | August 16-18, 2017 | | Minneapolis, MN, USA |
 | [React Rally](http://www.reactrally.com/) | August 24-25, 2017 | | Salt Lake City, UT, USA |
+| [Polymer Summit](https://summit.polymer-project.org/) | August 22-23, 2017 | | Copenhagen, Denmark |
 | [Frontend Conference Zurich](https://frontendconf.ch/) | August 31-September 1, 2017 | | Zurich, Switzerland |
 |September||||
 | [Full Stack Fest](https://2017.fullstackfest.com/) | September 4-8, 2017 | | Barcelona, Spain |
