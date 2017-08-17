@@ -78,6 +78,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Refresh](http://refresh.rocks/) | September 8, 2017 | | Tallinn, Estonia |
 | [jsfoo](https://jsfoo.in/2017/) | September 8–9, 2017 | | Bangalore, India |
 | [ReactNext](http://react-next.com/) | September 10, 2017 | | Tel Aviv, Israel |
+| [CSS-Minsk-JS](http://css-minsk-js.by/) | September 10, 2017 | | Minsk, Belarus |
 | [ReactFoo](https://reactfoo.in/2017/) | September 14, 2017 | August 14, 2017 | Bangalore, India |
 | [UtahJS](https://conf.utahjs.com/) | September 18, 2017 | | Salt Lake City, UT, USA |
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 | | Atlanta, GA, USA |
