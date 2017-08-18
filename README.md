@@ -76,15 +76,15 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |September||||
 | [Full Stack Fest](https://2017.fullstackfest.com/) | September 4-8, 2017 | | Barcelona, Spain |
 | [React Native EU](https://react-native.eu/) | September 6-7, 2017 | | Wroclaw, Poland |
-| [NordicJS](http://nordicjs.com/) | September 7-8, 2017 |[CFP](http://cfp.nordicjs.com/)| Stockholm, Sweden |
+| [NordicJS](http://nordicjs.com/) | September 7-8, 2017 | | Stockholm, Sweden |
 | [Refresh](http://refresh.rocks/) | September 8, 2017 | | Tallinn, Estonia |
 | [jsfoo](https://jsfoo.in/2017/) | September 8–9, 2017 | | Bangalore, India |
 | [ReactNext](http://react-next.com/) | September 10, 2017 | | Tel Aviv, Israel |
 | [CSS-Minsk-JS](http://css-minsk-js.by/) | September 10, 2017 | | Minsk, Belarus |
-| [ReactFoo](https://reactfoo.in/2017/) | September 14, 2017 | August 14, 2017 | Bangalore, India |
+| [ReactFoo](https://reactfoo.in/2017/) | September 14, 2017 | | Bangalore, India |
 | [UtahJS](https://conf.utahjs.com/) | September 18, 2017 | | Salt Lake City, UT, USA |
 | [CONNECT.TECH](http://connect.tech/) | September 20-24, 2017 | | Atlanta, GA, USA |
-| [React Boston](http://www.reactboston.com/) | September 23-24, 2017 | [July 31, 2017](https://goo.gl/forms/e25LNsS3KXPAwO3r2) | Boston, MA, USA |
+| [React Boston](http://www.reactboston.com/) | September 23-24, 2017 | | Boston, MA, USA |
 | [Web Unleashed](http://fitc.ca/event/webu17/) | September 25-27, 2017 | | Toronto, Canada |
 | [React Alicante](http://reactalicante.es/) | September 28-30, 2017 | | Alicante, Spain |
 |October||||
@@ -99,7 +99,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [International JavaScript Conference](https://javascript-conference.com/en) | October 23-27, 2017 | | Munich, Germany |
 | [ReactiveConf](https://reactiveconf.com/) | October 25-27, 2017 | | Bratislava, Slovakia |
 | [JSConf Budapest](http://jsconfbp.com/) | October 26-27, 2017 | | Budapest, Hungary |
-| [NodeConf Argentina](https://2017.nodeconf.com.ar/) | October 26-28, 2017 | [July 15, 2017](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina |
+| [NodeConf Argentina](https://2017.nodeconf.com.ar/) | October 26-28, 2017 | | Buenos Aires, Argentina |
 | [You Gotta Love Frontend](http://yougottalovefrontend.com/) | October 30-31, 2017 | | Tel Aviv, Israel |
 |November||||
 | [JSConf Colombia](https://jsconf.co/) | November 3-4, 2017 | | Medellin, Colombia |
