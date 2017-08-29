@@ -118,3 +118,9 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [dotJS](https://2017.dotjs.io) | December 1, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
 | [NG-BE](https://ng-be.org/) | December 7-8, 2017 | | Ghent, Belgium |
 | [HolyJS Moscow](https://holyjs-moscow.ru/) | December 10-11, 2017 | | Moscow, Russia |
+
+## JavaScript conferences in 2018
+
+| Conference  | Date | Submission Deadline | Location |
+| ------------- | ------------- | ------------- | ------------- |
+|January||||
