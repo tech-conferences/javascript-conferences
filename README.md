@@ -129,3 +129,5 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |March||||
 | [ngVikings](https://ngvikings.org/) | March 1-2, 2018 | [December 10, 2017]](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | Helsinki, Finland |
 | [Render](http://2018.render-conf.com/) | March 23, 2018 | | Oxford, UK |
+|April||||
+| [ng-conf](https://www.ng-conf.org/) | April 18-20, 2018 | | Salt Lake City, UT, USA |
