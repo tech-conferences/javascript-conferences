@@ -125,3 +125,5 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | ------------- | ------------- | ------------- | ------------- |
 |January||||
 | [Agent Conference](http://agent.sh/) | January 25-26, 2018 | [October 20, 2017](https://www.papercall.io/agent-conf-2018) | Dornbirn, Austria |
+|March||||
+| [ngVikings](https://ngvikings.org/) | March 1-2, 2018 | [December 10, 2017]](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | Helsinki, Finland |
