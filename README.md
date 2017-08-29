@@ -124,4 +124,4 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | Conference  | Date | Submission Deadline | Location |
 | ------------- | ------------- | ------------- | ------------- |
 |January||||
-| [Agent Conference](http://agent.sh/) | January 25-26, 2018 | | Dornbirn, Austria |
+| [Agent Conference](http://agent.sh/) | January 25-26, 2018 | [October 20, 2017](https://www.papercall.io/agent-conf-2018) | Dornbirn, Austria |
