@@ -9,7 +9,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | Conference  | Date | Submission Deadline | Location |
 | ------------- | ------------- | ------------- | ------------- |
 |January||||
-| [Budapest NodeConf 2017](https://nodeconf.risingstack.com/) | January 19-20, 2017 | | Budapest, Hungary |
+| [Budapest NodeConf](https://nodeconf.risingstack.com/) | January 19-20, 2017 | | Budapest, Hungary |
 | [Agent Conference](http://agent.sh/) | January 20-21, 2017 | | Dornbirn, Austria |
 | [So Ember](http://soember.com/) | January 27, 2017 | | San Diego, CA, USA |
 | [Script](https://scriptconf.org/) | January 27, 2017 | | Linz, Austria |
@@ -124,6 +124,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | Conference  | Date | Submission Deadline | Location |
 | ------------- | ------------- | ------------- | ------------- |
 |January||||
+| [Script](https://scriptconf.org/) | January 19, 2018 | | Linz, Austria |
 | [Agent Conference](http://agent.sh/) | January 25-26, 2018 | [October 20, 2017](https://www.papercall.io/agent-conf-2018) | Dornbirn, Austria |
 |March||||
 | [ngVikings](https://ngvikings.org/) | March 1-2, 2018 | [December 10, 2017]](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | Helsinki, Finland |
