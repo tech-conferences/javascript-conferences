@@ -132,3 +132,5 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Render](http://2018.render-conf.com/) | March 23, 2018 | | Oxford, UK |
 |April||||
 | [ng-conf](https://www.ng-conf.org/) | April 18-20, 2018 | | Salt Lake City, UT, USA |
+|June||||
+| [ConvergeSE](http://convergese.com/) | June 13-15, 2018 | | Columbia, SC, USA |
