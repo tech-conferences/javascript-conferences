@@ -126,6 +126,8 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |January||||
 | [Script](https://scriptconf.org/) | January 19, 2018 | | Linz, Austria |
 | [Agent Conference](http://agent.sh/) | January 25-26, 2018 | [October 20, 2017](https://www.papercall.io/agent-conf-2018) | Dornbirn, Austria |
+|February||||
+| [Assert(js)](https://www.assertjs.com/) | February 22, 2018 | | San Antonio, TX, USA |
 |March||||
 | [ngVikings](https://ngvikings.org/) | March 1-2, 2018 | [December 10, 2017](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | Helsinki, Finland |
 | [JSConf AU](https://2018.jsconfau.com/) | March 22-23, 2018 | | Melbourne, Australia |
