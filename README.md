@@ -117,6 +117,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 |December||||
 | [dotJS](https://2017.dotjs.io) | December 1, 2017 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | Paris, France |
 | [NG-BE](https://ng-be.org/) | December 7-8, 2017 | | Ghent, Belgium |
+| [Munich Frontend Conference](https://frontconf.com//) | December 8, 2017 | [October 15, 2017](https://www.papercall.io/frontconf) | Munich, Germany |
 | [HolyJS Moscow](https://holyjs-moscow.ru/) | December 10-11, 2017 | | Moscow, Russia |
 
 ## JavaScript conferences in 2018
@@ -127,6 +128,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Script](https://scriptconf.org/) | January 19, 2018 | | Linz, Austria |
 | [Agent Conference](http://agent.sh/) | January 25-26, 2018 | [October 20, 2017](https://www.papercall.io/agent-conf-2018) | Dornbirn, Austria |
 |February||||
+| [ng-europe](https://ngeurope.org/) | February 1-2, 2018 | [September 17, 2017](https://checkout.eventlama.com/#/events/PHD3/cfp) | Paris, France |
 | [Assert(js)](https://www.assertjs.com/) | February 22, 2018 | | San Antonio, TX, USA |
 |March||||
 | [ngVikings](https://ngvikings.org/) | March 1-2, 2018 | [December 10, 2017](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | Helsinki, Finland |
