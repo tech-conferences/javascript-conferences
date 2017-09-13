@@ -213,11 +213,20 @@
     "url": "http://2017.jsconf.eu/"
   },
   {
-    "name": "jsDay",
-    "startDate": "2017-05-09",
+    "name": "JSDay Italy",
+    "startDate": "2017-05-10",
+    "endDate": "2017-05-11",
     "city": "Verona",
     "country": "Italy",
     "url": "http://2017.jsday.it/"
+  },
+  {
+    "name": "JSDayES",
+    "startDate": "2017-05-12",
+    "endDate": "2017-05-13",
+    "city": "Madrid",
+    "country": "Spain",
+    "url": "http://2017.jsday.es/"
   },
   {
     "name": "Beyond Tellerrand",
@@ -226,6 +235,14 @@
     "startDate": "2017-05-15",
     "city": "Düsseldorf",
     "country": "Germany"
+  },
+  {
+    "name": "An Event Apart",
+    "startDate": "2017-05-15",
+    "endDate": "2017-05-17",
+    "city": "Boston",
+    "country": "U.S.A.",
+    "url": "https://aneventapart.com/event/boston-2017"
   },
   {
     "name": "React Europe",
@@ -251,10 +268,17 @@
   {
     "name": "DEVit",
     "url": "http://devitconf.org",
-    "date": "May 20-21",
     "startDate": "2017-05-20",
+    "endDate": "2017-05-21",
     "city": "Thessaloniki",
     "country": "Greece"
+  },
+  {
+    "name": "Respond",
+    "startDate": "2017-05-26",
+    "city": "Sydney, Melbourne, Brisbane",
+    "country": "Australia",
+    "url": "http://www.webdirections.org/respond16/"
   },
   {
     "name": "ng-cruise",
@@ -440,6 +464,13 @@
     "city": "Copenhagen",
     "country": "Denmark",
     "url": "https://www.polymer-project.org/summit"
+  },
+  {
+    "name": "BrazilJS",
+    "startDate": "2017-08-25",
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "url": "https://braziljs.org/conf/2017/"
   },
   {
     "name": "Frontend Conference Zurich",
@@ -890,58 +921,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-  {
-    "name": "JSDayES",
-    "startDate": "2017-05-06",
-    "city": "Madrid",
-    "country": "Spain",
-    "url": "jsday.es"
-  },
-
-  {
-    "name": "Pixel Up!",
-    "startDate": "2017-05-10",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "url": "http://pixelup.co.za"
-  },
-  {
-    "name": "Front",
-    "startDate": "2017-05-08",
-    "city": "Salt Lake City, Utah",
-    "country": "Salt USA",
-    "url": "https://www.frontutah.com/"
-  },
-  {
-    "name": "jsDay",
-    "startDate": "2017-05-09",
-    "city": "Verona",
-    "country": "Italy",
-    "url": "http://2017.jsday.it/"
-  },
-  {
-    "name": "An Event Apart",
-    "startDate": "2017-05-10",
-    "city": "Boston",
-    "country": "U.S.A.",
-    "url": "https://aneventapart.com/event/boston-2017"
-  },
-  {
-    "name": "Respond",
-    "startDate": "2017-05-26",
-    "city": "Sydney, Melbourne, Brisbane",
-    "country": "Australia",
-    "url": "http://www.webdirections.org/respond16/"
-  },
   {
     "name": "Webconf.asia",
     "startDate": "2017-06-01",
@@ -951,7 +930,7 @@
   },
 
   {
-    "name": "Reactjs Day",
+    "name": "ReactJS Day",
     "startDate": "2017-06-09",
     "city": "Verona",
     "country": "Italy",
@@ -1001,19 +980,5 @@
     "city": "Melbourne, Sydney, Brisbane",
     "country": "Australia",
     "url": "https://www.webdirections.org/code/"
-  },
-  {
-    "name": "BrazilJS",
-    "startDate": "2017-08-25",
-    "city": "Porto Alegre",
-    "country": "Brazil",
-    "url": "https://braziljs.org/conf/2017/"
-  },
-  {
-    "name": "At the Frontend",
-    "startDate": "2017-09-12",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "url": "http://atthefrontend.dk/"
   }
 ]
