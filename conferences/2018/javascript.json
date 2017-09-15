@@ -134,5 +134,14 @@
     "city": "JSFoo",
     "country": "India",
     "twitter": "@hasgeek"
+  },
+  {
+    "name": "ngAtlanta",
+    "url": "http://ng-atl.org/",
+    "startDate": "2018-01-30",
+    "endtDate": "2018-02-02",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@ngAtlanta"
   }
 ]
