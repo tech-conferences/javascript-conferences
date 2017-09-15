@@ -2,7 +2,6 @@
   {
     "name": "Budapest NodeConf",
     "url": "https://nodeconf.risingstack.com/",
-    "date": "January 19-20",
     "startDate": "2017-01-19",
     "endDate": "2017-01-20",
     "city": "Budapest",
@@ -303,6 +302,13 @@
     "url": "https://holyjs-piter.ru/"
   },
   {
+    "name": "Webconf.asia",
+    "startDate": "2017-06-03",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "url": "http://webconf.asia"
+  },
+  {
     "name": "JS Heroes",
     "startDate": "2017-06-07",
     "city": "Cluj-Napoca",
@@ -396,6 +402,13 @@
     "country": "Ukraine"
   },
   {
+    "name": "Frontinsampa",
+    "startDate": "2017-07-01",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "url": "http://www.frontinsampa.com.br/"
+  },
+  {
     "name": "AngularCamp",
     "startDate": "2017-07-06",
     "city": "Barcelona",
@@ -403,64 +416,88 @@
     "url": "https://angularcamp.org"
   },
   {
+    "name": "An Event Apart",
+    "startDate": "2017-07-10",
+    "endDate": "2017-07-12",
+    "city": "Washington DC",
+    "country": "U.S.A.",
+    "url": "https://aneventapart.com/event/washington-dc-2017"
+  },
+  {
     "name": "Chain React",
     "url": "https://infinite.red/ChainReactConf",
-    "date": "July 10-11",
     "startDate": "2017-07-10",
+    "endDate": "2017-07-11",
     "city": "Portland, OR",
     "country": "U.S.A."
   },
   {
+    "name": "FullStack",
+    "startDate": "2017-07-12",
+    "endtDate": "2017-07-14",
+    "city": "London",
+    "country": "U.K.",
+    "url": "https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things"
+  },
+  {
     "name": "JSinSA",
     "url": "http://www.jsinsa.com/",
-    "date": "July 15",
     "startDate": "2017-07-15",
-    "city": "Johannesburg, Sout",
-    "country": "Africa"
+    "city": "Johannesburg",
+    "country": "South Africa"
   },
   {
     "name": "Node Summit",
     "url": "http://nodesummit.com/",
-    "date": "July 25-27",
     "startDate": "2017-07-25",
+    "endDate": "2017-08-27",
     "city": "San Francisco, CA",
     "country": "U.S.A."
   },
   {
     "name": "JSChannel",
     "url": "http://2017.jschannel.com/",
-    "date": "July 28-29",
     "startDate": "2017-07-28",
+    "endDate": "2017-07-29",
     "city": "Bengaluru",
     "country": "India"
   },
   {
+    "name": "Code",
+    "startDate": "2017-08-03",
+    "endDate": "2017-08-04",
+    "city": "Melbourne",
+    "country": "Australia",
+    "url": "https://www.webdirections.org/code/"
+  },
+  {
     "name": "SeattleJS",
     "url": "http://seattlejs.com/",
-    "date": "August 10-11",
     "startDate": "2017-08-10",
+    "endDate": "2017-08-11",
     "city": "Seattle, WA",
     "country": "U.S.A."
   },
   {
     "name": "MidwestJS",
     "url": "http://www.midwestjs.com/",
-    "date": "August 16-18",
     "startDate": "2017-08-16",
+    "endDate": "2017-08-18",
     "city": "Minneapolis, MN",
     "country": "U.S.A."
   },
   {
     "name": "React Rally",
     "url": "http://www.reactrally.com/",
-    "date": "August 24-25",
     "startDate": "2017-08-24",
+    "endDate": "2017-08-25",
     "city": "Salt Lake City, UT",
     "country": "U.S.A."
   },
   {
     "name": "Polymer Summit",
     "startDate": "2017-09-22",
+    "endDate": "2017-09-23",
     "city": "Copenhagen",
     "country": "Denmark",
     "url": "https://www.polymer-project.org/summit"
@@ -475,7 +512,6 @@
   {
     "name": "Frontend Conference Zurich",
     "url": "https://frontendconf.ch/",
-    "date": "August 31-September 1",
     "startDate": "2017-08-31",
     "endDate": "2017-09-01",
     "city": "Zurich",
@@ -486,12 +522,12 @@
     "name": "Full Stack Fest",
     "url": "https://2017.fullstackfest.com/",
     "startDate": "2017-09-04",
-    "endDate": "2017/09/08",
+    "endDate": "2017-09-08",
     "city": "Barcelona",
     "country": "Spain"
   },
   {
-    "name": "ColdFront 2017",
+    "name": "ColdFront",
     "url": "https://2017.coldfront.co",
     "startDate": "2017-09-05",
     "endDate": "2017-09-06",
@@ -503,7 +539,7 @@
     "name": "React Native EU",
     "url": "https://react-native.eu",
     "startDate": "2017-09-06",
-    "endDate": "2017/09/07",
+    "endDate": "2017-09-07",
     "city": "Wroclaw",
     "country": "Poland"
   },
@@ -536,6 +572,21 @@
     "startDate": "2017-09-10",
     "city": "Tel Aviv",
     "country": "Israel"
+  },
+  {
+    "name": "CSS-Minsk-JS",
+    "url": "http://css-minsk-js.by/",
+    "startDate": "2017-09-10",
+    "city": "Minsk",
+    "country": "Belarus"
+  },
+  {
+    "name": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com",
+    "startDate": "2017-09-11",
+    "endDate": "2017-09-12",
+    "city": "Freiburg",
+    "country": "Germany"
   },
   {
     "name": "ReactFoo",
@@ -601,7 +652,6 @@
     "name": "Frontend Dev Conf",
     "url": "http://fdconf.by/en/",
     "startDate": "2017-09-30",
-    "endDate": "2017-09-30",
     "city": "Minsk",
     "country": "Belarus",
     "twitter": "@fdconf"
@@ -632,6 +682,13 @@
     "twitter": "@FronteersConf"
   },
   {
+    "name": "ReactJS Day",
+    "startDate": "2017-10-06",
+    "city": "Verona",
+    "country": "Italy",
+    "url": "http://2017.reactjsday.it/"
+  },
+  {
     "name": "NCDevCon",
     "url": "http://www.ncdevcon.com/",
     "startDate": "2017-10-07",
@@ -657,7 +714,8 @@
   },
   {
     "name": "Mirror Conf",
-    "startDate": "2017-10-10",
+    "startDate": "2017-10-12",
+    "endDate": "2017-10-13",
     "city": "Braga",
     "country": "Portugal",
     "url": "http://www.mirrorconf.com/"
@@ -754,7 +812,6 @@
     "name": "RVA.js",
     "url": "https://www.rvajavascript.com/",
     "startDate": "2017-11-03",
-    "endDate": "2017-11-03",
     "city": "Richmond, VA",
     "country": "U.S.A.",
     "twitter": "@RVAJavaScript"
@@ -771,7 +828,6 @@
     "name": "ThunderPlains",
     "url": "http://2017.thunderplainsconf.com/",
     "startDate": "2017-11-03",
-    "endDate": "2017-11-03",
     "city": "Oklahoma City, OK",
     "country": "USA",
     "twitter": "@ThunderPlains"
@@ -809,7 +865,7 @@
     "country": "Germany"
   },
   {
-    "name": "Pixel Pioneers Belfast",
+    "name": "Pixel Pioneers",
     "startDate": "2017-11-16",
     "city": "Belfast",
     "country": "U.K.",
@@ -821,6 +877,13 @@
     "startDate": "2017-11-17",
     "city": "London",
     "country": "U.K."
+  },
+  {
+    "name": "FrontFest",
+    "url": "http://frontfest.ru/",
+    "startDate": "2017-11-18",
+    "city": "Moscow",
+    "country": "Russia"
   },
   {
     "name": "JSTalks Bulgaria",
@@ -854,7 +917,8 @@
   },
   {
     "name": "An Event Apart",
-    "startDate": "2017-11-30",
+    "startDate": "2017-10-30",
+    "endDate": "2017-11-01",
     "city": "San Francisco",
     "country": "U.S.A.",
     "url": "https://aneventapart.com/event/san-francisco-2017"
@@ -870,7 +934,6 @@
     "name": "React Day Berlin",
     "url": "https://reactday.berlin/",
     "startDate": "2017-12-02",
-    "endDate": "2017-12-02",
     "city": "Berlin",
     "country": "Germany",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeBJAtcdsiPNLicsfaT-_63HQq4Ql4qhTtb53U4aj32re_uMg/viewform"
@@ -886,6 +949,7 @@
   {
     "name": "NG-BE",
     "startDate": "2017-12-07",
+    "endDate": "2017-12-08",
     "city": "Ghent",
     "country": "Belgium",
     "url": "https://ng-be.org/"
@@ -907,7 +971,6 @@
     "endDate": "2017-12-11",
     "city": "Moscow",
     "country": "Russia",
-    "cfpUrl": "https://holyjs-moscow.ru/callforpapers/",
     "twitter": "@HolyJSconf"
   },
   {
@@ -917,68 +980,5 @@
     "city": "Denver",
     "country": "U.S.A.",
     "url": "https://aneventapart.com/event/denver-2017"
-  },
-
-
-
-  {
-    "name": "Webconf.asia",
-    "startDate": "2017-06-01",
-    "city": "Hong Kong",
-    "country": "Hong Kong",
-    "url": "http://webconf.asia"
-  },
-
-  {
-    "name": "ReactJS Day",
-    "startDate": "2017-06-09",
-    "city": "Verona",
-    "country": "Italy",
-    "url": "www.reactjsday.it"
-  },
-
-  {
-    "name": "Contao Konferenz",
-    "startDate": "2017-06-15",
-    "city": "Potsdam (near Berlin)",
-    "country": "Germany",
-    "url": "https://www.contao-konferenz.de/"
-  },
-  {
-    "name": "Pixel Pioneers Bristol",
-    "startDate": "2017-06-21",
-    "city": "Bristol",
-    "country": "U.K.",
-    "url": "https://pixelpioneers.co/"
-  },
-  {
-    "name": "Frontinsampa",
-    "startDate": "2017-06-22",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "url": "www.frontinsampa.com.br"
-  },
-  {
-    "name": "An Event Apart",
-    "startDate": "2017-07-01",
-    "city": "Washington DC",
-    "country": "U.S.A.",
-    "url": "https://aneventapart.com/event/washington-dc-2017"
-  },
-
-  {
-    "name": "FullStack",
-    "startDate": "2017-07-12",
-    "city": "London",
-    "country": "U.K.",
-    "url": "https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things"
-  },
-
-  {
-    "name": "Code",
-    "startDate": "2017-07-26",
-    "city": "Melbourne, Sydney, Brisbane",
-    "country": "Australia",
-    "url": "https://www.webdirections.org/code/"
   }
 ]
