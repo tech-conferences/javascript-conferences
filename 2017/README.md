@@ -1,10 +1,9 @@
-This is a list of conferences for frontend and Node.js developers. The list is going to be updated as the new events are announced.
-
-Please send Pull requests to add events to the list. Please do not add workshops and user group meetups.
+## JavaScript conferences in 2017
+**As of September 2017 the list of events in this README file is no longer updated.**
+You can find a full and up-to-date list of JavaScript conferences on [confs.tech](https://confs.tech/).
+The conferences are now stored in the JSON file located in the `conference` folder. Please send Pull Requests in the [following format](https://github.com/tech-conferences/javascript-conferences#contribute) to add events to the list.
 
 You can find a list of events in 2016 [here](https://github.com/prigara/javascript-conferences/blob/master/2016/README.md).
-
-## JavaScript conferences in 2017
 
 | Conference  | Date | Submission Deadline | Location |
 | ------------- | ------------- | ------------- | ------------- |
