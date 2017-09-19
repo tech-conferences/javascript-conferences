@@ -65,7 +65,16 @@
     "city": "Ottawa",
     "country": "Canada"
   },
-
+  {
+    "name": "Frontend NE",
+    "url": "https://2018.frontendne.co.uk/",
+    "startDate": "2018-04-05",
+    "endDate": "2018-04-05",
+    "city": "Newcastle-Upon-Tyne",
+    "country": "U.K.",
+    "cfpUrl": "https://2018.frontendne.co.uk/call-for-speakers.html",
+    "cfpEndDate": "2017-12-07"
+  },
   {
     "name": "FullStack",
     "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
