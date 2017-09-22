@@ -97,7 +97,7 @@
     "startDate": "2018-03-12",
     "endtDate": "2018-03-14",
     "city": "Portland, OR",
-    "country": "USA",
+    "country": "U.S.A.",
     "twitter": "@EmberConf"
   },
   {
@@ -106,7 +106,7 @@
     "startDate": "2018-03-27",
     "endtDate": "2018-03-28",
     "city": "Redwood City, CA",
-    "country": "USA",
+    "country": "U.S.A.",
     "cfpUrl": "https://perfmattersconf.com/speak/",
     "twitter": "@perfmattersconf"
   },
