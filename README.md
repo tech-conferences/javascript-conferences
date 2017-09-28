@@ -1,10 +1,9 @@
 # List of JavaScript conferences
-**You can see a full list of conferences for frontend and Node.js developers on [confs.tech](https://confs.tech/).** 
+**You can see a full list of conferences for frontend and Node.js developers on [confs.tech](https://confs.tech/).**
 
 The list is going to be updated as the new events are announced. This repository stores the list.
 
-- [List of conferences for 2017](https://confs.tech/2017/javascript)
-- [List of conferences for 2018](https://confs.tech/2018/javascript)
+[List of JavaScript conferences](https://confs.tech/javascript)
 
 ## How to add new events
 
