@@ -135,9 +135,9 @@
   },
   {
     "name": "SmashingConf San Francisco",
-    "url": "https://smashingconf.com/",
-    "date": "April 4-5",
+    "url": "https://smashingconf.com/sf-2017/",
     "startDate": "2017-04-04",
+    "endDate": "2017-04-05",
     "city": "San Francisco, CA",
     "country": "U.S.A."
   },
@@ -328,7 +328,7 @@
     "startDate": "2017-06-10",
     "city": "New York",
     "country": "U.S.A.",
-    "url": "https://smashingconf.com"
+    "url": "https://smashingconf.com/ny-2017/"
   },
   {
     "name": "ConvergeSE",
