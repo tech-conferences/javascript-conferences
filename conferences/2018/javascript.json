@@ -128,6 +128,17 @@
     "twitter": "@uphillconf"
   },
   {
+    "name": "Front-Trends",
+    "url": "https://2018.front-trends.com/",
+    "startDate": "2018-05-24",
+    "endDate": "2018-05-25",
+    "city": "Warsaw",
+    "country": "Poland",
+    "cfpUrl": "https://2018.front-trends.com/speaking-at-front-trends/",
+    "cfpEndDate": "2018-03-31",
+    "twitter": "@fronttrends"
+  },
+  {
     "name": "ConvergeSE",
     "url": "http://convergese.com/",
     "startDate": "2018-06-13",
