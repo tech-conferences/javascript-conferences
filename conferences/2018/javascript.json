@@ -92,6 +92,17 @@
     "country": "U.S.A."
   },
   {
+    "name": "JSConf Iceland",
+    "url": "https://2018.jsconf.is/",
+    "startDate": "2018-03-01",
+    "endDate": "2018-03-02",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "cfpUrl": "http://cfp.jsconf.is/events/jsconf-iceland-2018",
+    "cfpEndDate": "2017-10-31",
+    "twitter": "@jsconfis"
+  },
+  {
     "name": "EmberConf",
     "url": "http://emberconf.com/",
     "startDate": "2018-03-12",
