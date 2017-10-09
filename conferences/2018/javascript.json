@@ -174,5 +174,14 @@
     "city": "Atlanta",
     "country": "U.S.A.",
     "twitter": "@ngAtlanta"
+  },
+  {
+    "name": "React Amsterdam",
+    "url": "https://react.amsterdam",
+    "startDate": "2018-04-13",
+    "endDate": "2018-04-13",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@reactamsterdam"
   }
 ]
