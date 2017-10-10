@@ -183,5 +183,15 @@
     "city": "Amsterdam",
     "country": "Netherlands",
     "twitter": "@reactamsterdam"
+  },
+  {
+    "name": "JSConf Asia",
+    "url": "https://2018.jsconf.asia/",
+    "startDate": "2018-01-25",
+    "endDate": "2018-01-27",
+    "city": "Singapore",
+    "country": "Singapore",
+    "cfpUrl": "https://contribute.jsconf.asia/",
+    "twitter": "@https://twitter.com/jsconfasia"
   }
 ]
