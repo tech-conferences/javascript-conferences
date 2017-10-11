@@ -76,6 +76,16 @@
     "cfpEndDate": "2017-12-07"
   },
   {
+    "name": "JSHeroes",
+    "url": "https://jsheroes.io/",
+    "startDate": "2018-04-18",
+    "endDate": "2018-04-20",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform",
+    "cfpEndDate": "2017-12-31"
+  },
+  {
     "name": "FullStack",
     "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
     "startDate": "2018-07-11",
