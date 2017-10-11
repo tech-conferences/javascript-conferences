@@ -106,7 +106,7 @@
     "name": "EmberConf",
     "url": "http://emberconf.com/",
     "startDate": "2018-03-12",
-    "endtDate": "2018-03-14",
+    "endDate": "2018-03-14",
     "city": "Portland, OR",
     "country": "U.S.A.",
     "twitter": "@EmberConf"
@@ -133,7 +133,7 @@
     "name": "UphillConf",
     "url": "http://uphillconf.com/",
     "startDate": "2018-04-26",
-    "endtDate": "2018-04-27",
+    "endDate": "2018-04-27",
     "city": "Bern",
     "country": "Switzerland",
     "twitter": "@uphillconf"
@@ -150,6 +150,15 @@
     "twitter": "@fronttrends"
   },
   {
+    "name": "JSConf EU",
+    "url": "https://2018.jsconf.eu/",
+    "startDate": "2018-06-02",
+    "endDate": "2018-06-03",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@jsconfeu"
+  },
+  {
     "name": "ConvergeSE",
     "url": "http://convergese.com/",
     "startDate": "2018-06-13",
@@ -161,7 +170,7 @@
     "name": "JSFoo",
     "url": "https://jsfoo.in",
     "startDate": "2018-09-15",
-    "endtDate": "2018-09-16",
+    "endDate": "2018-09-16",
     "city": "JSFoo",
     "country": "India",
     "twitter": "@hasgeek"
@@ -170,7 +179,7 @@
     "name": "ngAtlanta",
     "url": "http://ng-atl.org/",
     "startDate": "2018-01-30",
-    "endtDate": "2018-02-02",
+    "endDate": "2018-02-02",
     "city": "Atlanta",
     "country": "U.S.A.",
     "twitter": "@ngAtlanta"
