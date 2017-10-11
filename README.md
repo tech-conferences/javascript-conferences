@@ -19,7 +19,7 @@ Conferences are stored in the JSON files in the [conferences folder](https://git
     "country": "",
     "cfpUrl": "",
     "cfpEndDate": "",
-    "twitter": "@twitter_handle",
+    "twitter": "@twitter_handle"
   }
 ```
 Please do not add workshops and user group meetups.

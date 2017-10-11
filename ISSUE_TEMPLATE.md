@@ -10,6 +10,6 @@ Hey, here is a conference that is missing from the list.
     "country": "",
     "cfpUrl": "",
     "cfpEndDate": "",
-    "twitter": "@twitter_handle",
+    "twitter": "@twitter_handle"
   }
 ```
