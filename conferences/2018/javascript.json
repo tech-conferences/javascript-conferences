@@ -212,5 +212,15 @@
     "country": "Singapore",
     "cfpUrl": "https://contribute.jsconf.asia/",
     "twitter": "@https://twitter.com/jsconfasia"
+  },
+  {
+    "name": "The Rolling Scopes Conference",
+    "url": "https://2018.conf.rollingscopes.com",
+    "startDate": "2018-02-10",
+    "endDate": "2018-02-11",
+    "city": "Minsk",
+    "country": "Belarus",
+    "cfpEndDate": "2018-12-31",
+    "twitter": "@rollingscopes"
   }
 ]
