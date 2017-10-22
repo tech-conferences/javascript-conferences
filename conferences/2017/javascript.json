@@ -152,8 +152,8 @@
   {
     "name": "Bulgaria Web Summit",
     "url": "https://bulgariawebsummit.com/",
-    "date": "April 7-8",
     "startDate": "2017-04-07",
+    "endDate": "2017-04-08",
     "city": "Sofia",
     "country": "Bulgaria"
   },
@@ -230,8 +230,8 @@
   {
     "name": "Beyond Tellerrand",
     "url": "https://beyondtellerrand.com/events/duesseldorf-2017",
-    "date": "May 15-17",
     "startDate": "2017-05-15",
+    "endDate": "2017-05-17",
     "city": "Düsseldorf",
     "country": "Germany"
   },
@@ -244,7 +244,7 @@
     "url": "https://aneventapart.com/event/boston-2017"
   },
   {
-    "name": "React Europe",
+    "name": "ReactEurope",
     "startDate": "2017-05-18",
     "city": "Paris",
     "country": "France",
@@ -282,8 +282,8 @@
   {
     "name": "ng-cruise",
     "url": "https://ngcruise.com/",
-    "date": "May 29-June 2",
-    "startDate": "2017-06-29",
+    "startDate": "2017-05-29",
+    "endDate": "2017-06-02",
     "city": "Miami, FL",
     "country": "U.S.A."
   },

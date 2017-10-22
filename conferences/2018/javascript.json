@@ -1,8 +1,17 @@
 [
   {
+    "name": "Beyond Tellerrand",
+    "url": "https://beyondtellerrand.com/events/munich-2018",
+    "startDate": "2018-01-15",
+    "endDate": "2018-01-17",
+    "city": "Munich",
+    "country": "Germany"
+  },
+  {
     "name": "Script",
     "url": "https://scriptconf.org/",
     "startDate": "2018-01-19",
+    "endDate": "2018-01-19",
     "city": "Linz",
     "country": "Austria"
   },
@@ -16,6 +25,25 @@
     "country": "Austria"
   },
   {
+    "name": "JSConf Asia",
+    "url": "https://2018.jsconf.asia/",
+    "startDate": "2018-01-25",
+    "endDate": "2018-01-27",
+    "city": "Singapore",
+    "country": "Singapore",
+    "cfpUrl": "https://contribute.jsconf.asia/",
+    "twitter": "@https://twitter.com/jsconfasia"
+  },
+  {
+    "name": "ngAtlanta",
+    "url": "http://ng-atl.org/",
+    "startDate": "2018-01-30",
+    "endDate": "2018-02-02",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@ngAtlanta"
+  },
+  {
     "name": "ng-europe",
     "url": "https://ngeurope.org/",
     "startDate": "2018-02-01",
@@ -25,9 +53,36 @@
     "country": "France"
   },
   {
+    "name": "The Rolling Scopes Conference",
+    "url": "https://2018.conf.rollingscopes.com",
+    "startDate": "2018-02-10",
+    "endDate": "2018-02-11",
+    "city": "Minsk",
+    "country": "Belarus",
+    "cfpEndDate": "2018-12-31",
+    "twitter": "@rollingscopes"
+  },
+  {
+    "name": "ForwardJS",
+    "url": "https://forwardjs.com",
+    "startDate": "2018-02-11",
+    "endDate": "2018-02-16",
+    "city": "San Fransisco",
+    "country": "U.S.A."
+  },
+  {
+    "name": "FrontFest",
+    "url": "http://frontfest.es/",
+    "startDate": "2018-02-17",
+    "endDate": "2018-02-17",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
     "name": "AssertJS",
     "url": "https://www.assertjs.com/",
     "startDate": "2018-02-22",
+    "endDate": "2018-02-22",
     "city": "San Antonio",
     "country": "U.S.A.",
     "twitter": "@assertjs"
@@ -53,8 +108,47 @@
     "name": "RenderConf",
     "url": "https://2018.render-conf.com/",
     "startDate": "2018-03-23",
+    "endDate": "2018-03-23",
     "city": "Oxford",
     "country": "U.K."
+  },
+  {
+    "name": "JSConf Iceland",
+    "url": "https://2018.jsconf.is/",
+    "startDate": "2018-03-01",
+    "endDate": "2018-03-02",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "cfpUrl": "http://cfp.jsconf.is/events/jsconf-iceland-2018",
+    "cfpEndDate": "2017-10-31",
+    "twitter": "@jsconfis"
+  },
+  {
+    "name": "EmberConf",
+    "url": "http://emberconf.com/",
+    "startDate": "2018-03-13",
+    "endDate": "2018-03-14",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "twitter": "@EmberConf"
+  },
+  {
+    "name": "jazzcon.tech",
+    "url": "http://jazzcon.tech/",
+    "startDate": "2018-03-21",
+    "endDate": "2018-03-23",
+    "city": "New Orleans, LA",
+    "country": "U.S.A."
+  },
+  {
+    "name": "#PerfMatters Conference",
+    "url": "https://perfMattersConf.com",
+    "startDate": "2018-03-27",
+    "endDate": "2018-03-28",
+    "city": "Redwood City, CA",
+    "country": "U.S.A.",
+    "cfpUrl": "https://perfmattersconf.com/speak/",
+    "twitter": "@perfmattersconf"
   },
   {
     "name": "ForwardJS",
@@ -76,6 +170,23 @@
     "cfpEndDate": "2017-12-07"
   },
   {
+    "name": "React Amsterdam",
+    "url": "https://react.amsterdam",
+    "startDate": "2018-04-13",
+    "endDate": "2018-04-13",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@reactamsterdam"
+  },
+  {
+    "name": "Bulgaria Web Summit",
+    "url": "https://bulgariawebsummit.com/",
+    "startDate": "2018-04-14",
+    "endDate": "2018-04-14",
+    "city": "Sofia",
+    "country": "Bulgaria"
+  },
+  {
     "name": "JSHeroes",
     "url": "https://jsheroes.io/",
     "startDate": "2018-04-18",
@@ -86,57 +197,19 @@
     "cfpEndDate": "2017-12-31"
   },
   {
-    "name": "FullStack",
-    "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
-    "startDate": "2018-07-11",
-    "endDate": "2018-07-13",
-    "city": "London",
-    "country": "U.K."
-  },
-  {
-    "name": "ForwardJS",
-    "url": "https://forwardjs.com",
-    "startDate": "2018-02-11",
-    "endDate": "2018-02-16",
-    "city": "San Fransisco",
-    "country": "U.S.A."
-  },
-  {
-    "name": "JSConf Iceland",
-    "url": "https://2018.jsconf.is/",
-    "startDate": "2018-03-01",
-    "endDate": "2018-03-02",
-    "city": "Reykjavik",
-    "country": "Iceland",
-    "cfpUrl": "http://cfp.jsconf.is/events/jsconf-iceland-2018",
-    "cfpEndDate": "2017-10-31",
-    "twitter": "@jsconfis"
-  },
-  {
-    "name": "EmberConf",
-    "url": "http://emberconf.com/",
-    "startDate": "2018-03-12",
-    "endDate": "2018-03-14",
-    "city": "Portland, OR",
-    "country": "U.S.A.",
-    "twitter": "@EmberConf"
-  },
-  {
-    "name": "#PerfMatters Conference",
-    "url": "https://perfMattersConf.com",
-    "startDate": "2018-03-27",
-    "endtDate": "2018-03-28",
-    "city": "Redwood City, CA",
-    "country": "U.S.A.",
-    "cfpUrl": "https://perfmattersconf.com/speak/",
-    "twitter": "@perfmattersconf"
-  },
-  {
     "name": "ng-conf",
     "url": "https://www.ng-conf.org/",
     "startDate": "2018-04-18",
     "endDate": "2018-04-20",
     "city": "Salt Lake City, UT",
+    "country": "U.S.A."
+  },
+  {
+    "name": "Front End Design Conference",
+    "url": "http://frontenddesignconference.com/",
+    "startDate": "2018-04-25",
+    "endDate": "2018-04-27",
+    "city": "St. Petersburg, Florida",
     "country": "U.S.A."
   },
   {
@@ -147,6 +220,30 @@
     "city": "Bern",
     "country": "Switzerland",
     "twitter": "@uphillconf"
+  },
+  {
+    "name": "Beyond Tellerrand",
+    "url": "https://beyondtellerrand.com/events/duesseldorf-2018",
+    "startDate": "2018-05-07",
+    "endDate": "2018-05-09",
+    "city": "Düsseldorf",
+    "country": "Germany"
+  },
+  {
+    "name": "JSDay Italy",
+    "url": "http://jsday.it/",
+    "startDate": "2018-05-09",
+    "endDate": "2018-05-10",
+    "city": "Verona",
+    "country": "Italy"
+  },
+  {
+    "name": "ReactEurope",
+    "url": "https://www.react-europe.org/",
+    "startDate": "2018-05-17",
+    "endDate": "2018-05-18",
+    "city": "Paris",
+    "country": "France"
   },
   {
     "name": "Front-Trends",
@@ -160,6 +257,14 @@
     "twitter": "@fronttrends"
   },
   {
+    "name": "Frontend United",
+    "url": "http://frontendunited.org/",
+    "startDate": "2018-05-31",
+    "endDate": "2018-06-03",
+    "city": "Utrecht",
+    "country": "Netherlands"
+  },
+  {
     "name": "JSConf EU",
     "url": "https://2018.jsconf.eu/",
     "startDate": "2018-06-02",
@@ -167,6 +272,14 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@jsconfeu"
+  },
+  {
+    "name": "Fluent",
+    "url": "https://conferences.oreilly.com/fluent",
+    "startDate": "2018-06-11",
+    "endDate": "2018-06-14",
+    "city": "San Jose, CA",
+    "country": "U.S.A."
   },
   {
     "name": "ConvergeSE",
@@ -177,6 +290,14 @@
     "country": "U.S.A."
   },
   {
+    "name": "FullStack",
+    "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
+    "startDate": "2018-07-11",
+    "endDate": "2018-07-13",
+    "city": "London",
+    "country": "U.K."
+  },
+  {
     "name": "JSFoo",
     "url": "https://jsfoo.in",
     "startDate": "2018-09-15",
@@ -184,43 +305,5 @@
     "city": "JSFoo",
     "country": "India",
     "twitter": "@hasgeek"
-  },
-  {
-    "name": "ngAtlanta",
-    "url": "http://ng-atl.org/",
-    "startDate": "2018-01-30",
-    "endDate": "2018-02-02",
-    "city": "Atlanta",
-    "country": "U.S.A.",
-    "twitter": "@ngAtlanta"
-  },
-  {
-    "name": "React Amsterdam",
-    "url": "https://react.amsterdam",
-    "startDate": "2018-04-13",
-    "endDate": "2018-04-13",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "twitter": "@reactamsterdam"
-  },
-  {
-    "name": "JSConf Asia",
-    "url": "https://2018.jsconf.asia/",
-    "startDate": "2018-01-25",
-    "endDate": "2018-01-27",
-    "city": "Singapore",
-    "country": "Singapore",
-    "cfpUrl": "https://contribute.jsconf.asia/",
-    "twitter": "@https://twitter.com/jsconfasia"
-  },
-  {
-    "name": "The Rolling Scopes Conference",
-    "url": "https://2018.conf.rollingscopes.com",
-    "startDate": "2018-02-10",
-    "endDate": "2018-02-11",
-    "city": "Minsk",
-    "country": "Belarus",
-    "cfpEndDate": "2018-12-31",
-    "twitter": "@rollingscopes"
   }
 ]
