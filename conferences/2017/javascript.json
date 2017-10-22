@@ -664,6 +664,14 @@
     "city": "Vancouver",
     "country": "Canada"
   },
+   {
+    "name": "GDG Dev Fest",
+    "url": "https://devfestnh.com",
+    "startDate": "2017-10-04",
+    "endDate": "2017-10-05",
+    "city": "New Haven",
+    "country": "Connecticut"
+  },
   {
     "name": "Paris Web",
     "url": "http://www.paris-web.fr/",
