@@ -665,12 +665,12 @@
     "country": "Canada"
   },
    {
-    "name": "GDG Dev Fest",
+    "name": "GDG DevFest New Haven",
     "url": "https://devfestnh.com",
     "startDate": "2017-10-04",
     "endDate": "2017-10-05",
-    "city": "New Haven",
-    "country": "Connecticut"
+    "city": "New Haven, Connecticut",
+    "country": "U.S.A."
   },
   {
     "name": "Paris Web",
