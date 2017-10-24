@@ -53,6 +53,15 @@
     "country": "France"
   },
   {
+    "name": "SmashingConf",
+    "url": "https://smashingconf.com/",
+    "startDate": "2018-02-07",
+    "endDate": "2018-02-08",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@smashingconf"
+  },
+  {
     "name": "The Rolling Scopes Conference",
     "url": "https://2018.conf.rollingscopes.com",
     "startDate": "2018-02-10",
