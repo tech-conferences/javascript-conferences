@@ -16,6 +16,16 @@
     "country": "Austria"
   },
   {
+    "name": "ReactFoo",
+    "url": "https://reactfoo.in/2018-pune/",
+    "startDate": "2018-01-19",
+    "endDate": "2018-01-20",
+    "city": "Pune",
+    "country": "India",
+    "cfpUrl": "https://reactfoo.talkfunnel.com/2018-pune/",
+    "twitter": "@ReactFoo"
+  },
+  {
     "name": "Agent Conf",
     "url": "https://www.agent.sh",
     "startDate": "2018-01-25",
