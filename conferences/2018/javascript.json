@@ -293,6 +293,15 @@
     "twitter": "@jsconfeu"
   },
   {
+    "name": "Web Rebels Conference",
+    "url": "https://www.webrebels.org/",
+    "startDate": "2018-06-04",
+    "endDate": "2018-06-05",
+    "city": "Oslo",
+    "country": "Norway",
+    "twitter": "@web_rebels"
+  },
+  {
     "name": "Fluent",
     "url": "https://conferences.oreilly.com/fluent",
     "startDate": "2018-06-11",
