@@ -98,6 +98,15 @@
     "country": "Spain"
   },
   {
+    "name": "Vue.js Amsterdam",
+    "url": "https://www.vuejs.amsterdam/",
+    "startDate": "2018-02-16",
+    "endDate": "2018-02-16",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@vuejsamsterdam"
+  },
+  {
     "name": "AssertJS",
     "url": "https://www.assertjs.com/",
     "startDate": "2018-02-22",
