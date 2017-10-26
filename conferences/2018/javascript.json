@@ -266,6 +266,17 @@
     "country": "Italy"
   },
   {
+    "name": "DeltaV",
+    "url": "https://2018.deltavconf.com/",
+    "startDate": "2018-05-10",
+    "endDate": "2018-05-11",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJny3HzeAdgDM_RiTizJnlgRSvbwtIRqM035gG7vfQMLQPmQ/viewform",
+    "cfpEndDate": "2017-11-16",
+    "twitter": "@deltavconf"
+  },
+  {
     "name": "ReactEurope",
     "url": "https://www.react-europe.org/",
     "startDate": "2018-05-17",
