@@ -338,6 +338,15 @@
     "country": "U.S.A."
   },
   {
+    "name": "Chain React",
+    "url": "https://infinite.red/ChainReactConf",
+    "startDate": "2018-07-11",
+    "endDate": "2018-07-13",
+    "twitter": "@ChainReactConf",
+    "city": "Portland",
+    "country": "U.S.A."
+  },  
+  {
     "name": "FullStack",
     "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
     "startDate": "2018-07-11",
