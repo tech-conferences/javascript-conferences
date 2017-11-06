@@ -207,6 +207,17 @@
     "twitter": "@reactamsterdam"
   },
   {
+    "name": "Universal JS Day",
+    "url": "https://2018.universaljsday.com/",
+    "startDate": "2018-04-13",
+    "endDate": "2018-04-13",
+    "city": "Ferrara",
+    "country": "Italy",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeYvQOwVwAn9_nJleql2Vxfy1xjmcpymcs6jfWk_TVPoiypIA/viewform",
+    "cfpEndDate": "2018-03-11",
+    "twitter": "@universaljsday"
+  },
+  {
     "name": "Bulgaria Web Summit",
     "url": "https://bulgariawebsummit.com/",
     "startDate": "2018-04-14",
