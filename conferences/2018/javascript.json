@@ -161,12 +161,15 @@
     "twitter": "@EmberConf"
   },
   {
-    "name": "jazzcon.tech",
+    "name": "JazzCon.Tech",
     "url": "http://jazzcon.tech/",
     "startDate": "2018-03-21",
     "endDate": "2018-03-23",
     "city": "New Orleans, LA",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "cfpUrl": "https://cfp.connectevents.io/en/jct2018/cfp/session/new",
+    "cfpEndDate": "2017-11-01",
+    "twitter": "@Jazz_Con"
   },
   {
     "name": "VueConf.US",
