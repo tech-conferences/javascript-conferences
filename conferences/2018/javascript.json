@@ -42,7 +42,7 @@
     "city": "Singapore",
     "country": "Singapore",
     "cfpUrl": "https://contribute.jsconf.asia/",
-    "twitter": "@https://twitter.com/jsconfasia"
+    "twitter": "@jsconfasia"
   },
   {
     "name": "ngAtlanta",
@@ -107,11 +107,11 @@
     "twitter": "@vuejsamsterdam"
   },
   {
-    "name": "AssertJS",
+    "name": "Assert(js)",
     "url": "https://www.assertjs.com/",
     "startDate": "2018-02-22",
     "endDate": "2018-02-22",
-    "city": "San Antonio",
+    "city": "San Antonio, TX",
     "country": "U.S.A.",
     "twitter": "@assertjs"
   },
@@ -169,12 +169,14 @@
     "country": "U.S.A."
   },
   {
-    "name": "VueConf US",
+    "name": "VueConf.US",
     "url": "http://us.vuejs.org/",
     "startDate": "2018-03-26",
     "endDate": "2018-03-28",
     "city": "New Orleans, LA",
     "country": "U.S.A.",
+    "cfpUrl": "http://us.vuejs.org/call-for-papers",
+    "cfpEndDate": "2017-12-01",
     "twitter": "@vueconfus"
   },
   {
@@ -333,7 +335,7 @@
     "twitter": "@jsconfeu"
   },
   {
-    "name": "Web Rebels Conference",
+    "name": "Web Rebels",
     "url": "https://www.webrebels.org/",
     "startDate": "2018-06-04",
     "endDate": "2018-06-05",
