@@ -370,7 +370,7 @@
     "twitter": "@ChainReactConf",
     "city": "Portland",
     "country": "U.S.A."
-  },  
+  },
   {
     "name": "FullStack",
     "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
@@ -387,5 +387,14 @@
     "city": "JSFoo",
     "country": "India",
     "twitter": "@hasgeek"
+  },
+  {
+    "name": "Frontend Developer Love",
+    "url": "www.frontenddeveloperlove.com",
+    "startDate": "2018-02-15",
+    "endDate": "2018-02-16",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@frontenddevlove"
   }
 ]
