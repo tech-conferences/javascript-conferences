@@ -389,6 +389,15 @@
     "twitter": "@hasgeek"
   },
   {
+    "name": "React Rally",
+    "url": "http://www.reactrally.com/",
+    "startDate": "2018-08-16",
+    "endDate": "2018-08-17",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "twitter": "@ReactRally"
+  },
+  {
     "name": "Frontend Developer Love",
     "url": "https://www.frontenddeveloperlove.com",
     "startDate": "2018-02-15",
