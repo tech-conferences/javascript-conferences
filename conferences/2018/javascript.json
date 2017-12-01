@@ -380,6 +380,15 @@
     "country": "U.K."
   },
   {
+    "name": "Node Summit",
+    "url": "http://www.nodesummit.com/",
+    "startDate": "2018-07-23",
+    "endDate": "2018-07-25",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@NodeSummit"
+  },
+  {
     "name": "JSFoo",
     "url": "https://jsfoo.in",
     "startDate": "2018-09-15",
