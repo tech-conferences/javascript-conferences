@@ -981,6 +981,14 @@
     "twitter": "@FrontMuc"
   },
   {
+    "name": "JavaScript Conference Armenia",
+    "url": "https://jsconf.am/",
+    "startDate": "2017-12-09",
+    "endDate": "2017-12-09",
+    "city": "Yerevan",
+    "country": "Armenia"
+  },
+  {
     "name": "HolyJS",
     "url": "https://holyjs-moscow.ru",
     "startDate": "2017-12-10",
