@@ -432,5 +432,15 @@
     "endDate": "2018-06-09",
     "city": "St. Petersburg",
     "country": "Russia"
+  },
+  {
+    "name": "CityJSConf",
+    "url": "http://cityjsconf.org",
+    "startDate": "2018-03-26",
+    "endDate": "2018-03-26",
+    "city": "London",
+    "country": "United Kingdom",
+    "cfpUrl": "https://www.papercall.io/cfps/826/submissions/new",
+    "cfpEndDate": "2018-01-14"
   }
 ]
