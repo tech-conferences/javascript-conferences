@@ -453,5 +453,16 @@
     "cfpUrl": "",
     "cfpEndDate": "2017-12-01",
     "twitter": "@conc_at"
+  },
+  {
+    "name": "WAQ18",
+    "url": "https://webaquebec.org",
+    "startDate": "2018-04-10",
+    "endDate": "2018-04-12",
+    "city": "Québec",
+    "country": "Canada",
+    "cfpUrl": "",
+    "cfpEndDate": "",
+    "twitter": "@webaquebec"
   }
 ]
