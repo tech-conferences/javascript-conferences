@@ -455,6 +455,15 @@
     "twitter": "@conc_at"
   },
   {
+    "name": "iJS",
+    "url": "https://javascript-conference.com/en/",
+    "startDate": "2018-04-11",
+    "endDate": "2018-04-13",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@JavaScriptCon"
+  },
+  {
     "name": "WAQ18",
     "url": "https://webaquebec.org",
     "startDate": "2018-04-10",
