@@ -473,5 +473,13 @@
     "cfpUrl": "",
     "cfpEndDate": "",
     "twitter": "@webaquebec"
-  }
+  },
+  {
+    "name": "Angular Mix",
+    "url": "https://angularmix.com",
+    "startDate": "2018-10-10",
+    "endDate": "2018-10-12",
+    "city": "Orlando, FL",
+    "country": "U.S.A."
+  },
 ]
