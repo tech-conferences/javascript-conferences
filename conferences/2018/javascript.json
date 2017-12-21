@@ -464,17 +464,6 @@
     "twitter": "@JavaScriptCon"
   },
   {
-    "name": "WAQ18",
-    "url": "https://webaquebec.org",
-    "startDate": "2018-04-10",
-    "endDate": "2018-04-12",
-    "city": "Québec",
-    "country": "Canada",
-    "cfpUrl": "",
-    "cfpEndDate": "",
-    "twitter": "@webaquebec"
-  },
-  {
     "name": "Angular Mix",
     "url": "https://angularmix.com",
     "startDate": "2018-10-10",
