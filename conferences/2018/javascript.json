@@ -258,6 +258,15 @@
     "country": "U.S.A."
   },
   {
+    "name": "React Finland",
+    "url": "https://react-finland.fi/",
+    "startDate": "2018-04-24",
+    "endDate": "2018-04-26",
+    "city": "Helsinki",
+    "country": "Finland",
+    "twitter": "@ReactFinland"
+  },
+  {
     "name": "Front End Design Conference",
     "url": "http://frontenddesignconference.com/",
     "startDate": "2018-04-25",
