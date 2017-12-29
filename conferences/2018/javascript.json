@@ -8,6 +8,15 @@
     "country": "Germany"
   },
   {
+    "name": "FronteEndNorth",
+    "url": "https://frontendnorth.com/",
+    "startDate": "2018-01-19",
+    "endDate": "2018-01-19",
+    "city": "Sheffield",
+    "country": "U.K.",
+    "twitter": "@frontendnorth"
+  },
+  {
     "name": "Script",
     "url": "https://scriptconf.org/",
     "startDate": "2018-01-19",
