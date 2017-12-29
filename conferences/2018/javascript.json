@@ -481,6 +481,15 @@
     "country": "U.S.A."
   },
   {
+    "name": "ReactJS Day",
+    "url": "http://2018.reactjsday.it/",
+    "startDate": "2018-10-05",
+    "endDate": "2018-10-05",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@reactjsday"
+  },
+  {
     "name": "ReactFest",
     "url": "https://reactfest.com/",
     "startDate": "2018-03-09",
