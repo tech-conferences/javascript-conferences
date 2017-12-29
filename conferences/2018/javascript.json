@@ -472,6 +472,17 @@
     "country": "U.S.A."
   },
   {
+    "name": "ReactFest",
+    "url": "https://reactfest.com/",
+    "startDate": "2018-03-09",
+    "endDate": "2018-03-09",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform",
+    "cfpEndDate": "2018-01-15",
+    "twitter": "@ReactFest"
+  },
+  {
     "name": "AngularCamp",
     "url": "https://angularcamp.org/",
     "startDate": "2018-07-18",
