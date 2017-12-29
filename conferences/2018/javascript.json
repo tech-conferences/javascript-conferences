@@ -398,6 +398,15 @@
     "twitter": "@NodeSummit"
   },
   {
+    "name": "ReactNext",
+    "url": "http://react-next.com/",
+    "startDate": "2018-09-10",
+    "endDate": "2018-09-10",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@ReactNext"
+  },
+  {
     "name": "JSFoo",
     "url": "https://jsfoo.in",
     "startDate": "2018-09-15",
