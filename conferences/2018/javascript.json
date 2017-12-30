@@ -381,6 +381,15 @@
     "country": "U.S.A."
   },
   {
+    "name": "enterJS",
+    "url": "https://www.enterjs.de/",
+    "startDate": "2018-06-19",
+    "endDate": "2018-06-21",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "twitter": "@enterjsconf"
+  },
+  {
     "name": "Chain React",
     "url": "https://infinite.red/ChainReactConf",
     "startDate": "2018-07-11",
