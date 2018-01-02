@@ -72,6 +72,15 @@
     "country": "France"
   },
   {
+    "name": "DeveloperWeek JavaScript Conference",
+    "url": "http://www.developerweek.com/javascript-conference/",
+    "startDate": "2018-02-05",
+    "endDate": "2018-02-06",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@DeveloperWeek"
+  },
+  {
     "name": "SmashingConf London",
     "url": "https://smashingconf.com/",
     "startDate": "2018-02-07",
