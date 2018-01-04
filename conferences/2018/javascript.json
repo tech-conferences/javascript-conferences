@@ -553,5 +553,14 @@
     "city": "Wroclaw",
     "country": "Poland",
     "twitter": "@react_native_eu"
+  },
+  {
+    "name": "NodeConf EU",
+    "url": "http://www.nodeconf.eu/",
+    "startDate": "2018-11-04",
+    "endDate": "2018-11-08",
+    "city": "Kilkenny",
+    "country": "Ireland",
+    "twitter": "@NodeConfEU"
   }
 ]
