@@ -275,6 +275,15 @@
     "country": "Bulgaria"
   },
   {
+    "name": "SmashingConf San Francisco",
+    "url": "https://smashingconf.com/sf-2018/",
+    "startDate": "2018-04-17",
+    "endDate": "2018-04-18",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@smashingconf"
+  },
+  {
     "name": "JSHeroes",
     "url": "https://jsheroes.io/",
     "startDate": "2018-04-18",
