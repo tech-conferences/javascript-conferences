@@ -452,6 +452,14 @@
     "twitter": "@enterjsconf"
   },
   {
+    "name": "AngularUP",
+    "url": "http://angular-up.com/",
+    "startDate": "2018-06-21",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@AngularUP"
+  },
+  {
     "name": "SmashingConf Toronto",
     "url": "https://smashingconf.com/toronto-2018/",
     "startDate": "2018-06-26",
