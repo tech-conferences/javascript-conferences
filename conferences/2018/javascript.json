@@ -435,6 +435,14 @@
     "twitter": "@webconf_asia"
   },
   {
+    "name": "DEVit",
+    "url": "http://devitconf.org",
+    "startDate": "2018-06-09",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "twitter": "@devitconf"
+  },
+  {
     "name": "Fluent",
     "url": "https://conferences.oreilly.com/fluent",
     "startDate": "2018-06-11",
