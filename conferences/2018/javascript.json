@@ -694,6 +694,15 @@
     "twitter": "@webdirections"
   },
   {
+    "name": "ColdFront",
+    "url": "https://2018.coldfront.co",
+    "startDate": "2018-11-13",
+    "endDate": "2018-11-14",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@coldfrontconf"
+  },
+  {
     "name": "HalfStack",
     "url": "http://halfstackconf.com/",
     "startDate": "2018-11-16",
