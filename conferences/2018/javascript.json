@@ -615,5 +615,14 @@
     "city": "Kilkenny",
     "country": "Ireland",
     "twitter": "@NodeConfEU"
+  },
+  {
+    "name": "AngularConnect",
+    "url": "http://angularconnect.com/",
+    "startDate": "2018-11-06",
+    "endDate": "2018-11-07",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@AngularConnect"
   }
 ]
