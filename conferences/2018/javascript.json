@@ -478,6 +478,15 @@
     "twitter": "@ReactNext"
   },
   {
+    "name": "Nordic.js",
+    "url": "http://nordicjs.com/",
+    "startDate": "2018-09-06",
+    "endDate": "2018-09-07",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "twitter": "@nordicjs"
+  },
+  {
     "name": "JSFoo",
     "url": "https://jsfoo.in",
     "startDate": "2018-09-15",
