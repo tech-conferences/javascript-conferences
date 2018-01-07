@@ -152,6 +152,14 @@
     "twitter": "@TypeScriptConf"
   },
   {
+    "name": "JS fwdays",
+    "url": "https://frameworksdays.com/event/js-fwdays-2018",
+    "startDate": "2018-03-18",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@fwdays"
+  },
+  {
     "name": "JSConf AU",
     "url": "https://2018.jsconfau.com/",
     "startDate": "2018-03-21",
