@@ -302,6 +302,15 @@
     "country": "U.S.A."
   },
   {
+    "name": "JSUnconf",
+    "url": "http://2018.jsunconf.eu/",
+    "startDate": "2018-04-21",
+    "endDate": "2018-04-22",
+    "city": "Hamburg",
+    "country": "Germany",
+    "twitter": "@jsunconf"
+  },
+  {
     "name": "React Finland",
     "url": "https://react-finland.fi/",
     "startDate": "2018-04-24",
