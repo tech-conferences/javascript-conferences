@@ -685,6 +685,15 @@
     "twitter": "@AngularConnect"
   },
   {
+    "name": "Web Directions Summit",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-09",
+    "city": "Sydney",
+    "country": "Australia",
+    "url": "https://www.webdirections.org/wds/",
+    "twitter": "@webdirections"
+  },
+  {
     "name": "HalfStack",
     "url": "http://halfstackconf.com/",
     "startDate": "2018-11-16",
