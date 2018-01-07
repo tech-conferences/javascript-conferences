@@ -538,6 +538,14 @@
     "twitter": "@nordicjs"
   },
   {
+    "name": "Refresh",
+    "url": "http://refresh.rocks/",
+    "startDate": "2018-09-07",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "twitter": "@REFRESHRocks"
+  },
+  {
     "name": "JSFoo",
     "url": "https://jsfoo.in",
     "startDate": "2018-09-15",
