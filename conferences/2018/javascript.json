@@ -666,5 +666,13 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@AngularConnect"
+  },
+  {
+    "name": "HalfStack",
+    "url": "http://halfstackconf.com/",
+    "startDate": "2018-11-16",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@london_ajax"
   }
 ]
