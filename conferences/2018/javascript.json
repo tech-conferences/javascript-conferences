@@ -372,6 +372,15 @@
     "country": "France"
   },
   {
+    "name": "JSDayES",
+    "startDate": "2018-05-19",
+    "endDate": "2018-05-19",
+    "city": "Madrid",
+    "country": "Spain",
+    "url": "http://2018.jsday.es/",
+    "twitter": "@JSDayES"
+  },
+  {
     "name": "Front-Trends",
     "url": "https://2018.front-trends.com/",
     "startDate": "2018-05-24",
