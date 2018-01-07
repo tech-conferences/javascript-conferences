@@ -408,6 +408,15 @@
     "twitter": "@enterjsconf"
   },
   {
+    "name": "SmashingConf Toronto",
+    "url": "https://smashingconf.com/toronto-2018/",
+    "startDate": "2018-06-26",
+    "endDate": "2018-06-27",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@smashingconf"
+  },
+  {
     "name": "Chain React",
     "url": "https://infinite.red/ChainReactConf",
     "startDate": "2018-07-11",
