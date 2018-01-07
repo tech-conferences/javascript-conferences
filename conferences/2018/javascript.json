@@ -409,6 +409,15 @@
     "twitter": "@web_rebels"
   },
   {
+    "name": "Webconf.asia",
+    "startDate": "2018-06-08",
+    "endDate": "2018-06-09",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "url": "http://webconf.asia",
+    "twitter": "@webconf_asia"
+  },
+  {
     "name": "Fluent",
     "url": "https://conferences.oreilly.com/fluent",
     "startDate": "2018-06-11",
