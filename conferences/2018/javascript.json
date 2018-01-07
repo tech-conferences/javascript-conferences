@@ -511,6 +511,15 @@
     "twitter": "@NodeSummit"
   },
   {
+    "name": "Web Directions Code",
+    "startDate": "2018-08-02",
+    "endDate": "2018-08-03",
+    "city": "Melbourne",
+    "country": "Australia",
+    "url": "https://www.webdirections.org/code/",
+    "twitter": "@webdirections"
+  },
+  {
     "name": "ReactNext",
     "url": "http://react-next.com/",
     "startDate": "2018-09-06",
