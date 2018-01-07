@@ -400,6 +400,14 @@
     "country": "Netherlands"
   },
   {
+    "name": "AmsterdamJS",
+    "url": "https://amsterdamjs.com/",
+    "startDate": "2018-06-01",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@amsterdamjs"
+  },
+  {
     "name": "JSConf EU",
     "url": "https://2018.jsconf.eu/",
     "startDate": "2018-06-02",
