@@ -633,6 +633,15 @@
     "twitter": "@JSFoo"
   },
   {
+    "name": "WebExpo",
+    "url": "https://www.webexpo.net/prague2018/",
+    "startDate": "2018-09-21",
+    "endDate": "2018-09-22",
+    "city": "Prague",
+    "country": "Czechia",
+    "twitter": "@WebExpoPrague"
+  },
+  {
     "name": "React Rally",
     "url": "http://www.reactrally.com/",
     "startDate": "2018-08-16",
