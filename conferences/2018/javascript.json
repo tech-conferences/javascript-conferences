@@ -400,6 +400,15 @@
     "twitter": "@fronttrends"
   },
   {
+    "name": "You Gotta Love Frontend",
+    "url": "http://yglf.com.ua/",
+    "startDate": "2018-05-24",
+    "endDate": "2018-05-25",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@YGLFConf"
+  },
+  {
     "name": "Frontend United",
     "url": "http://frontendunited.org/",
     "startDate": "2018-05-31",
