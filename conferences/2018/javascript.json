@@ -615,6 +615,15 @@
     "twitter": "@REFRESHRocks"
   },
   {
+    "name": "Web Kongress Erlangen",
+    "url": "https://www.webkongress.fau.de/",
+    "startDate": "2018-09-11",
+    "endDate": "2018-09-13",
+    "city": "Erlangen",
+    "country": "Germany",
+    "twitter": "@wke"
+  },
+  {
     "name": "JSFoo",
     "url": "https://jsfoo.in",
     "startDate": "2018-09-15",
