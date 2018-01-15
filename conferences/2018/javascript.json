@@ -638,7 +638,7 @@
     "startDate": "2018-09-21",
     "endDate": "2018-09-22",
     "city": "Prague",
-    "country": "Czechia",
+    "country": "Czech Republic",
     "twitter": "@WebExpoPrague"
   },
   {
@@ -724,7 +724,7 @@
     "country": "Canada"
   },
   {
-    "name": "Blend Web Mix",
+    "name": "BlendWebMix",
     "url": "http://www.blendwebmix.com/",
     "startDate": "2018-10-24",
     "endDate": "2018-10-25",
@@ -823,7 +823,7 @@
     "twitter": "@london_ajax"
   },
   {
-    "name": "JS Kongress Munich",
+    "name": "JS Kongress",
     "url": "https://2018.js-kongress.com/",
     "startDate": "2018-11-26",
     "endDate": "2018-11-27",
