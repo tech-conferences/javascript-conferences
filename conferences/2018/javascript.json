@@ -553,6 +553,15 @@
     "country": "U.K."
   },
   {
+    "name": "ScotlandJS",
+    "url": "http://scotlandjs.com/",
+    "startDate": "2018-07-19",
+    "endDate": "2018-07-20",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "twitter": "@ScotlandJS"
+  },
+  {
     "name": "Node Summit",
     "url": "http://www.nodesummit.com/",
     "startDate": "2018-07-23",
