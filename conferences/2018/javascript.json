@@ -443,6 +443,15 @@
     "twitter": "@web_rebels"
   },
   {
+    "name": "SyntaxCon",
+    "url": "https://2018.syntaxcon.com/",
+    "startDate": "2018-06-06",
+    "endDate": "2018-06-08",
+    "city": "Charleston, SC",
+    "country": "U.S.A.",
+    "twitter": "@syntaxcon"
+  },
+  {
     "name": "Pixel Pioneers Bristol",
     "startDate": "2018-06-08",
     "city": "Bristol",
