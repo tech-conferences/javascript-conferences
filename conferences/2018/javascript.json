@@ -715,6 +715,15 @@
     "country": "Canada"
   },
   {
+    "name": "Blend Web Mix",
+    "url": "http://www.blendwebmix.com/",
+    "startDate": "2018-10-24",
+    "endDate": "2018-10-25",
+    "city": "Lyon",
+    "country": "France",
+    "twitter": "@blendwebmix"
+  },
+  {
     "name": "ReactJS Day",
     "url": "http://2018.reactjsday.it/",
     "startDate": "2018-10-05",
