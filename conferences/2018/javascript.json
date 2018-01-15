@@ -794,5 +794,14 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@london_ajax"
+  },
+  {
+    "name": "JS Kongress Munich",
+    "url": "https://2018.js-kongress.com/",
+    "startDate": "2018-11-26",
+    "endDate": "2018-11-27",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@JSKongress"
   }
 ]
