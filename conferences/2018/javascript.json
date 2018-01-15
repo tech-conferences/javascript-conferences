@@ -460,6 +460,15 @@
     "twitter": "@pixelpioneers"
   },
   {
+    "name": "Best of Web",
+    "startDate": "2018-06-07",
+    "endDate": "2018-06-08",
+    "city": "Paris",
+    "country": "France",
+    "url": "http://bestofweb.paris/",
+    "twitter": "@bestofwebconf"
+  },
+  {
     "name": "Webconf.asia",
     "startDate": "2018-06-08",
     "endDate": "2018-06-09",
