@@ -830,5 +830,13 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@JSKongress"
+  },
+  {
+    "name": "NG-BE",
+    "startDate": "2018-12-06",
+    "endDate": "2018-12-07",
+    "city": "Ghent",
+    "country": "Belgium",
+    "url": "https://ng-be.org/"
   }
 ]
