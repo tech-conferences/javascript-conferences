@@ -502,6 +502,14 @@
     "country": "U.S.A."
   },
   {
+    "name": "GraphQL Europe",
+    "url": "https://www.graphql-europe.org/",
+    "startDate": "2018-06-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@graphqleu"
+  },
+  {
     "name": "enterJS",
     "url": "https://www.enterjs.de/",
     "startDate": "2018-06-19",
