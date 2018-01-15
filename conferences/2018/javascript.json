@@ -536,6 +536,15 @@
     "twitter": "@webdirections"
   },
   {
+    "name": "Frontend Conference Zürich",
+    "startDate": "2018-08-30",
+    "endDate": "2018-08-31",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "url": "https://www.frontendconf.ch/",
+    "twitter": "@frontendconfch"
+  },
+  {
     "name": "ReactNext",
     "url": "http://react-next.com/",
     "startDate": "2018-09-06",
