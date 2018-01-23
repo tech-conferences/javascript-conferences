@@ -532,6 +532,7 @@
     "name": "DinosaurJS",
     "url": "https://dinosaurjs.org/",
     "startDate": "2018-06-21",
+    "endDate": "2018-06-22",
     "city": "Denver, CO",
     "country": "U.S.A.",
     "twitter": "@dinosaur_js"
@@ -787,6 +788,15 @@
     "city": "Toronto",
     "country": "Canada",
     "url": "http://fitc.ca/event/webu18/"
+  },
+  {
+    "name": "Connect.Tech",
+    "url": "http://connect.tech/",
+    "startDate": "2018-10-17",
+    "endDate": "2018-10-19",
+    "city": "Atlanta, GA",
+    "country": "U.S.A.",
+    "twitter": "@connect_js"
   },
   {
     "name": "NodeConf EU",
