@@ -858,5 +858,16 @@
     "city": "Ghent",
     "country": "Belgium",
     "url": "https://ng-be.org/"
+  },
+  {
+    "name": "JS Fest",
+    "url": "http://jsfest.com.ua/?utm_source=infopartner&utm_medium=github_list",
+    "startDate": "2018-03-30",
+    "endDate": "2018-03-31",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "cfpUrl": "http://jsfest.com.ua/speakers_eng.html?utm_source=infopartner&utm_medium=github_list",
+    "cfpEndDate": "2018-03-15",
+    "twitter": "@jsfestua"
   }
 ]
