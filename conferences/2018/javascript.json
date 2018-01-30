@@ -496,10 +496,13 @@
   {
     "name": "DEVit",
     "url": "http://devitconf.org",
-    "startDate": "2018-06-09",
+    "startDate": "2018-06-10",
+    "endDate": "2018-06-11",
     "city": "Thessaloniki",
     "country": "Greece",
-    "twitter": "@devitconf"
+    "twitter": "@devitconf",
+    "cfpUrl": "https://goo.gl/forms/5yz1wbXuSw9MiBU13",
+    "cfpEndDate": "2018-02-26"
   },
   {
     "name": "Fluent",
