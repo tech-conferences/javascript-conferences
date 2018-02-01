@@ -747,6 +747,15 @@
     "twitter": "@JavaScriptCon"
   },
   {
+    "name": "Framework Summit",
+    "url": "https://www.frameworksummit.com/",
+    "startDate": "2018-10-02",
+    "endDate": "2018-10-03",
+    "city": "Park City, UT",
+    "country": "U.S.A.",
+    "twitter": "@FrameworkSummit"
+  },
+  {
     "name": "Angular Mix",
     "url": "https://angularmix.com",
     "startDate": "2018-10-10",
