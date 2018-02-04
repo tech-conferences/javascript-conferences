@@ -389,6 +389,14 @@
     "country": "Germany"
   },
   {
+    "name": "Angular Summit",
+    "url": "https://angularsummit.com",
+    "startDate": "2018-05-08",
+    "endDate": "2018-05-10",
+    "city": "Chicago, IL",
+    "country": "U.S.A."
+  },
+  {
     "name": "JSDay Italy",
     "url": "http://jsday.it/",
     "startDate": "2018-05-09",
