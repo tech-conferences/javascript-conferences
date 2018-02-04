@@ -244,6 +244,14 @@
     "twitter": "@Jazz_Con"
   },
   {
+    "name": "AngleBrackets",
+    "url": "https://anglebrackets.org/",
+    "startDate": "2018-03-25",
+    "endDate": "2018-03-28",
+    "city": "Orlando, FL",
+    "country": "U.S.A."
+  },
+  {
     "name": "VueConf.US",
     "url": "http://us.vuejs.org/",
     "startDate": "2018-03-26",
