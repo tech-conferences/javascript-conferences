@@ -284,7 +284,8 @@
     "endDate": "2018-04-06",
     "cfpUrl": "https://goo.gl/forms/cCKHB08d20nA0AZr1",
     "city": "Ottawa",
-    "country": "Canada"
+    "country": "Canada",
+    "twitter": "@ForwardJS"
   },
   {
     "name": "Frontend NE",
@@ -294,7 +295,8 @@
     "city": "Newcastle-Upon-Tyne",
     "country": "U.K.",
     "cfpUrl": "https://2018.frontendne.co.uk/call-for-speakers.html",
-    "cfpEndDate": "2017-12-07"
+    "cfpEndDate": "2017-12-07",
+    "twitter": "@FrontendNE"
   },
   {
     "name": "JSConf Tahoe",
@@ -348,7 +350,8 @@
     "city": "Cluj-Napoca",
     "country": "Romania",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform",
-    "cfpEndDate": "2017-12-31"
+    "cfpEndDate": "2017-12-31",
+    "twitter": "@jsheroes"
   },
   {
     "name": "ng-conf",
@@ -356,7 +359,8 @@
     "startDate": "2018-04-18",
     "endDate": "2018-04-20",
     "city": "Salt Lake City, UT",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "twitter": "@ngconf"
   },
   {
     "name": "JSUnconf",
@@ -399,7 +403,8 @@
     "startDate": "2018-05-07",
     "endDate": "2018-05-09",
     "city": "Düsseldorf",
-    "country": "Germany"
+    "country": "Germany",
+    "twitter": "@btconf"
   },
   {
     "name": "Angular Summit",
@@ -434,7 +439,8 @@
     "startDate": "2018-05-17",
     "endDate": "2018-05-18",
     "city": "Paris",
-    "country": "France"
+    "country": "France",
+    "twitter": "@ReactEurope"
   },
   {
     "name": "JSDayES",
@@ -471,7 +477,8 @@
     "startDate": "2018-05-31",
     "endDate": "2018-06-03",
     "city": "Utrecht",
-    "country": "Netherlands"
+    "country": "Netherlands",
+    "twitter": "@frontendunited"
   },
   {
     "name": "AmsterdamJS",
@@ -542,7 +549,8 @@
     "startDate": "2018-06-11",
     "endDate": "2018-06-14",
     "city": "San Jose, CA",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "twitter": "@FluentConf"
   },
   {
     "name": "ConvergeSE",
@@ -550,7 +558,8 @@
     "startDate": "2018-06-13",
     "endDate": "2018-06-15",
     "city": "Columbia, SC",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "twitter": "@convergese"
   },
   {
     "name": "GraphQL Europe",
@@ -610,7 +619,8 @@
     "startDate": "2018-07-11",
     "endDate": "2018-07-13",
     "city": "London",
-    "country": "U.K."
+    "country": "U.K.",
+    "twitter": "@FullStackCon"
   },
   {
     "name": "ScotlandJS",
