@@ -134,7 +134,8 @@
     "startDate": "2018-02-11",
     "endDate": "2018-02-16",
     "city": "San Francisco",
-    "country": "U.S.A."
+    "country": "U.S.A.",
+    "twitter": "@forwardJS"
   },
   {
     "name": "FrontFest",
@@ -142,7 +143,8 @@
     "startDate": "2018-02-17",
     "endDate": "2018-02-17",
     "city": "Madrid",
-    "country": "Spain"
+    "country": "Spain",
+    "twitter": "@frontfest"
   },
   {
     "name": "Vue.js Amsterdam",
@@ -169,7 +171,8 @@
     "endDate": "2018-03-02",
     "cfpEndDate": "2017-12-10",
     "city": "Helsinki",
-    "country": "Finland"
+    "country": "Finland",
+    "twitter": "@ngVikingsConf"
   },
   {
     "name": "TSConf",
@@ -194,7 +197,8 @@
     "startDate": "2018-03-21",
     "endDate": "2018-03-22",
     "city": "Melbourne",
-    "country": "Australia"
+    "country": "Australia",
+    "twitter": "@JSConfAU"
   },
   {
     "name": "Render",
@@ -202,7 +206,8 @@
     "startDate": "2018-03-23",
     "endDate": "2018-03-23",
     "city": "Oxford",
-    "country": "U.K."
+    "country": "U.K.",
+    "twitter": "@render_conf"
   },
   {
     "name": "JSConf Iceland",
@@ -740,7 +745,8 @@
     "city": "London",
     "country": "U.K.",
     "cfpUrl": "https://www.papercall.io/cfps/826/submissions/new",
-    "cfpEndDate": "2018-01-14"
+    "cfpEndDate": "2018-01-14",
+    "twitter": "@cityjsconf"
   },
   {
     "name": ".concat()",
