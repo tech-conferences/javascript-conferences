@@ -650,6 +650,17 @@
     "twitter": "@webdirections"
   },
   {
+    "name": "Web Summer Camp",
+    "url": "http://2018.websummercamp.com/",
+    "startDate": "2018-08-29",
+    "endDate": "2018-09-01",
+    "city": "Rovinj",
+    "country": "Croatia",
+    "cfpUrl": "https://sessionize.com/websummercamp2018",
+    "cfpEndDate": "2018-03-31",
+    "twitter": "@WebSummerCamp"
+  },
+  {
     "name": "Frontend Conference Zürich",
     "startDate": "2018-08-30",
     "endDate": "2018-08-31",
