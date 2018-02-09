@@ -415,12 +415,13 @@
     "country": "U.S.A."
   },
   {
-    "name": "JSDay Italy",
-    "url": "http://jsday.it/",
+    "name": "jsDay",
+    "url": "https://2018.jsday.it/",
     "startDate": "2018-05-09",
     "endDate": "2018-05-10",
     "city": "Verona",
-    "country": "Italy"
+    "country": "Italy",
+    "twitter": "@jsconfit"
   },
   {
     "name": "DeltaV",
