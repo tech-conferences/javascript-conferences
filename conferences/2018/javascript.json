@@ -192,6 +192,15 @@
     "twitter": "@fwdays"
   },
   {
+    "name": "Reactathon",
+    "url": "https://www.reactathon.com/",
+    "startDate": "2018-03-20",
+    "endDate": "2018-03-22",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@reactathon"
+  },
+  {
     "name": "JSConf AU",
     "url": "https://2018.jsconfau.com/",
     "startDate": "2018-03-21",
