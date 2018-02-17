@@ -1,7 +1,8 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot --allow-redirect --allow-dupe --allow-ssl README.md
+language: node_js
+node_js:
+  - 6
+cache:
+  directories:
+  - node_modules
+install:
+  - yarn
