@@ -693,6 +693,8 @@
     "city": "Zürich",
     "country": "Switzerland",
     "url": "https://www.frontendconf.ch/",
+    "cfpUrl": "https://www.frontendconf.ch/call-for-speakers",
+    "cfpEndDate": "2018-04-30",
     "twitter": "@frontendconfch"
   },
   {
@@ -759,6 +761,8 @@
     "endDate": "2018-08-17",
     "city": "Salt Lake City, UT",
     "country": "U.S.A.",
+    "cfpUrl": "http://speak.reactrally.com/events/react-rally-2018",
+    "cfpEndDate": "2018-04-01",
     "twitter": "@ReactRally"
   },
   {
