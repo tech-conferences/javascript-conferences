@@ -835,6 +835,8 @@
     "url": "https://events.linuxfoundation.org/events/js-interactive-2018/",
     "startDate": "2018-10-10",
     "endDate": "2018-10-12",
+    "cfpUrl": "https://events.linuxfoundation.org/events/js-interactive-2018/",
+    "cfpEndDate": "2018-04-20",
     "city": "Vancouver, BC",
     "country": "Canada"
   },
