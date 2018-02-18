@@ -545,6 +545,8 @@
     "city": "Paris",
     "country": "France",
     "url": "http://bestofweb.paris/",
+    "cfpUrl": "https://checkout.eventlama.com/#/events/best-of-web-2018/cfp",
+    "cfpEndDate": "2018-04-01",
     "twitter": "@bestofwebconf"
   },
   {
