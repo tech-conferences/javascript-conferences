@@ -711,6 +711,8 @@
     "endDate": "2018-09-07",
     "city": "Stockholm",
     "country": "Sweden",
+    "cfpUrl": "http://cfp.nordicjs.com/",
+    "cfpEndDate": "2018-05-01",
     "twitter": "@nordicjs"
   },
   {
