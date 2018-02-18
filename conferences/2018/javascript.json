@@ -510,6 +510,8 @@
     "startDate": "2018-06-01",
     "city": "Amsterdam",
     "country": "Netherlands",
+    "cfpUrl": "https://amsterdamjs.com/#cfp",
+    "cfpEndDate": "2018-03-01",
     "twitter": "@amsterdamjs"
   },
   {
