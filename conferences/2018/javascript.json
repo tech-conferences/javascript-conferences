@@ -669,6 +669,8 @@
     "city": "Melbourne",
     "country": "Australia",
     "url": "https://www.webdirections.org/code/",
+    "cfpEndDate": "2018-04-27",
+    "cfpUrl": "https://www.webdirections.org/speaking/",
     "twitter": "@webdirections"
   },
   {
@@ -932,7 +934,9 @@
     "endDate": "2018-11-09",
     "city": "Sydney",
     "country": "Australia",
+    "cfpEndDate": "2018-05",
     "url": "https://www.webdirections.org/wds/",
+    "cfpUrl": "https://www.webdirections.org/speaking/",
     "twitter": "@webdirections"
   },
   {
