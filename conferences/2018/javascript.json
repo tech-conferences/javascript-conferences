@@ -801,14 +801,6 @@
     "cfpUrl": "https://holyjs-piter.ru/en/callforpapers/"
   },
   {
-    "name": "pitercss_conf",
-    "url": "https://pitercss.com/",
-    "startDate": "2018-06-08",
-    "endDate": "2018-06-09",
-    "city": "St. Petersburg",
-    "country": "Russia"
-  },
-  {
     "name": "CityJSConf",
     "url": "http://cityjsconf.org",
     "startDate": "2018-03-26",
