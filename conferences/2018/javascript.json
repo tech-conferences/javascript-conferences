@@ -890,11 +890,13 @@
   },
   {
     "name": "React Native EU",
-    "url": "https://react-native.eu/",
+    "url": "http://react-native.eu/",
     "startDate": "2018-09-05",
     "endDate": "2018-09-06",
     "city": "Wroclaw",
     "country": "Poland",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfSQhE64_1MvCUor1fJG3xBVETXuf-nRKGd4g56_hMLXQbXJQ/viewform",
+    "cfpEndDate": "2018-03-31",
     "twitter": "@react_native_eu"
   },
   {
