@@ -644,6 +644,8 @@
     "endDate": "2018-07-13",
     "city": "London",
     "country": "U.K.",
+    "cfpUrl": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things#get_involved",
+    "cfpEndDate": "2018-02-23",
     "twitter": "@FullStackCon"
   },
   {
@@ -653,6 +655,8 @@
     "endDate": "2018-07-20",
     "city": "Edinburgh",
     "country": "U.K.",
+    "cfpUrl": "https://www.papercall.io/scotlandjs-2018",
+    "country": "2018-02-28",
     "twitter": "@ScotlandJS"
   },
   {
