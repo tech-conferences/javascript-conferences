@@ -591,6 +591,8 @@
     "startDate": "2018-06-15",
     "city": "Berlin",
     "country": "Germany",
+    "cfpUrl": "https://www.papercall.io/graphql-eu",
+    "cfpEndDate": "2018-03-31",
     "twitter": "@graphqleu"
   },
   {
