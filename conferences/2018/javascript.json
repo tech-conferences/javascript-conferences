@@ -961,6 +961,15 @@
     "twitter": "@AngularConnect"
   },
   {
+    "name": "dotJS",
+    "url": "https://2018.dotjs.io",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-09",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotJS"
+  },
+  {
     "name": "Web Directions Summit",
     "startDate": "2018-11-08",
     "endDate": "2018-11-09",
