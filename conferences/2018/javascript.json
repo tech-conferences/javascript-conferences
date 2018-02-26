@@ -458,6 +458,15 @@
     "twitter": "@deltavconf"
   },
   {
+    "name": "ReasonConf",
+    "url": "https://www.reason-conf.com/",
+    "startDate": "2018-05-11",
+    "endDate": "2018-05-13",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@reasonconf"
+  },
+  {
     "name": "ReactEurope",
     "url": "https://www.react-europe.org/",
     "startDate": "2018-05-17",
