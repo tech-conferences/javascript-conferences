@@ -934,6 +934,17 @@
     "twitter": "@react_native_eu"
   },
   {
+    "name": "React Alicante",
+    "url": "http://reactalicante.es/",
+    "startDate": "2018-09-13",
+    "endDate": "2018-09-15",
+    "city": "Alicante",
+    "country": "Spain",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScuzQq1BYpr0gvdZsY3Omub8msVj3rpIEXGNppUn8dEkPezuw/viewform",
+    "cfpEndDate": "2018-02-28",
+    "twitter": "@reactalicante"
+  },
+  {
     "name": "The Web Unleashed",
     "startDate": "2018-10-01",
     "endDate": "2018-10-02",
