@@ -651,6 +651,15 @@
     "twitter": "@smashingconf"
   },
   {
+    "name": "OdessaJS",
+    "url": "http://odessajs.org/",
+    "startDate": "2018-07-06",
+    "endDate": "2018-07-08",
+    "city": "Odessa",
+    "country": "Ukraine",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform"
+  },
+  {
     "name": "Chain React",
     "url": "https://infinite.red/ChainReactConf",
     "startDate": "2018-07-11",
