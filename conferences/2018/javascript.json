@@ -504,6 +504,15 @@
     "twitter": "@YGLFConf"
   },
   {
+    "name": "jsconf.be",
+    "url": "https://www.jsconf.be/en/",
+    "startDate": "2018-05-29",
+    "endDate": "2018-05-30",
+    "city": "Bruges",
+    "country": "Belgium",
+    "cfpUrl": "https://www.jsconf.be/en/#callforpapers"
+  },
+  {
     "name": "Frontend United",
     "url": "http://frontendunited.org/",
     "startDate": "2018-05-31",
