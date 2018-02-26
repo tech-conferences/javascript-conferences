@@ -855,6 +855,14 @@
     "twitter": "@FrameworkSummit"
   },
   {
+    "name": "Paris Web",
+    "url": "http://www.paris-web.fr/",
+    "startDate": "2018-10-04",
+    "endDate": "2018-10-06",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
     "name": "Angular Mix",
     "url": "https://angularmix.com",
     "startDate": "2018-10-10",
