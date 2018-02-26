@@ -934,6 +934,14 @@
     "url": "http://fitc.ca/event/webu18/"
   },
   {
+    "name": "EmberFest",
+    "url": "https://emberfest.eu/",
+    "startDate": "2017-10-11",
+    "endDate": "2017-10-12",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
     "name": "RuhrJS",
     "url": "https://ruhrjs.de/",
     "startDate": "2018-10-13",
