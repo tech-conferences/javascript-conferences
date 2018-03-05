@@ -1,0 +1,13 @@
+{
+  "env": {
+    "test": {
+      "presets":[
+        ["es2016"],
+      ],
+      "plugins": [
+        "transform-es2015-modules-commonjs",
+        "dynamic-import-node"
+      ]
+    }
+  }
+}
