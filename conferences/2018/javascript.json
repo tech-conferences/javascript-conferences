@@ -895,7 +895,9 @@
     "startDate": "2018-10-04",
     "endDate": "2018-10-06",
     "city": "Paris",
-    "country": "France"
+    "country": "France",
+    "cfpUrl": "https://appel-orateurs.paris-web.fr/",
+    "cfpEndDate": "2018-03-27"
   },
   {
     "name": "Angular Mix",
