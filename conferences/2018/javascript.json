@@ -1068,6 +1068,18 @@
     "twitter": "@london_ajax"
   },
   {
+    "name": "JSConf Columbia",
+    "url": "https://jsconf.co/",
+    "startDate": "2018-11-16",
+    "endDate": "2018-11-17",
+    "city": "Medellin",
+    "country": "Columbia",
+    "cfpStartDate": "2018-03-25",
+    "cfpEndDate": "2018-06-20",
+    "cfpUrl": "https://cfp.jsconf.co/",
+    "twitter": "@jsconfco"
+  },
+  {
     "name": "JS Kongress",
     "url": "https://2018.js-kongress.com/",
     "startDate": "2018-11-26",
