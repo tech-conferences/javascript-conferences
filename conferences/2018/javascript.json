@@ -429,6 +429,14 @@
     "twitter": "@zeithq"
   },
   {
+    "name": "React.NotAConf",
+    "url": "http://react-not-a-conf.com/",
+    "startDate": "2018-04-28",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "twitter": "ReactNotAConf"
+  }, 
+  {
     "name": "Beyond Tellerrand",
     "url": "https://beyondtellerrand.com/events/duesseldorf-2018",
     "startDate": "2018-05-07",
