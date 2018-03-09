@@ -1,5 +1,23 @@
 [
   {
+    "name": "Web Directions Code",
+    "url": "http://webdirections.org/code",
+    "startDate": "2018-08-02",
+    "endDate": "2018-08-03",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@webdirections"
+  },
+  {
+    "name": "Web Directions Summit",
+    "url": "http://webdirections.org/wds",
+    "startDate": "2018-11-01",
+    "endDate": "2018-11-02",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@webdirections"
+  },
+  {
     "name": "BuzzJS 3.1",
     "url": "http://BuzzJS.com",
     "startDate": "2018-06-14",
