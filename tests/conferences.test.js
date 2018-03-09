@@ -41,10 +41,10 @@ Object.keys(conferencesJSON).forEach((year) => {
 
       it('url does not finishes with a slash', () => {
         conferences.forEach((conference) => {
-          if ((conference.url || '').endsWith('/')) {
+          if ((conference.url).endsWith('/')) {
             console.error(`${conference.url} finishes with a slash`);
           }
-          expect((conference.url || '').endsWith('/')).toBe(false);
+          expect((conference.url).endsWith('/')).toBe(false);
 
           if ((conference.cfpUrl || '').endsWith('/')) {
             console.error(`${conference.cfpUrl} finishes with a slash`);
