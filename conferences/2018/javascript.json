@@ -110,8 +110,8 @@
     "twitter": "@DeveloperWeek"
   },
   {
-    "name": "SmashingConf London",
-    "url": "https://smashingconf.com/",
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/london-2018/",
     "startDate": "2018-02-07",
     "endDate": "2018-02-08",
     "city": "London",
@@ -357,8 +357,8 @@
     "twitter": "@bgwebsummmit"
   },
   {
-    "name": "SmashingConf San Francisco",
-    "url": "https://smashingconf.com/sf-2018/",
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/",
     "startDate": "2018-04-17",
     "endDate": "2018-04-18",
     "city": "San Francisco, CA",
@@ -435,7 +435,7 @@
     "city": "Sofia",
     "country": "Bulgaria",
     "twitter": "ReactNotAConf"
-  }, 
+  },
   {
     "name": "Beyond Tellerrand",
     "url": "https://beyondtellerrand.com/events/duesseldorf-2018",
@@ -676,7 +676,7 @@
     "twitter": "@dinosaur_js"
   },
   {
-    "name": "SmashingConf Toronto",
+    "name": "Smashing Conference",
     "url": "https://smashingconf.com/toronto-2018/",
     "startDate": "2018-06-26",
     "endDate": "2018-06-27",

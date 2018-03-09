@@ -63,8 +63,8 @@
     "country": "U.S.A."
   },
   {
-    "name": "SmashingConf Oxford",
-    "url": "http://smashingconf.com/speakers",
+    "name": "Smashing Conference",
+    "url": "http://smashingconf.com/",
     "startDate": "March 15-16, 2016",
     "city": "Oxford",
     "country": "U.K."
@@ -217,7 +217,7 @@
     "country": "France"
   },
   {
-    "name": "SmashingConf New York",
+    "name": "Smashing Conference",
     "url": "http://smashingconf.com/",
     "startDate": "June 14-15, 2016",
     "city": "New York",
@@ -413,7 +413,7 @@
     "country": "Sweden"
   },
   {
-    "name": "SmashingConf Freiburg",
+    "name": "Smashing Conference",
     "url": "http://smashingconf.com/freiburg-2016/",
     "startDate": "September 12-13, 2016",
     "city": "Freiburg",
@@ -539,7 +539,7 @@
     "country": "France"
   },
   {
-    "name": "SmashingConf Barcelona",
+    "name": "Smashing Conference",
     "url": "http://smashingconf.com/barcelona-2016/",
     "startDate": "October 25-26, 2016",
     "city": "Barcelona",
