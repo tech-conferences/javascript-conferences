@@ -358,7 +358,7 @@
   },
   {
     "name": "Smashing Conference",
-    "url": "https://smashingconf.com/",
+    "url": "https://smashingconf.com/sf-2018/",
     "startDate": "2018-04-17",
     "endDate": "2018-04-18",
     "city": "San Francisco, CA",
@@ -597,11 +597,11 @@
   },
   {
     "name": "Webconf.asia",
+    "url": "https://webconf.asia",
     "startDate": "2018-06-06",
     "endDate": "2018-06-09",
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "url": "http://webconf.asia",
     "twitter": "@webconf_asia"
   },
   {
@@ -794,6 +794,7 @@
     "name": "Refresh",
     "url": "http://refresh.rocks/",
     "startDate": "2018-09-07",
+    "endDate": "2018-09-07",
     "city": "Tallinn",
     "country": "Estonia",
     "cfpUrl": "http://refresh.rocks/call-for-papers/",
@@ -875,7 +876,7 @@
     "endDate": "2018-03-03",
     "city": "Salzburg",
     "country": "Austria",
-    "cfpUrl": "",
+    "cfpUrl": "https://2018.conc.at/#cfp",
     "cfpEndDate": "2017-12-01",
     "twitter": "@conc_at"
   },

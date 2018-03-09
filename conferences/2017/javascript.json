@@ -134,11 +134,11 @@
     "url": "https://aneventapart.com/event/seattle-2017"
   },
   {
-    "name": "SmashingConf San Francisco",
+    "name": "Smashing Conference",
     "url": "https://smashingconf.com/sf-2017/",
     "startDate": "2017-04-04",
     "endDate": "2017-04-05",
-    "city": "San Francisco, CA",
+    "city": "San Francisco",
     "country": "U.S.A."
   },
   {
@@ -324,7 +324,7 @@
     "country": "Netherlands"
   },
   {
-    "name": "SmashingConf New York",
+    "name": "Smashing Conference",
     "startDate": "2017-06-10",
     "city": "New York",
     "country": "U.S.A.",
@@ -581,7 +581,7 @@
     "country": "Belarus"
   },
   {
-    "name": "SmashingConf Freiburg",
+    "name": "Smashing Conference",
     "url": "https://smashingconf.com",
     "startDate": "2017-09-11",
     "endDate": "2017-09-12",
