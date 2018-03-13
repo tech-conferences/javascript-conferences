@@ -1,5 +1,16 @@
 [
   {
+    "name": "JSConf US",
+    "url": "https://2018.jsconf.us/",
+    "startDate": "2018-08-21",
+    "endDate": "2018-08-23",
+    "city": "Carlsbad, CA",
+    "country": "U.S.A.",
+    "cfpUrl": "",
+    "cfpEndDate": "",
+    "twitter": "@jsconfus"
+  },
+  {
     "name": "Web Directions Code",
     "url": "http://webdirections.org/code",
     "startDate": "2018-08-02",
