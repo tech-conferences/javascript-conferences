@@ -1145,5 +1145,17 @@
     "city": "Ghent",
     "country": "Belgium",
     "url": "https://ng-be.org/"
+  },
+  {
+    "name": "Conference test",
+    "url": "test.com",
+    "startDate": "2018-03-21",
+    "endDate": "2018-03-22",
+    "city": "Nice",
+    "country": "France",
+    "twitter": "@nimzco",
+    "topic": "javascript",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
