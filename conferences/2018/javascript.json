@@ -1041,7 +1041,10 @@
     "startDate": "2018-10-13",
     "endDate": "2018-10-14",
     "city": "Bochum",
-    "country": "Germany"
+    "country": "Germany",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform",
+    "cfpEndDate": "2018-04-30",
+    "twitter": "@ruhrjs"
   },
   {
     "name": "Connect.Tech",
