@@ -1057,12 +1057,14 @@
   },
   {
     "name": "NodeConf EU",
-    "url": "http://www.nodeconf.eu",
+    "url": "https://www.nodeconf.eu",
     "startDate": "2018-11-04",
-    "endDate": "2018-11-08",
+    "endDate": "2018-11-07",
     "city": "Kilkenny",
     "country": "Ireland",
-    "twitter": "@NodeConfEU"
+    "twitter": "@NodeConfEU",
+    "cfpUrl": "https://www.nodeconf.eu/",
+    "cfpEndDate": "2018-06-01",
   },
   {
     "name": "AngularConnect",
