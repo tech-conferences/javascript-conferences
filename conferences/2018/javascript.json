@@ -464,7 +464,7 @@
     "city": "Sofia",
     "country": "Bulgaria",
     "twitter": "ReactNotAConf"
-  },
+  }, 
   {
     "name": "Beyond Tellerrand",
     "url": "https://beyondtellerrand.com/events/duesseldorf-2018",
@@ -767,6 +767,17 @@
     "twitter": "@NodeSummit"
   },
   {
+    "name": "Nebraska JavaScript Conference",
+    "url": "https://2018.nejsconf.com",
+    "startDate": "2018-07-27",
+    "endDate": "2018-07-27",
+    "city": "Omaha, NE",
+    "country": "U.S.A.",
+    "cfpUrl": "https://www.papercall.io/nejsconf2018",
+    "cfpEndDate": "2018-04-09",
+    "twitter": "@nejsconf"
+  },
+  {
     "name": "Web Directions Code",
     "startDate": "2018-08-02",
     "endDate": "2018-08-03",
@@ -1045,6 +1056,17 @@
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform",
     "cfpEndDate": "2018-04-30",
     "twitter": "@ruhrjs"
+  },
+  {
+    "name": "Web Developer Conference (WDC)",
+    "url": "https://www.web-developer-conference.de",
+    "startDate": "2018-10-16",
+    "endDate": "2018-10-18",
+    "city": "München",
+    "country": "Germany",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScjiQQ43sWklHpN9hOX-lRwD4zlUnAmV7ZC89-6SENckuD5Hw/viewform",
+    "cfpEndDate": "2018-04-01",
+    "twitter": "@wdc_conference"
   },
   {
     "name": "Connect.Tech",
