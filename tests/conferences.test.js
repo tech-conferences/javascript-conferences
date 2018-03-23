@@ -1,5 +1,5 @@
 /* global describe, it, expect, beforeAll, require */
-/* eslint-disable no-console */
+/* eslint-disable no-console, shopify/prefer-early-return */
 import {range} from 'lodash';
 import {getDuplicates} from './utils';
 
@@ -9,7 +9,7 @@ const LANGUAGES = ['javascript'];
 const BASE_DIR = '../conferences';
 const conferencesJSON = {};
 
-range(START_YEAR, CURRENT_YEAR).forEach((year) => {
+range(START_YEAR, CURRENT_YEAR + 1).forEach((year) => {
   conferencesJSON[year] = {};
   LANGUAGES.forEach((lang) => {
     conferencesJSON[year][lang] = require(`${BASE_DIR}/${year}/${lang}.json`);
@@ -50,11 +50,12 @@ Object.keys(conferencesJSON).forEach((year) => {
             });
 
             it('cfpUrl starts with http(s)://', () => {
-              if (!cfpUrl || cfpUrl === '') { return; }
-              if (httpRegex.exec(cfpUrl) === null) {
-                console.error(`${cfpUrl} does not start with http`);
+              if (cfpUrl) {
+                if (httpRegex.exec(cfpUrl) === null) {
+                  console.error(`${cfpUrl} does not start with http`);
+                }
+                expect(httpRegex.exec(cfpUrl)).not.toBe(null);
               }
-              expect(httpRegex.exec(cfpUrl)).not.toBe(null);
             });
 
             it('url does not finishes with a slash', () => {
@@ -65,11 +66,12 @@ Object.keys(conferencesJSON).forEach((year) => {
             });
 
             it('cfpUrl does not finishes with a slash', () => {
-              if (!cfpUrl || cfpUrl === '') { return; }
-              if (cfpUrl.endsWith('/')) {
-                console.error(`${cfpUrl} finishes with a slash`);
+              if (cfpUrl) {
+                if (cfpUrl.endsWith('/')) {
+                  console.error(`${cfpUrl} finishes with a slash`);
+                }
+                expect(cfpUrl.endsWith('/')).toBe(false);
               }
-              expect(cfpUrl.endsWith('/')).toBe(false);
             });
           });
 
@@ -82,11 +84,12 @@ Object.keys(conferencesJSON).forEach((year) => {
           it('dates are correctly formatted', () => {
             DATES_KEYS.forEach((dateKey) => {
               // cfpEndDate could be undefined or null
-              if (!conference[dateKey]) { return; }
-              if ([7, 10].indexOf(conference[dateKey].length) === -1) {
-                console.error(`${name} has malformatted ${dateKey}: ${conference[dateKey]}`);
+              if (conference[dateKey]) {
+                if ([7, 10].indexOf(conference[dateKey].length) === -1) {
+                  console.error(`${name} has malformatted ${dateKey}: ${conference[dateKey]}`);
+                }
+                expect([7, 10]).toContain(conference[dateKey].length);
               }
-              expect([7, 10]).toContain(conference[dateKey].length);
             });
           });
 
