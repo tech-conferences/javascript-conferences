@@ -7,16 +7,5 @@
     "city": "Dornbirn & Lech",
     "country": "Austria",
     "twitter": "@AgentConf"
-  },
-  {
-    "name": "JavaLand",
-    "url": "https://www.javaland.eu",
-    "startDate": "2019-03-26",
-    "endDate": "2019-03-28",
-    "city": "Brühl",
-    "country": "Germany",
-    "twitter": "@JavaLandConf",
-    "cfpUrl": "",
-    "cfpEndDate": null
   }
 ]
