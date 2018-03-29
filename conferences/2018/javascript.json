@@ -17,6 +17,7 @@
     "endDate": "2018-11-02",
     "city": "Sydney",
     "country": "Australia",
+    "cfpUrl": "https://www.webdirections.org/speaking",
     "twitter": "@webdirections"
   },
   {
@@ -1076,17 +1077,6 @@
     "city": "London",
     "country": "U.K.",
     "twitter": "@AngularConnect"
-  },
-  {
-    "name": "Web Directions Summit",
-    "startDate": "2018-11-08",
-    "endDate": "2018-11-09",
-    "city": "Sydney",
-    "country": "Australia",
-    "cfpEndDate": "2018-05",
-    "url": "https://www.webdirections.org/wds",
-    "cfpUrl": "https://www.webdirections.org/speaking",
-    "twitter": "@webdirections"
   },
   {
     "name": "dotJS",
