@@ -1139,5 +1139,32 @@
     "city": "Ghent",
     "country": "Belgium",
     "url": "https://ng-be.org"
+  },
+  {
+    "name": "Vuejs Roadtrip – Barcelona",
+    "url": "https://www.vuejsroadtrip.com/barcelona",
+    "startDate": "2018-05-25",
+    "endDate": "2018-05-25",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@vuejsroadtrip"
+  },
+  {
+    "name": "Vuejs Roadtrip – Paris",
+    "url": "https://www.vuejsroadtrip.com",
+    "startDate": "2018-06-29",
+    "endDate": "2018-06-29",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@vuejsroadtrip"
+  },
+  {
+    "name": "Vuejs Roadtrip – Berlin",
+    "url": "https://www.vuejsroadtrip.com",
+    "startDate": "2018-09-14",
+    "endDate": "2018-09-14",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@vuejsroadtrip"
   }
 ]
