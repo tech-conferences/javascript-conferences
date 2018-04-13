@@ -1,5 +1,14 @@
 [
   {
+    "name": "ReactiveConf",
+    "url": "https://reactiveconf.com",
+    "startDate": "2018-10-29",
+    "endDate": "2018-10-31",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@ReactiveConf"
+  },
+  {
     "name": "JSConf US",
     "url": "https://2018.jsconf.us",
     "startDate": "2018-08-21",
