@@ -1,5 +1,14 @@
 [
   {
+    "name": "performance.now()",
+    "url": "https://perfnow.nl/",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-09",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@perfnowconf"
+  },
+  {
     "name": "ReactiveConf",
     "url": "https://reactiveconf.com",
     "startDate": "2018-10-29",
