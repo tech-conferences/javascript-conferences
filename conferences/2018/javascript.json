@@ -476,6 +476,14 @@
     "twitter": "ReactNotAConf"
   },
   {
+    "name": "NodeDay",
+    "url": "http://nodeday.com/",
+    "startDate": "2018-05-02",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@NodeDay"
+  },
+  {
     "name": "Beyond Tellerrand",
     "url": "https://beyondtellerrand.com/events/duesseldorf-2018",
     "startDate": "2018-05-07",
