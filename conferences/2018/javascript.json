@@ -1192,5 +1192,16 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@vuejsroadtrip"
+  },
+  {
+    "name": "Web Summit",
+    "url": "https://websummit.com",
+    "startDate": "2018-11-05",
+    "endDate": "2018-11-08",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "twitter": "@WebSummit",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
