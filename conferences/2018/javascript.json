@@ -1094,6 +1094,15 @@
     "twitter": "@connect_js"
   },
   {
+    "name": "Vue Fes Japan",
+    "url": "https://vuefes.jp/",
+    "startDate": "2018-11-03",
+    "endDate": "2018-11-03",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@vuefes"
+  },
+  {
     "name": "NodeConf EU",
     "url": "https://www.nodeconf.eu",
     "startDate": "2018-11-04",
