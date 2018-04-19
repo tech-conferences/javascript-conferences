@@ -670,6 +670,15 @@
     "twitter": "@convergese"
   },
   {
+    "name": "FrontCon",
+    "url": "https://frontcon.lv/",
+    "startDate": "2018-06-14",
+    "endDate": "2018-06-15",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@FrontCon"
+  },
+  {
     "name": "GraphQL Europe",
     "url": "https://www.graphql-europe.org",
     "startDate": "2018-06-15",
