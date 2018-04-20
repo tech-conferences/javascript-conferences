@@ -731,6 +731,14 @@
     "twitter": "@smashingconf"
   },
   {
+    "name": "WorkerConf",
+    "url": "https://worker.sh/",
+    "startDate": "2018-06-28",
+    "endDate": "2018-06-28",
+    "city": "Dornbirn",
+    "country": "Austria"
+  },
+  {
     "name": "OdessaJS",
     "url": "http://odessajs.org",
     "startDate": "2018-07-06",
