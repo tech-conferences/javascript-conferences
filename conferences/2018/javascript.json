@@ -1222,5 +1222,16 @@
     "twitter": "@WebSummit",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "ReactFoo Mumbai",
+    "url": "https://reactfoo.in/2018-mumbai",
+    "startDate": "2018-05-26",
+    "endDate": "2018-05-26",
+    "city": "Mumbai",
+    "country": "India",
+    "twitter": "@ReactFoo",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
