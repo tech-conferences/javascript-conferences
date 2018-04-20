@@ -1233,5 +1233,16 @@
     "twitter": "@ReactFoo",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "ReactFoo Delhi",
+    "url": "https://reactfoo.in/2018-delhi",
+    "startDate": "2018-08-18",
+    "endDate": "2018-08-18",
+    "city": "Delhi",
+    "country": "India",
+    "twitter": "@ReactFoo",
+    "cfpUrl": "https://reactfoo.talkfunnel.com/2018-delhi/",
+    "cfpEndDate": "2018-06-15"
   }
 ]
