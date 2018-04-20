@@ -7,5 +7,16 @@
     "city": "Dornbirn & Lech",
     "country": "Austria",
     "twitter": "@AgentConf"
+  },
+  {
+    "name": "Agent Conf",
+    "url": "https://www.agent.sh",
+    "startDate": "2019-01-24",
+    "endDate": "2019-01-27",
+    "city": "Dornbirn",
+    "country": "Austria",
+    "twitter": "@agentconf",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
