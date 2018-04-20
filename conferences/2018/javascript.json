@@ -1244,5 +1244,16 @@
     "twitter": "@ReactFoo",
     "cfpUrl": "https://reactfoo.talkfunnel.com/2018-delhi/",
     "cfpEndDate": "2018-06-15"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/freiburg-2018",
+    "startDate": "2018-09-10",
+    "endDate": "2018-09-11",
+    "city": "Freiburg",
+    "country": "Germany",
+    "twitter": "@smashingconf",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
