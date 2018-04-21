@@ -1320,5 +1320,16 @@
     "twitter": "@braziljs",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScvM9sctUCe2vjbUxv3QzhRimn5ztB7JyPgbnpTDksS3eTpQw/viewform",
     "cfpEndDate": null
+  },
+  {
+    "name": "Full Stack Fest",
+    "url": "https://2018.fullstackfest.com",
+    "startDate": "2018-09-03",
+    "endDate": "2018-09-07",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@fullstackfest",
+    "cfpUrl": "https://2018.fullstackfest.com/call-for-papers",
+    "cfpEndDate": "2018-05-13"
   }
 ]
