@@ -1289,5 +1289,14 @@
     "city": "Richmond, VA",
     "country": "U.S.A.",
     "twitter": "@RVAJavaScript"
+  },
+  {
+    "name": "NodeConf Argentina",
+    "url": "https://2018.nodeconf.com.ar",
+    "startDate": "2018-11-18",
+    "endDate": "2018-11-20",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "twitter": "@nodeconfar"
   }
 ]
