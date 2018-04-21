@@ -1281,5 +1281,13 @@
     "city": "Clearwater, FL",
     "country": "U.S.A.",
     "url": "https://therichwebexperience.com"
+  },
+  {
+    "name": "RVA.js",
+    "url": "https://www.rvajavascript.com",
+    "startDate": "2017-11-02",
+    "city": "Richmond, VA",
+    "country": "U.S.A.",
+    "twitter": "@RVAJavaScript"
   }
 ]
