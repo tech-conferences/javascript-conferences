@@ -1298,5 +1298,14 @@
     "city": "Buenos Aires",
     "country": "Argentina",
     "twitter": "@nodeconfar"
+  },
+  {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/en",
+    "startDate": "2018-10-15",
+    "endDate": "2018-10-19",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@JavaScriptCon"
   }
 ]
