@@ -9,6 +9,15 @@
     "twitter": "@perfnowconf"
   },
   {
+    "name": "ffConf",
+    "url": "https://2018.ffconf.org",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-09",
+    "city": "Brighton",
+    "country": "U.K.",
+    "twitter": "@ffconf"
+  },
+  {
     "name": "ReactiveConf",
     "url": "https://reactiveconf.com",
     "startDate": "2018-10-29",
