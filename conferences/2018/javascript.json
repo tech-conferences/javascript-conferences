@@ -1331,5 +1331,16 @@
     "twitter": "@fullstackfest",
     "cfpUrl": "https://2018.fullstackfest.com/call-for-papers",
     "cfpEndDate": "2018-05-13"
+  },
+  {
+    "name": "Atanta Black Tech Week",
+    "url": "www.AtlantaBlackTechWeek.com",
+    "startDate": "2018-08-29",
+    "endDate": "2018-09-01",
+    "city": "Atlanta",
+    "country": "United States",
+    "twitter": null,
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
