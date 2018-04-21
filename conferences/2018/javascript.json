@@ -1263,5 +1263,13 @@
     "twitter": "@smashingconf",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "The Rich Web Experience",
+    "startDate": "2018-12-02",
+    "endDate": "2018-12-05",
+    "city": "Clearwater, FL",
+    "country": "U.S.A.",
+    "url": "https://therichwebexperience.com"
   }
 ]
