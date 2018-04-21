@@ -1181,9 +1181,10 @@
   {
     "name": "ngPoland",
     "url": "http://ng-poland.pl",
-    "startDate": "2018-11-20",
+    "startDate": "2018-11-15",
     "city": "Warsaw",
-    "country": "Poland"
+    "country": "Poland",
+    "twitter": "@ngPolandConf"
   },
   {
     "name": "NG-BE",
