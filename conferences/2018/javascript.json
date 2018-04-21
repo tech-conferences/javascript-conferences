@@ -1290,5 +1290,13 @@
     "city": "Munich",
     "country": "Germany",
     "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "Frontinsampa",
+    "startDate": "2018-07-14",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "url": "http://www.frontinsampa.com.br",
+    "twitter": "@frontinsp"
   }
 ]
