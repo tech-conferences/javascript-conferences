@@ -1298,5 +1298,16 @@
     "country": "Brazil",
     "url": "http://www.frontinsampa.com.br",
     "twitter": "@frontinsp"
+  },
+  {
+    "name": "MidwestJS",
+    "url": "http://www.midwestjs.com",
+    "startDate": "2018-08-08",
+    "endDate": "2018-08-10",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "twitter": "@midwest_js",
+    "cfpUrl": "http://www.midwestjs.com/#cfp",
+    "cfpEndDate": "2018-04-27"
   }
 ]
