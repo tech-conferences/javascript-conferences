@@ -309,7 +309,7 @@
     "country": "U.S.A."
   },
   {
-    "name": "VueConf.US",
+    "name": "VueConf US",
     "url": "http://us.vuejs.org",
     "startDate": "2018-03-26",
     "endDate": "2018-03-28",
@@ -514,7 +514,7 @@
     "twitter": "@deltavconf"
   },
   {
-    "name": "Reason Conf",
+    "name": "ReasonConf",
     "url": "https://www.reason-conf.com",
     "startDate": "2018-05-11",
     "endDate": "2018-05-13",
@@ -569,7 +569,7 @@
     "twitter": "@YGLFConf"
   },
   {
-    "name": "jsconf.be",
+    "name": "JSConf Belgium",
     "url": "https://www.jsconf.be/en",
     "startDate": "2018-05-29",
     "endDate": "2018-05-30",
@@ -784,7 +784,7 @@
     "twitter": "@NodeSummit"
   },
   {
-    "name": "Nebraska JavaScript Conference",
+    "name": "NEJS CONF",
     "url": "https://2018.nejsconf.com",
     "startDate": "2018-07-27",
     "endDate": "2018-07-27",
@@ -859,7 +859,7 @@
     "twitter": "@REFRESHRocks"
   },
   {
-    "name": "Web Kongress Erlangen",
+    "name": "Webkongress Erlangen",
     "url": "https://www.webkongress.fau.de",
     "startDate": "2018-09-11",
     "endDate": "2018-09-13",
@@ -966,7 +966,7 @@
     "cfpEndDate": "2018-03-27"
   },
   {
-    "name": "Angular Mix",
+    "name": "AngularMix",
     "url": "https://angularmix.com",
     "startDate": "2018-10-10",
     "endDate": "2018-10-12",
@@ -1048,7 +1048,7 @@
     "twitter": "@reactalicante"
   },
   {
-    "name": "The Web Unleashed",
+    "name": "Web Unleashed",
     "startDate": "2018-10-01",
     "endDate": "2018-10-02",
     "city": "Toronto",
@@ -1300,7 +1300,7 @@
     "twitter": "@frontinsp"
   },
   {
-    "name": "MidwestJS",
+    "name": "Midwest JS",
     "url": "http://www.midwestjs.com",
     "startDate": "2018-08-08",
     "endDate": "2018-08-10",
