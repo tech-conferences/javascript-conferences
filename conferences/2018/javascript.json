@@ -806,6 +806,15 @@
     "twitter": "@webdirections"
   },
   {
+    "name": "ngTalks Conference",
+    "startDate": "2018-08-08",
+    "endDate": "2018-08-11",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "url": "https://ngtalks.io/",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfBnYEw1abC4-qpuv1XglHMibSqaxpyIU09X9mrKmGYr2ScJQ/viewform"
+  },
+  {
     "name": "Web Summer Camp",
     "url": "http://2018.websummercamp.com",
     "startDate": "2018-08-29",
