@@ -1340,5 +1340,16 @@
     "twitter": "@fullstackfest",
     "cfpUrl": "https://2018.fullstackfest.com/call-for-papers",
     "cfpEndDate": "2018-05-13"
+  },
+  {
+    "name": "NgTalks",
+    "url": "https://ngtalks.io",
+    "startDate": "2018-08-08",
+    "endDate": "2018-08-11",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "twitter": null,
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
