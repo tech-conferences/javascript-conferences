@@ -7,5 +7,16 @@
     "city": "Dornbirn & Lech",
     "country": "Austria",
     "twitter": "@AgentConf"
+  },
+  {
+    "name": "Vue.js Amsterdam",
+    "url": "https://www.vuejs.amsterdam",
+    "startDate": "2019-02-14",
+    "endDate": "2019-02-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@vuejsamsterdam",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
