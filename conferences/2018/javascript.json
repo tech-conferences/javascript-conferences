@@ -1331,5 +1331,16 @@
     "twitter": "@fullstackfest",
     "cfpUrl": "https://2018.fullstackfest.com/call-for-papers",
     "cfpEndDate": "2018-05-13"
+  },
+  {
+    "name": "Angular Conf Australia",
+    "url": "https://www.angularconf.com.au",
+    "startDate": "2018-06-22",
+    "endDate": "2018-06-22",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@angularMelb",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
