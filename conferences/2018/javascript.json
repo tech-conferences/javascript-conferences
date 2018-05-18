@@ -1179,6 +1179,14 @@
     "twitter": "@ngPolandConf"
   },
   {
+    "name": "JS Poland",
+    "url": "http://js-poland.pl",
+    "startDate": "2018-11-16",
+    "city": "Warsaw",
+    "country": "Poland",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform"
+  },
+  {
     "name": "NG-BE",
     "startDate": "2018-12-06",
     "endDate": "2018-12-07",
