@@ -1350,5 +1350,14 @@
     "twitter": "@angularMelb",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "HolyJS",
+    "url": "https://holyjs-moscow.ru/en/",
+    "startDate": "2018-11-24",
+    "endDate": "2018-11-25",
+    "city": "Moscow",
+    "country": "Russia",
+    "twitter": "@HolyJSconf"
   }
 ]
