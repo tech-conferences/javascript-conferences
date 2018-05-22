@@ -18,5 +18,16 @@
     "twitter": "@vuejsamsterdam",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "JS Conf: Hawaii",
+    "url": "https://www.jsconfhi.com",
+    "startDate": "2019-02-01",
+    "endDate": "2019-02-01",
+    "city": "Hawaiʻi",
+    "country": "U.S.A.",
+    "twitter": "@jsconfhi",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
