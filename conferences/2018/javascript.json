@@ -1359,5 +1359,16 @@
     "city": "Moscow",
     "country": "Russia",
     "twitter": "@HolyJSconf"
+  },
+  {
+    "name": "ColdFront",
+    "url": "http://www.coldfrontconf.com",
+    "startDate": "2018-11-13",
+    "endDate": "2018-11-15",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@coldfrontconf",
+    "cfpUrl": "https://2018.coldfront.co/call-for-recommendations/",
+    "cfpEndDate": "2018-05-01"
   }
 ]
