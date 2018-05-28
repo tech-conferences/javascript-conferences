@@ -1403,5 +1403,16 @@
     "twitter": "@ChernivtsiJS",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "Byteconf React",
+    "url": "https://byteconf.com",
+    "startDate": "2018-08-30",
+    "endDate": "2018-08-31",
+    "city": "Online",
+    "country": "Streamed via Twitch",
+    "twitter": "@byteconf",
+    "cfpUrl": "https://bytesized.typeform.com/to/wtTJDJ",
+    "cfpEndDate": "2018-06-24"
   }
 ]
