@@ -1389,8 +1389,8 @@
     "endDate": "2018-07-21",
     "city": "Vinnytsia",
     "country": "Ukraine",
-    "twitter": null,
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "twitter": "@VinnytsiaJS",
+    "cfpUrl": "http://vinnytsiajs.org/call-for-papers/",
+    "cfpEndDate": "2018-07-21"
   }
 ]
