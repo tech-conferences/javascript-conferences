@@ -1392,5 +1392,16 @@
     "twitter": "@VinnytsiaJS",
     "cfpUrl": "http://vinnytsiajs.org/call-for-papers/",
     "cfpEndDate": "2018-07-21"
+  },
+  {
+    "name": "ChernivtsiJS",
+    "url": "https://chernivtsi.js.org",
+    "startDate": "2018-06-23",
+    "endDate": "2018-06-23",
+    "city": "Chernivtsi",
+    "country": "Ukraine",
+    "twitter": "@ChernivtsiJS",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
