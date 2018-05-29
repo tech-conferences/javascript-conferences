@@ -1436,5 +1436,16 @@
     "twitter": "@empirejs",
     "cfpUrl": "https://sessionize.com/empirejs-2018/",
     "cfpEndDate": "2018-06-15"
+  },
+  {
+    "name": "UtahJS",
+    "url": "https://conf.utahjs.com",
+    "startDate": "2018-09-14",
+    "endDate": "2018-09-14",
+    "city": "Sandy, UT",
+    "country": "U.S.A.",
+    "twitter": null,
+    "cfpUrl": "https://sessionize.com/utahjs-conf-2018/",
+    "cfpEndDate": "2018-06-17"
   }
 ]
