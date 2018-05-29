@@ -1414,5 +1414,16 @@
     "twitter": "@byteconf",
     "cfpUrl": "https://bytesized.typeform.com/to/wtTJDJ",
     "cfpEndDate": "2018-06-24"
+  },
+  {
+    "name": "React Day Berlin",
+    "url": "https://reactday.berlin",
+    "startDate": "2018-11-30",
+    "endDate": "2018-11-30",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@reactdayberlin",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhlmyWCfAjXPsiBcV_dV31VQnJnbsumLHCTV6q2G4moGyOqA/viewform",
+    "cfpEndDate": "2018-08-17"
   }
 ]
