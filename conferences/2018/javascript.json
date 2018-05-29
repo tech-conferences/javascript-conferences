@@ -1425,5 +1425,16 @@
     "twitter": "@reactdayberlin",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhlmyWCfAjXPsiBcV_dV31VQnJnbsumLHCTV6q2G4moGyOqA/viewform",
     "cfpEndDate": "2018-08-17"
+  },
+  {
+    "name": "EmpireJS",
+    "url": "http://2018.empirejs.org",
+    "startDate": "2018-09-20",
+    "endDate": "2018-09-21",
+    "city": "New York, NY",
+    "country": "U.S.A.",
+    "twitter": "@empirejs",
+    "cfpUrl": "https://sessionize.com/empirejs-2018/",
+    "cfpEndDate": "2018-06-15"
   }
 ]
