@@ -29,5 +29,16 @@
     "twitter": "@jsconfhi",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "ReactFoo",
+    "url": "https://reactfoo.in/2019",
+    "startDate": "2019-02-15",
+    "endDate": "2019-02-16",
+    "city": "Bengaluru",
+    "country": "India",
+    "twitter": "@ReactFoo",
+    "cfpUrl": "https://reactfoo.talkfunnel.com/2019/",
+    "cfpEndDate": "2018-10-15"
   }
 ]
