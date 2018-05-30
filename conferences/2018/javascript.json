@@ -1447,5 +1447,16 @@
     "twitter": null,
     "cfpUrl": "https://sessionize.com/utahjs-conf-2018/",
     "cfpEndDate": "2018-06-17"
+  },
+  {
+    "name": "7th Annual Global Healthcare Conference – GHC 2018",
+    "url": "https://globalstf.org",
+    "startDate": "2018-07-23",
+    "endDate": "2018-07-24",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": null,
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
