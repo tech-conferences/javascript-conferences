@@ -40,5 +40,16 @@
     "twitter": "@ReactFoo",
     "cfpUrl": "https://reactfoo.talkfunnel.com/2019/",
     "cfpEndDate": "2018-10-15"
+  },
+  {
+    "name": "8th Annual International Conference on Computational Mathematics, Statistics and Operational Research – CMSOR 2019",
+    "url": "https://globalstf.org",
+    "startDate": "2019-04-08",
+    "endDate": "2019-04-09",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": null,
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
