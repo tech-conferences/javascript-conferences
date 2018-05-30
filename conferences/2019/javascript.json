@@ -40,5 +40,16 @@
     "twitter": "@ReactFoo",
     "cfpUrl": "https://reactfoo.talkfunnel.com/2019/",
     "cfpEndDate": "2018-10-15"
+  },
+  {
+    "name": "8th Annual International Conference on Cognitive and Behavioral Psychology – CBP 2019",
+    "url": "https://globalstf.org",
+    "startDate": "2019-01-28",
+    "endDate": "2019-01-29",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": null,
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
