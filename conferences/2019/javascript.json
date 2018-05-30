@@ -40,5 +40,16 @@
     "twitter": "@ReactFoo",
     "cfpUrl": "https://reactfoo.talkfunnel.com/2019/",
     "cfpEndDate": "2018-10-15"
+  },
+  {
+    "name": "6th Annual International Conference on Chemistry, Chemical Engineering and Chemical Process – CCECP 2018",
+    "url": "https://globalstf.org",
+    "startDate": "2019-03-12",
+    "endDate": "2019-03-13",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": null,
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
