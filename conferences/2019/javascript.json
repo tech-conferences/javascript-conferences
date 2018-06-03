@@ -40,5 +40,14 @@
     "twitter": "@ReactFoo",
     "cfpUrl": "https://reactfoo.talkfunnel.com/2019/",
     "cfpEndDate": "2018-10-15"
-  }
+  },
+  {
+    "name": "JSConf EU",
+    "url": "https://2019.jsconf.eu",
+    "startDate": "2019-06-01",
+    "endDate": "2019-06-02",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@jsconfeu"
+  },
 ]
