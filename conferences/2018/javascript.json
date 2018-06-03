@@ -1447,5 +1447,16 @@
     "twitter": null,
     "cfpUrl": "https://sessionize.com/utahjs-conf-2018/",
     "cfpEndDate": "2018-06-17"
+  },
+  {
+    "name": "CascadiaJS",
+    "url": "https://2018.cascadiajs.com",
+    "startDate": "2018-11-15",
+    "endDate": "2018-11-16",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@CascadiaJS",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
