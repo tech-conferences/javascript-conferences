@@ -1115,6 +1115,15 @@
     "cfpEndDate": "2018-06-01"
   },
   {
+    "name": "NodeConf",
+    "url": "http://nodeconf.com/",
+    "startDate": "2018-07-20",
+    "endDate": "2018-07-22",
+    "city": "Walker Creek Ranch, CA",
+    "country": "U.S.A.",
+    "twitter": "@nodeconf"
+  },
+  {
     "name": "AngularConnect",
     "url": "http://angularconnect.com",
     "startDate": "2018-11-06",
