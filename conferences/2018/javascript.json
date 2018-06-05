@@ -1456,5 +1456,16 @@
     "twitter": null,
     "cfpUrl": "https://sessionize.com/utahjs-conf-2018/",
     "cfpEndDate": "2018-06-17"
+  },
+  {
+    "name": "EuRuKo 2018",
+    "url": "https://euruko2018.org",
+    "startDate": "2018-08-24",
+    "endDate": "2018-08-25",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@euruko",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
