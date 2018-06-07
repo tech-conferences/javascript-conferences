@@ -1297,7 +1297,9 @@
     "endDate": "2018-11-20",
     "city": "Buenos Aires",
     "country": "Argentina",
-    "twitter": "@nodeconfar"
+    "twitter": "@nodeconfar",
+    "cfpUrl": "https://2018.nodeconf.com.ar/cfp.html",
+    "cfpEndDate": "2018-06-19"
   },
   {
     "name": "International JavaScript Conference",
