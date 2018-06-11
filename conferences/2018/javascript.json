@@ -1480,5 +1480,16 @@
     "twitter": "@ChicagoJS",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfreXmSrYBcSh4WJGJ_fsS3woHqWGO4efekcwoA-Me-txLvJA/viewform",
     "cfpEndDate": "2018-07-04"
+  },
+  {
+    "name": "ThunderPlains 2018 (Web/Mobile/JS)",
+    "url": "https://2018.thunderplainsconf.com",
+    "startDate": "2018-11-01",
+    "endDate": "2018-11-01",
+    "city": "Oklahoma City, OK",
+    "country": "USA",
+    "twitter": "@ThunderPlains",
+    "cfpUrl": "https://cfp.techlahoma.org/events/thunderplains-2018",
+    "cfpEndDate": "2018-07-16"
   }
 ]
