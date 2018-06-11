@@ -1480,5 +1480,16 @@
     "twitter": "@ChicagoJS",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfreXmSrYBcSh4WJGJ_fsS3woHqWGO4efekcwoA-Me-txLvJA/viewform",
     "cfpEndDate": "2018-07-04"
+  },
+  {
+    "name": "JS Camp",
+    "url": "https://jscamp.tech",
+    "startDate": "2018-07-18",
+    "endDate": "2018-07-20",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@jscamptech",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
