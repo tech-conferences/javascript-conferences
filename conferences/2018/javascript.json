@@ -1491,5 +1491,16 @@
     "twitter": "@jscamptech",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "JSCamp Chicago",
+    "url": "https://chicagojs.org",
+    "startDate": "2018-09-22",
+    "endDate": "2018-09-22",
+    "city": "Chicago",
+    "country": "United States",
+    "twitter": "",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfreXmSrYBcSh4WJGJ_fsS3woHqWGO4efekcwoA-Me-txLvJA/viewform",
+    "cfpEndDate": "2018-07-04"
   }
 ]
