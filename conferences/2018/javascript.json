@@ -1462,8 +1462,8 @@
     "city": "Seattle, WA",
     "country": "U.S.A.",
     "twitter": "@CascadiaJS",
-    "cfpUrl": "",
-    "cfpEndDate": null
+    "cfpUrl": "https://2018.cascadiajs.com/call-for-presenters",
+    "cfpEndDate": "2018-07-20"
   },
   {
     "name": "JSCamp",
