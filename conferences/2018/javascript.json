@@ -843,7 +843,9 @@
     "endDate": "2018-09-06",
     "city": "Tel Aviv",
     "country": "Israel",
-    "twitter": "@ReactNext"
+    "twitter": "@ReactNext",
+    "cfpUrl": "https://bit.ly/reactnextcfp2018",
+    "cfpEndDate": "2018-07-01"
   },
   {
     "name": "Nordic.js",
