@@ -1017,13 +1017,13 @@
     "twitter": "@ReactFest"
   },
   {
-    "name": "AngularCamp",
-    "url": "https://angularcamp.org",
+    "name": "JavaScript Camp",
+    "url": "https://jscamp.tech",
     "startDate": "2018-07-18",
     "endDate": "2018-07-20",
     "city": "Barcelona",
     "country": "Spain",
-    "twitter": "@AngularCamp"
+    "twitter": "@jscamptech"
   },
   {
     "name": "React Native EU",
