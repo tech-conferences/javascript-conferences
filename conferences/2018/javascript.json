@@ -1369,7 +1369,9 @@
     "endDate": "2018-11-25",
     "city": "Moscow",
     "country": "Russia",
-    "twitter": "@HolyJSconf"
+    "twitter": "@HolyJSconf",
+    "cfpUrl": "https://holyjs-moscow.ru/en/callforpapers/",
+    "cfpEndDate": "2018-09-15"
   },
   {
     "name": "VinnytsiaJS",
