@@ -1279,7 +1279,9 @@
     "startDate": "2018-11-02",
     "city": "Richmond, VA",
     "country": "U.S.A.",
-    "twitter": "@RVAJavaScript"
+    "twitter": "@RVAJavaScript",
+    "cfpUrl": "https://www.papercall.io/rvajavascript2018",
+    "cfpEndDate": "2018-08-01"
   },
   {
     "name": "NodeConf Argentina",
