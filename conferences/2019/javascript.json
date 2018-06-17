@@ -50,4 +50,13 @@
     "country": "Germany",
     "twitter": "@jsconfeu"
   },
+  {
+    "name": "EmberConf",
+    "url": "http://emberconf.com",
+    "startDate": "2019-03-18",
+    "endDate": "2019-03-20",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "twitter": "@EmberConf"
+  }
 ]
