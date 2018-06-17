@@ -1482,6 +1482,17 @@
     "cfpEndDate": "2018-07-04"
   },
   {
+    "name": "ThunderPlains",
+    "url": "https://2018.thunderplainsconf.com",
+    "startDate": "2018-11-01",
+    "endDate": "2018-11-01",
+    "city": "Oklahoma City, OK",
+    "country": "U.S.A.",
+    "twitter": "@ThunderPlains",
+    "cfpUrl": "https://cfp.techlahoma.org/events/thunderplains-2018",
+    "cfpEndDate": "2018-07-16"
+  },
+  {
     "name": "JS Camp",
     "url": "https://jscamp.tech",
     "startDate": "2018-07-18",
