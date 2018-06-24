@@ -1510,5 +1510,16 @@
     "twitter": "@mirrorconf",
     "cfpUrl": "https://www.papercall.io/mirrorconf2018",
     "cfpEndDate": "2018-07-16"
+  },
+  {
+    "name": "Vue.js London",
+    "url": "https://vuejs.london",
+    "startDate": "2018-09-21",
+    "endDate": "2018-09-21",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@vue_london",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
