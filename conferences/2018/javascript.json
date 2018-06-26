@@ -1532,5 +1532,16 @@
     "twitter": null,
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "JS Conf Armenia",
+    "url": "https://jsconf.am",
+    "startDate": "2018-11-03",
+    "endDate": "2018-11-03",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "twitter": "@jsconf.am",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
