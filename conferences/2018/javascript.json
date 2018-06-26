@@ -1521,5 +1521,16 @@
     "twitter": "@vue_london",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "NgColombia",
+    "url": "https://www.ngcolombia.com",
+    "startDate": "2018-09-06",
+    "endDate": "2018-09-07",
+    "city": "Medellin",
+    "country": "Colombia",
+    "twitter": null,
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
