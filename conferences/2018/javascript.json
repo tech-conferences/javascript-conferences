@@ -1543,5 +1543,16 @@
     "twitter": "@reactathon",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "React Dev Conf",
+    "url": "https://react.w3ctech.com",
+    "startDate": "2018-08-18",
+    "endDate": "2018-08-18",
+    "city": "Guangzhou",
+    "country": "China",
+    "twitter": null,
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
