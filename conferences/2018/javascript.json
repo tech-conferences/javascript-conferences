@@ -1532,5 +1532,16 @@
     "twitter": null,
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "Reactathon",
+    "url": "https://www.reactathon.com",
+    "startDate": "2018-09-07",
+    "endDate": "2018-09-08",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@reactathon",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
