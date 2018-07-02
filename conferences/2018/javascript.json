@@ -1554,5 +1554,16 @@
     "twitter": null,
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "CycleConf",
+    "url": "http://cycleconf.com",
+    "startDate": "2018-10-17",
+    "endDate": "2018-10-19",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@cycleconf",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
