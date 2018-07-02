@@ -1565,5 +1565,16 @@
     "twitter": "@cycleconf",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "LibertyJS",
+    "url": "https://libertyjs.com",
+    "startDate": "2018-11-01",
+    "endDate": "2018-11-02",
+    "city": "Philadelphia, PA",
+    "country": "U.S.A.",
+    "twitter": "@liberty_js",
+    "cfpUrl": "https://www.papercall.io/libertyjs-2018",
+    "cfpEndDate": "2018-09-01"
   }
 ]
