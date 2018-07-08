@@ -1576,5 +1576,16 @@
     "twitter": "@liberty_js",
     "cfpUrl": "https://www.papercall.io/libertyjs-2018",
     "cfpEndDate": "2018-09-01"
+  },
+  {
+    "name": "FrontEnd Con",
+    "url": "http://www.frontend-con.io",
+    "startDate": "2018-12-04",
+    "endDate": "2018-12-05",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@FrontEndConnect",
+    "cfpUrl": "https://goo.gl/forms/8AmjsbNS6ENtxMvI2",
+    "cfpEndDate": "2018-07-23"
   }
 ]
