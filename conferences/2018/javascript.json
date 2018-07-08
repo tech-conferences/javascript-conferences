@@ -1576,5 +1576,16 @@
     "twitter": "@liberty_js",
     "cfpUrl": "https://www.papercall.io/libertyjs-2018",
     "cfpEndDate": "2018-09-01"
+  },
+  {
+    "name": "CONNECT.TECH",
+    "url": "http://connect.tech",
+    "startDate": "2018-10-17",
+    "endDate": "2018-10-19",
+    "city": "Atlanta",
+    "country": "USA",
+    "twitter": "@connect_js",
+    "cfpUrl": "http://connect.tech",
+    "cfpEndDate": "2018-07-13"
   }
 ]
