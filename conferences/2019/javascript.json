@@ -58,5 +58,16 @@
     "city": "Portland, OR",
     "country": "U.S.A.",
     "twitter": "@EmberConf"
+  },
+  {
+    "name": "c't <webdev>",
+    "url": "https://ctwebdev.de",
+    "startDate": "2019-02-06",
+    "endDate": "2019-02-08",
+    "city": "Köln",
+    "country": "Germany",
+    "twitter": "@heiseonline",
+    "cfpUrl": "https://ctwebdev.de/international.html",
+    "cfpEndDate": "2018-08-31"
   }
 ]
