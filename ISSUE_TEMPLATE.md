@@ -1,15 +1,4 @@
-Hey, here is a conference that is missing from the list.
+If you are looking to add a new conference:
 
-```json
-  {
-    "name": "",
-    "url": "",
-    "startDate": "2018-08-17",
-    "endDate": "2018-08-19",
-    "city": "",
-    "country": "",
-    "cfpUrl": "",
-    "cfpEndDate": "",
-    "twitter": "@twitter_handle"
-  }
-```
+- Check out this repo: https://github.com/tech-conferences/conference-data
+- Add it manually here: https://confs.tech/conferences/new
